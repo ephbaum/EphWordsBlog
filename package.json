@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "Eph Words Blog on AstroPaper",
   "version": "3.0.0",
   "scripts": {
     "dev": "astro dev",
