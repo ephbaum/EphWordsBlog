@@ -3,34 +3,24 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+I'm Eph Baum. I write a bit about my name [here](https://github.com/ephbaum/#why-eph-baum) if you're interested. I'm a software engineer, curmudgeonly gaming verteran, father, husband, and human trying their best. We have common ground in that, at the very least, we're both hurtling through space on this rock, probably. Unless you're in space, or on another planet, or whatever. 
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+This is the place where I'm going to post the eph words that don't fit on my [dev blog](https://ephbaum.dev)
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
+## Blog Theme
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+I'm using the [Astro Paper theme](https://github.com/satnaing/astro-paper) from the quite talented [Sat Naing](https://satnaing.dev/)
 
-## Features
+I've been toying with the idea of a theme in the style of a an FTP index where the posts are files in the tree, tags are folders, and you can get a rendered or unrendered version of the markdown.
 
-Here are certain features of this site.
+I decided that, for the time being however, using a vanilla theme will be substantially faster, and easier, than desinging that theme, and that modifying this theme shouldn't be all that difficult either. 
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+## But what's this about?
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+It's about my need to have a place to post things. I have hundreds of draft posts of all sorts that need a home and I'm not getting any younger. 
+
+It's about sharing my extreme transparency, oversharing perhaps, but my desire to put myself out there. 
