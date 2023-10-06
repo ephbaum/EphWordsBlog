@@ -8,10 +8,10 @@ draft: false
 tags:
   - First Post
 description:
-  This is the first post that I'm including here. But amazed by my post
+  This is the first post that I'm including here. Be amazed by my post
 ---
 
-This is the first post that I'm including here. But amazed by my post
+This is the first post that I'm including here. Be amazed by my post
 
 ## H2
 
