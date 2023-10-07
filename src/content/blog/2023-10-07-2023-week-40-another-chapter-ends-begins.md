@@ -25,7 +25,7 @@ There are a lot of reasons for these changes, but simply put we've been through 
 
 In that time, too, we may have lost ourselves throughout everything else.
 
-I suggested that we divorce and start last year. I had told Lou that I couldn't be _everything_ to her, that our family, our home, couldn't be _everything_. I told her that she needed to build new connections, find a third place, make new friends. It wasn't an easy conversation and, as if often the case, I'm sure I was not careful enough with my words.
+I suggested that we divorce and start last year. I had told Lou that I couldn't be _everything_ to her, that our family, our home, couldn't be _everything_. I told her that she needed to build new connections, find a third place, make new friends. It wasn't an easy conversation and, as if often the case, I'm sure I was not careful enough with my words. It's also, really, another case of "the advice you give being the advice you probably need the most" in this case.
 
 The fact is that neither of us have been truly happy in our marriage for a while. Not exactly.
 
@@ -48,6 +48,8 @@ I've been waiting for Lou for a long time. She's been waiting too.
 We need to stop waiting and start living.
 
 I recognize this is for the best, even if that recognition doesn't make it any easier.
+
+It's been made clear to me that I definitely need some space to work on myself as well. It's time for some introspection, personal reflection. This is another opportunity for me to grow.
 
 And this doesn't change the incredible life that we've had, the good and wonderful times that we've shared, the love that we shared. When times were good, they were great when times were bad, they were the worst. As of today we've been married 4,717 days -or- 12 years 11 months and I wouldn't trade any of them for the world.
 
