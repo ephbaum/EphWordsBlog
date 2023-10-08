@@ -6,7 +6,7 @@ featured: false
 draft: false
 tags:
   - ephandlou
-description: Placeholder description for imported post from ephandlou.com
+description: A bit rushed - Lou returns from DC - DC's The Flash - Burger ASAP - The Hobbit - Bremerton City Council approves updated camping ordinance - another farmer's market - Lou & I had a brunch date - Lou attended local Stand Down event
 ---
 
 Another Saturday post is here and I'm staring at this interface thinking about what I should write about this week.
@@ -51,7 +51,7 @@ Meanwhile I'm hopeful that Mayor Wheeler will deliver on his, albeit vague and s
 
 Thursday was another beautiful day.
 
-After work I spent the afternoon and evening at Evergreen Rotary Park with Lou at her American Red Cross table.
+After work I spent the afternoon and evening at Evergreen Rotary Park for the Bremerton Farmer's Markit with Lou at her American Red Cross table.
 
 It was an incredibly lovely day for the market.
 
