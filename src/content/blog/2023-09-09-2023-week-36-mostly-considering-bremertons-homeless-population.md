@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - ephandlou
-description: Placeholder description for imported post from ephandlou.com
+description: Labor Day - Reflection - Shopping Downtown - Reflecting on the homeless - Bremerton' Camping Ordinance
 ---
 
 ![Featured Image](../../assets/images/2023/09/IMG_5872.jpeg)
