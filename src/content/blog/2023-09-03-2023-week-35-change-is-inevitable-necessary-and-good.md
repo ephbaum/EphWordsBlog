@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - ephandlou
-description: Placeholder description for imported post from ephandlou.com
+description: Ozz is now Liz! - Liz is going to a brick and mortar school - a movie date with the kiddo to see the new Indiana Jones movie (on National Cinema Day) - Red Cross at Bremerton Farmers Market (VOLUNTEER OPPORTUNITIES ABOUND!)
 ---
 
 ![Featured Image](../../assets/images/2023/09/IMG_5873.jpeg)
