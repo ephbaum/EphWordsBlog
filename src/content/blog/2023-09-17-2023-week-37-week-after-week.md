@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - ephandlou
-description: Placeholder description for imported post from ephandlou.com
+description: Sept. 11th 22nd anniversary rememberance - Lou & I had a walking date - Lou ran for, and was elected to, the board of Kitsap Community Food Coop - cooling temps - 7 miles at Newberry - Lou flew to DC for SCAN - Liz disciplined - The Hobbit
 ---
 
 ![Featured Image](../../assets/images/2023/09/IMG_5984.jpeg)
@@ -18,7 +18,7 @@ Sometimes it feels like I'm just living life on hard mode.
 
 This week marked the 22nd anniversary of the Sept. 11th, 2001 attack, which always brings a lot of reflection. Memories of watching events unfold that day are seared into my memory. As a young, naïve father of two, it was terrifying to watch and think about the world my kids would inherit.
 
-I find it interesting that so many people who were young or not even alive then, despite having heard about it their entire lives, don't see its significance in the same way. It makes me feel old. I agree with the sentiment that the death of a few thousand Americans was used to justify occupying Afghanistan for two decades, and that's pretty terrible. But, the memory of watching people fall from those towers live on television will never leave me. September 11th will always be somber for me. Kebause trauma.
+I find it interesting that so many people who were young or not even alive then, despite having heard about it their entire lives, don't see its significance in the same way. It makes me feel old. I agree with the sentiment that the death of a few thousand Americans being used to justify occupying Afghanistan for two decades is pretty terrible. But, the memory of watching people fall from those towers live on television will never leave me. September 11th will always be somber for me. Kebause trauma.
 
 On that somber note, on to the week as it unfolded:
 
