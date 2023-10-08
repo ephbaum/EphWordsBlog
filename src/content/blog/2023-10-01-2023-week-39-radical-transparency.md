@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - ephandlou
-description: Placeholder description for imported post from ephandlou.com
+description: Kitsap Community Food Coop Annual Meeting - KCFC Board Meeting - DSA - Ashley's Pub - Helm's Deep and then some.
 ---
 
 ![Featured Image](../../assets/images/2023/10/IMG_6252.jpeg)
@@ -30,7 +30,7 @@ It's important to stay informed, but not to get lost in it.
 
 Since it does no good to dwell on these awful things that outside of my control and instead I try to focus on the positives and the things that are within my control.
 
-> "You can do anything, but you can't do everything"
+> You can do anything, but you can't do everything
 
 To that end I'm trying to engage more in my community, give back where I can, and generally do good.
 
@@ -50,11 +50,11 @@ Ollie is becoming quite the hiking buddy and I absolutely love taking him out on
 
 He still seems to hate German Shepherds. He just does not seem capable to giving them a pass whether they are black and tan or tan and black or whatever. Most dark colored dogs bother him. Also Rottweilers, and other _mean_ looking dogs.
 
-Golden Retrievers, on the other hand, seem to be his most favorite breed. It's likely related to having had such a good time with one during his time in puppy classes, if I were to guess. He got a chance to re-meet a Golden Retriever he's met before name Mabel Syrup. We'd met Mabel and her human, Ashley, previously. I was told that she learned that she had a relative, an aunt perhaps, named Mabel, but that the dog wasn't named for her or the character in Gravity Falls, about whom I'd inquired. I've since recalled, and wondered, if she's named after the [fictional author](https://calvinandhobbes.fandom.com/wiki/Mabel_Syrup) from my beloved Calvin & Hobbes. I knew the name sounded familiar, and it hit me after our first meting. I suspect it exceedingly unlikely this the name's source, but I kind of hope it is. Perhaps I'll meet Ashley again and be able to ask 🤔
+Golden Retrievers, on the other hand, seem to be his most favorite breed. It's likely related to having had such a good time with one during his time in puppy classes, if I were to guess. He got a chance to re-meet a Golden Retriever he's met before name Mabel Syrup. We'd met Mabel and her human, Ashley, previously. I was told that she learned that she had a relative, an aunt perhaps, named Mabel, but that the dog wasn't named for her or the character in Gravity Falls, about whom I'd inquired. I've since recalled, and wondered, if she's named after the [fictional author](https://calvinandhobbes.fandom.com/wiki/Mabel_Syrup) from my beloved Calvin & Hobbes. I knew the name sounded familiar, and it hit me after our first meting. I suspect it's exceedingly unlikely this the name's source, but I kind of hope that it is. Perhaps I'll meet Ashley again that I might ask her. 🤔
 
-He also met another little _terrorier_ that seemed hell-bent on barking at my little Ollie leaving him acting rather confused about why he wasn't able to sniff his new friend's butt. 🤣
+Ollie also met another little _terrorier_ that seemed hell-bent on barking at my little Ollie leaving him acting rather confused about why he wasn't able to sniff his new friend's butt. 🤣
 
-In the evening Lou and I attended the Kitsap Community Food Coop's [annual meeting](https://kitsapfood.coop/news/annual-meeting-recap/) at Crane's Castle Brewing in East Bremerton. It was a wonderful time getting got to meet some great people involved in the coop. I've long been interested in the coop's mission but have put off becoming members due to a variety of reasons. Now that we've done and Lou is on the board, I have an even more acute interest in it the business, because it's now my business. I own it, at least in part.
+In the evening Lou and I attended the Kitsap Community Food Coop's [annual meeting](https://kitsapfood.coop/news/annual-meeting-recap/) at Crane's Castle Brewing in East Bremerton. It was a wonderful time getting got to meet some great people involved in the coop. I've long been interested in the coop's mission but have put off becoming members due to a variety of reasons. Now that we've done and Lou is on the board, I have an even more acute interest in it the business, because it's now my business. I own it, at least in part. (That's how a [coop works](https://kitsapfood.coop/terms-of-membership/))
 
 It was, overall, an excellent evening even if social events tend to be rather draining foor me and my well might have been running a bit low already following my hike earlier that day. I think I did pretty well, however, and I enjoyed meeting some of the other folks involved in making the coop run right now. I will credit Jeff, the president of the board, with doing a decent job of inspiring me to further give-a-shit about the [little coop that could](https://www.kuow.org/stories/the-little-kitsap-co-op-that-could).
 
@@ -104,17 +104,19 @@ Another big day, Thursday began with having to drug our dog before ultimately ta
 
 The surgery was successful, Ollie did well, and now we have a dog recovering from castration wearing a cone and being drugged up on trazodone. Which is super sad 😞
 
-Ollie's resignation to his new cone is so sad, like, he just has a cone and that's just how things are now. I'm not sure how to articulate what's sad about that, but it's definitely sad.
+Ollie's resignation to his new cone is so sad, it's like he just has a cone now and that's just how things are and he is just resigned to it. I'm not sure how to articulate what's sad about that, but it's definitely sad.
 
-Lou was not feeling great in the morning, but still made an attempt to help the Coop with their table at the Bremerton Farmer's Market. I stayed home with Ollie who was just ever so pitiful. I would have liked to get a hike in for the day, as I so often do on Thursdays, but alas the rain, the dog, other factors all resulted in a skip for the day. I may yet make it up even if it's a little time out tomorrow (Sunday).
+Lou was not feeling great in the morning, but still made an attempt to help the coop with their table at the Bremerton Farmer's Market. I stayed home with Ollie who was just ever so pitiful. I would have liked to get a hike in for the day, as I try to do on Thursdays, but alas the rain, the dog, and other factors all resulted in my taking a pass for the day. I may yet make it up even if it's a little time out tomorrow (Sunday).
 
-Liz arrived home from school telling us that she'd lost her phone. Apparently it had disappeared early in the day but for some reason she was unable to call us due to not knowing our phone numbers (she'd been taught) and the school's systems were down. I immediately popped open Find My and saw the phone at an address in East Bremerton just north of the library. We drove up. It was a little bit ambiguous on the map and the first house we tried had a very eldery man who was clueless to my queries but very pleasantly assured me that I'd have a good day.
+Liz arrived home from school telling us that she'd lost her phone. Apparently it had disappeared early in the day but for some reason she was unable to call us due to not knowing our phone numbers (though she's been taught) and the school's contact system was down. I immediately popped open Find My and saw the phone at an address in East Bremerton just north of the library on Sylvan Way. Sp we hoped in the care drove up. It was a little bit ambiguous on the map and the door of the first house I tried was answered by an extremely eldery man who was clueless to my queries but very pleasantly assured me that I'd have a good day all the same.
 
 I tried the house next door which and the door was answered by a middle-school aged kid who immediately asked who I was. I gave my name and asked for a parent. I confirmed that he went to Mountain View. I explained that my child's phone's GPS was reporting that it was there and suggested that perhaps the phone had been "found" and just not turned in. I was asked if I could have the phone make noise since this kid claimed ignorance. We heard it in the house, the kid went and brought it from his room with an extreme act of ignorance and confusion. The phone was fine though missing its case (which wouldn't be so annoying had we not just replaced the case recently). I thanked them and was on my may glad that it hadn't turned into some kind of altercation.
 
 While at the Farmer's Market Lou found another produce vendor selling [ground cherries](https://en.wikipedia.org/wiki/Physalis) and, as I'd been talking about missing and wanting them for the nearly the entirety of our nearly 15 years together, she bought a couple of containers worth of them! As it has been more than 30 years since I'd first (and last) enjoyed the delicious flavor with font memories of shucking the delicious fruits from the delicate Chinese-lantern like paper wrappers and eating them right in the garden when I lived on 36th and Fremont in Minneapolis with my mother. I may have cried a little bit eating some of them they were so delicious as I'd remembered, and extremely unique in their flavor profile.
 
 In the evening we found ourselves at Helm's Deep Tavern in the basement of Game Wizard and Blue Sky Hobbies across from Ashley's Pub for a meeting of the local chapter of the [DSA](https://www.facebook.com/westsoundDSA/). Helm's Deep is an interesting experience. I _had_ checked out the tavern once before, but only as a brief pass through, this was the first time attending one of their bookable rooms.
+
+To be honest, the service was kind of terrible. As Lou and I desecended the stairs the bar tender saw us and immediately put up a sign indicating that he as on break and he walked away. When he finally returned he managed to pull the wrong taps twice. On the plus side we wound up with a free drink out of the deal, but it was still not the greatest first experience there.
 
 The Democratic Socialists of America meeting was pretty loosely structured. We didn't recite any Marxist texts but instead mostly chatted about the state of affairs in which we all find ourselves.
 
@@ -128,7 +130,7 @@ Now on to:
 
 Friday began with Lou's discomfort for the second day in a row, though this time a little different. This pain has continued to today, as it has done for some time. Lou has long struggled with some symptoms like that of IBS: sharp pinching pains in her abdomen, among other pain signals. This often happens whens she's stressed, or anxious. It's also related to what she consumes. She thankfully has taken some time to rest but, unfortunately, that has meant that she hasn't been as productive as she's wanted which has here bummed out. We remain uncertain of the ultimate trigger this time, but she does seem to be recovering.
 
-She did spend some time at the coop in the afternoon trying to train at the store. Her goal is to volunteer her time to cover a vacation for the store manager, Nathan,  who has not had a break since last year due to staffing and budget issues.
+She did spend some time at the coop in the afternoon trying to train at the store. Her goal is to volunteer her time to cover a vacation for the store manager, Nathan, who has not had a break since last year due to staffing and budget issues.
 
 Meanwhile, I spoke with another person from American Red Cross who screened me for the role to which I've applied. I'm excited and hopeful that I am able to do some good.
 
@@ -140,7 +142,7 @@ Lou was still not feeling well this morning. I made us some French toast and we 
 
 In the afternoon I did a little yard cleanup in the pack.
 
-In anticipation of Spoopy Movie Month I picked up a few scary looking movies for which I am excited to watch. Including Boogeyman, Talk to Me, and X.
+In anticipation of Spoopy Movie Month I bought a few scary movies for which I am excited to watch. Including Boogeyman, Talk to Me, and X.
 
 For dinner we got the consistently delicious 4 Sisters and watched the not-really-a-horror movie [The Wrath of Becky](https://www.imdb.com/title/tt20916568/) which was silly, a bit heavy handed, unnecessarily obvious, but ultimately a fun time.
 
