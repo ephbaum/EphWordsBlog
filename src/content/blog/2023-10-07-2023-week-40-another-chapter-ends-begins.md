@@ -11,65 +11,71 @@ description: The final post of ephandlou.com
 
 # Another Chapter Ends, Begins
 
+> Updated: 9 October 2023 - I've tried to add a little clarity through some minor edits as well as clean up some minor mistakes. A diff might be found [here](https://github.com/ephbaum/EphWordsBlog/commits/main)
+
 This will be the final post on ephandlou.com. I'm going to tear this blog down and migrating the posts to my new blog: [ephwords.com](https://ephwords.com).
 
-There will no longer be Eph & Lou. At least, not in the way this site was meant.
+There will no longer be Eph & Lou. At least, not in the way the site was intended.
 
-Lou and I have separated this week and are actively discussing the next steps in ending our marriage. She has decided that she wants to leave, to go out on her own, and to focus on herself and her needs.
+Lou and I have separated this week and are actively discussing the next steps in ending our marriage. She has decided that she wants to leave, to go out on her own, and to focus on herself and her needs. I support her in this decision and believe that it's best for me, too, to take some time for myself to figure out who I am.
 
-Our goal is to remain friends, and of course we will remain co-parents to Liz, but our marriage is, effectively, over. We'll be working out a plan to co-parent our child, and, to continue our relationship in its new form.
+Our goal is to remain friends and, of course, we will remain co-parents to our lovely Liz, but our marriage is, effectively, over.
 
 I've spoken a bit in the past about the changes that we've undergone, that we are no longer the same humans that married 13 years ago as of November 7th. Our changes as people has had a lot to do with why we changed our names.
 
-There are a lot of reasons for these changes, but simply put we've been through a lot over the last 15 years we've been together.
+There are a lot of reasons for these changes, but to put it simply: we've been through a lot over the last decade and a half that we've been together.
 
-In that time, too, we may have lost ourselves throughout everything else.
+In that time we may have lost ourselves throughout everything else.
 
-I suggested that we divorce and start last year. I had told Lou that I couldn't be _everything_ to her, that our family, our home, couldn't be _everything_. I told her that she needed to build new connections, find a third place, make new friends. It wasn't an easy conversation and, as if often the case, I'm sure I was not careful enough with my words. It's also, really, another case of "the advice you give being the advice you probably need the most" in this case.
+I suggested that we divorce last year as part of turning the page and closing that chapter of our lives, though we decided, ultimately, against that path at that time.
 
-The fact is that neither of us have been truly happy in our marriage for a while. Not exactly.
+Additionally, I told Lou that I couldn't be _everything_ to her, that our family and our home, couldn't be _everything_ for her. I suggested that she needed to build new connections, find a third place, to try to make new friends here in our new home. It wasn't an easy conversation and, as is often the case, I probably was not careful enough with my words. It's also, really, another case of "the advice you give being the advice you probably need the most".
 
-But of course it's extremely complicated.
+Ultimately, though, she's been doing exactly that. I'm extremely happy for her to have begun to build a new life for herself here, that she's been focused on doing good. If you've met Lou you're aware of her beautiful and caring soul, and it's been wonderful to see her engage in positive ways in the community.
+
+The fact is that neither of us have been truly happy in our marriage for a while. Not exactly. We've been happy and married but those things haven't necessarily been connected, at least not all the time.
+
+Of course it's all extremely complicated.
 
 To be clear: I love Lou. I love them with all my heart. I don't think that's ever going to change.
 
-I am at peace, while simultaneously gutted over how all of this has played out this week. I did not want things to go quite like this, and still had hope that things could be salvaged, that we could find ourselves while together.
+I am at peace, while simultaneously gutted, over this situation. I'm not entirely happy with how all of this has played out this week. I did not want things to go quite the way they have, I still had hope that our marriage could be salvaged, that we could find ourselves together.
 
-That's truly what this comes down to: we have lost ourselves. The main thing that Lou expressed is a desire for space to figure out who she is now; without me.
+That's truly what this comes down to: we have lost ourselves. The main thing that Lou expressed is a desire for space to figure out who she is now; without me. I think I've known for a while that I need the same.
 
-To be frank: I've known for a while that I need the same.
-
-I've been, as a better term does not come to mind, waiting. I've been waiting for Lou to find herself, I've been waiting for us to get back on track, I've been waiting for us to get back to our adventures, back to our life. I've been, perhaps, waiting for the right time to take the space I need, for us to be able to take a break.
+I've been, as a better term does not come to mind, waiting. I've been waiting for Lou to find herself, I've been waiting for us to get "back on track", I've been waiting for us to get back to our adventures, back to our life. I've been, perhaps, waiting for the right time to take the space I need, perhaps even for us to be able to take a break.
 
 There will never be a right time, though, and there's no time like the present.
 
-I've been waiting for Lou for a long time. She's been waiting too.
+I've been waiting for Lou for a long time. She's been waiting too, waiting to find herself, waiting to begin again.
 
 We need to stop waiting and start living.
 
 I recognize this is for the best, even if that recognition doesn't make it any easier.
 
-It's been made clear to me that I definitely need some space to work on myself as well. It's time for some introspection, personal reflection. This is another opportunity for me to grow.
+On top of my own awareness, I've had friends make clear to me that I definitely need some space to work on myself as well. It's time for some introspection, personal reflection. This is another opportunity for me to grow.
 
-And this doesn't change the incredible life that we've had, the good and wonderful times that we've shared, the love that we shared. When times were good, they were great when times were bad, they were the worst. As of today we've been married 4,717 days -or- 12 years 11 months and I wouldn't trade any of them for the world.
+And none of this changes the incredible life that we've had, the good and wonderful times that we've shared, the love that we shared. When times were good, they were great, and when times were bad, they were absolutely the worst.
 
-We, Lou and I, have been through a hell of a lot of challenges together.
+As of today we've been married 4,717 days -or- 12 years 11 months and I wouldn't trade any of them for the world.
 
-I also want to be clear that I don't think that this necessarily means that we'll never be together again, that this is the final chapter for Eph & Lou. But for now, there's no point in maintaining this website, and since Lou never contributed, it makes sense for me to migrate the posts to a different personal blog that I've been thinking about building for a while.
+To repeat: Lou and I, have faced a hell of a lot of challenges together.
+
+I also want to be clear that I don't think that this necessarily means that we'll never be together again, that this is the final chapter for Eph & Lou. But for now, there's no point in maintaining the Eph & Lou website, and since Lou never contributed, it makes sense for me to migrate the posts to a different personal blog about which I've been considering building for some time.
 
 With this super heavy preamble out of the way, let me recount the week as it happened as I do.
 
 ## Sunday
 
-As I had mentioned [last week](/2023-week-40), Lou had not been feeling well, that was true Sunday as well though she seemed to be on the mend and was a bit more active. It was Waffle Day, perhaps our last Waffle Day together. They were good waffles.
+As I had mentioned [last week](/posts/2023-week-39), Lou had not been feeling well, that was true Sunday as well though she seemed to be on the mend and was a bit more active. It was Waffle Day, perhaps our last Waffle Day together. They were good waffles.
 
 Liz really wanted some hammock time after we'd cleaned up in the back yard the day prior, so I helped her get the hammock hung with an underquilt. It was a nice little set up and she enjoyed some nice quiet, relaxing, hammock time in the back yard.
 
 Lou and I kind of hung out in the morning. We "watched" some Halloween Baking Championship shows, which is always fun while we both got some things done and then after lunch I ran to grab a few groceries.
 
-Being October 1st it began Spoopy Movie Month. I got a few movies for us to watch: Talk to Me, Boogeyman, X, and Pearl.
+Being October 1st Spoopy Movie Month has begun. I picked up a few movies for us to watch: Talk to Me, Boogeyman, X, and Pearl.
 
-We watched [Talk to Me](https://www.imdb.com/title/tt10638522/) and it was an excellent horror movie, one of the best I've seen in a while. It had, of course, the usual plot holes, poor decisions necessary to propel the story but that would never be made by real humans under the circumstance, etc. It had some viscerally awful shots that were truly difficult to watch. It was a great start tot he horror season.
+We watched [Talk to Me](https://www.imdb.com/title/tt10638522/) and it was an excellent horror movie, one of the best I've seen in a while. It had, of course, the usual plot holes and poor decisions necessary to propel the story but that would never be made by real humans under the circumstance, etc. It had some viscerally awful shots that were truly difficult to watch. It was a great start tot he horror season.
 
 For dinner we had curry sauerkraut Rachels that were absolutely bomb.
 
@@ -102,7 +108,7 @@ I made a simple dinner of pesto sauce spaghetti (making it delicious by using so
 
 Lou was gone all day for a facilitation training by [MENTOR Washington](https://mentorwashington.org/) that sounds to have been an excellent experience.
 
-We then, leaving Ollie with Liz, went down to Ashley's Pub for an "emergency" meeting to plan for how to save the Kitsap Community Food Coop. The budget appears dire. It's likely that, based on the current forecasting, they will run entirely out of money by January, which is just in time for the [rise in minimum wage](https://www.lni.wa.gov/news-events/article/23-29) in Washington to $16.28 an hour. There were a lot of good ideas shared and, while things seem dire, I continue to have hope that KCFC will ultimately weather this storm and come out the other side stronger. It seems like there's such a minor gap between what will ultimately be their success for failure that I feel confident it will work out in the long run.
+We then, leaving Ollie with Liz, went down to Ashley's Pub for an "emergency" meeting to plan for how to save the Kitsap Community Food Coop. The budget appears dire. It's likely that, based on the current forecasting, they will run entirely out of money by January, which is just in time for the [rise in minimum wage](https://www.lni.wa.gov/news-events/article/23-29) in Washington to $16.28 an hour. There were a lot of good ideas shared and, while things seem dire, I continue to have hope that KCFC will ultimately weather this storm and come out the other side stronger. It seems like there's such a minor gap between what would ultimately be their success and failure that I feel confident it will work out in the long run.
 
 ## Wednesday
 
@@ -110,7 +116,7 @@ Wednesday morning Lou told me that she wanted to separate from me to work on her
 
 I decided not to work and to take some time to breath. I turned on [Body on Brighton Rock](https://www.imdb.com/title/tt7942746/) which was a good effort if a bit amateurish and definitely not actually a horror film despite featuring paranormal and zombie elements.
 
-I also ran a few errands that needed run to Walgreens and Petco. I also grabbed some sushi from lunch.
+I also ran a few errands that needed run going to Walgreens and Petco. I also grabbed some sushi from lunch.
 
 Lou came home for a bit in the afternoon and seemed semi-affectionate in a way that I found a bit confusing after our earlier conversation. I really wish I had a better sense of how to handle this sort of situation.
 
@@ -166,7 +172,7 @@ I woke up alone.
 
 I cried.
 
-Lou showed up unannounced to take a shower and grabbed some things.
+Lou showed up unannounced to take a shower and grab some things.
 
 Then I did some work.
 
@@ -174,7 +180,7 @@ I had some struggles with focus, as you might imagine, but ultimately I made som
 
 I also attended the American Red Cross Disaster Services orientation and then had a nice chat with the Disaster Workforce Engagement Manager for the Northwest region about how I might be able to help him out.
 
-I'm eager to volunteer, to do something that feels good. I'm, frankly, feeling a bit unhappy in my work in the automotive industry after 6 years and wonder volunteer for a humanitarian organization can help me achieve a sense of balance or even lean toward feeling better about myself and what I'm doing.
+I'm eager to volunteer, to do something that feels good. I'm, frankly, feeling a bit unhappy in my work in the automotive industry after 6 years and wonder volunteer for a humanitarian organization can help me achieve a sense of balance or even lean toward feeling better about myself and what I'm doing. I'm also eager to make sure that I don't over extend myself and burn out again.
 
 In the evening Lou brought Liz over and we all tried to talk about how we're going to move forward.
 
@@ -216,6 +222,6 @@ Even though I'm still definitely at peace about the whole thing.
 
 I'm trying not to think about the road trips Lou and I won't take now, about the plans we'd made for so long that are no longer on the horizon like the property we were working toward and the work we were going to do.
 
-I knew 2023 was going to be a significant year, but it's definitely not turning out quite as I expected with it all [started](/2023-week-1)
+I knew 2023 was going to be a significant year, but it's definitely not turning out quite as I expected with it all [started](/posts/2023-week-1)
 
 Until next weekend, when I expect I'll have pulled down ephandlou.com and, likely, will have set up some redirects to [ephwords.com](https://ephwords.com)
