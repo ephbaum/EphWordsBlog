@@ -7,6 +7,7 @@ featured: false
 draft: false
 tags:
   - ephandlou
+  - saturday-post
 description: Ozz is now Liz! - Liz is going to a brick and mortar school - a movie date with the kiddo to see the new Indiana Jones movie (on National Cinema Day) - Red Cross at Bremerton Farmers Market (VOLUNTEER OPPORTUNITIES ABOUND!)
 ---
 

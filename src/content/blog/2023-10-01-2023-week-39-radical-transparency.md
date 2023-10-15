@@ -7,6 +7,7 @@ featured: false
 draft: false
 tags:
   - ephandlou
+  - saturday-post
 description: Kitsap Community Food Coop Annual Meeting - KCFC Board Meeting - DSA - Ashley's Pub - Helm's Deep and then some.
 ---
 

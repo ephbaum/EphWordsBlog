@@ -7,6 +7,7 @@ featured: false
 draft: false
 tags:
   - ephandlou
+  - saturday-post
 description: Sept. 11th 22nd anniversary rememberance - Lou & I had a walking date - Lou ran for, and was elected to, the board of Kitsap Community Food Coop - cooling temps - 7 miles at Newberry - Lou flew to DC for SCAN - Liz disciplined - The Hobbit
 ---
 

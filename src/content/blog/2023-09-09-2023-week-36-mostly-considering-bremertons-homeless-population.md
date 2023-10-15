@@ -7,6 +7,7 @@ featured: false
 draft: false
 tags:
   - ephandlou
+  - saturday-post
 description: Labor Day - Reflection - Shopping Downtown - Reflecting on the homeless - Bremerton' Camping Ordinance
 ---
 
