@@ -43,7 +43,7 @@ Let me recap the week in sequence, as I generally do:
 
 Sunday was huge day in multiple ways.
 
-As I believe I had mentioned [last week](/2023-week-38) that Lou was chaperoning a birthday party for one of Liz's friends. They stayed at a hotel on Saturday evening after doing some bowling, and then enjoying some time in the pool. On Sunday they continued the party by attending the [Poulsbo Pride](https://www.facebook.com/groups/977171096651274/) event at Frank Raab Park in Poulsbo. I'm told it was an absolutely wonderful time for the kids.
+As I believe I had mentioned [last week](/posts/2023-week-38) that Lou was chaperoning a birthday party for one of Liz's friends. They stayed at a hotel on Saturday evening after doing some bowling, and then enjoying some time in the pool. On Sunday they continued the party by attending the [Poulsbo Pride](https://www.facebook.com/groups/977171096651274/) event at Frank Raab Park in Poulsbo. I'm told it was an absolutely wonderful time for the kids.
 
 While this was happening, however, I hiked 7.69 miles at Newberry Hill Heritage Park with Ollie. It was a fantastic hike and one I'd really needed. I had a lovely time and I got to fill in more of the my map "official" map in Gaia GPS by hiking up to the northern part of the park filling in a few of the trails up near Klahowya (as an aside, I've hiked every trail at Newberry but decided to "100% it" using GPS). I'm extremely grateful to have had the change to get out there and do a some hiking meditation and enjoy some mindfulness praactice.
 

@@ -19,7 +19,7 @@ The theme of this week continues to be consolidation and organization. The numbe
 
 Also, Ollie needs new treats, toys, and clothes 😅
 
-Sunday of this week saw Lou returning from her adventures on the other side of the cascades that I talked about [last week](/2023-week-12).
+Sunday of this week saw Lou returning from her adventures on the other side of the cascades that I talked about [last week](/posts/2023-week-12).
 
 Monday was uneventful.
 

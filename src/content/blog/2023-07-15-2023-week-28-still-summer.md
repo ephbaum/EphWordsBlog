@@ -17,7 +17,7 @@ Just as every other week I've shared here on this blog, this week follows suit, 
 
 Admittedly, there aren't many updates this week. Our days have been chock-full yet, nothing particularly noteworthy jumps out. There's no need to provide a day-by-day breakdown.
 
-In [last week's post](/2023-week-27), I shared the saga of my car's impromptu weekend stay at the service center for an oil change and a surprise coolant leak. As I'd explained this unforeseen occurrence prompted us to finally take the leap and invest in that second vehicle we've been considering.
+In [last week's post](/posts/2023-week-27), I shared the saga of my car's impromptu weekend stay at the service center for an oil change and a surprise coolant leak. As I'd explained this unforeseen occurrence prompted us to finally take the leap and invest in that second vehicle we've been considering.
 
 I was reunited with my car on Monday only for it to throw a check engine code the very next day. Initially, the rep at MaxRPM tried to assure me the code was unrelated to their repairs, but common sense prevailed. Surely, the timing of the car throwing a code for the first time right after the recent engine work was a little too coincidental. They took the car back for a day, and thankfully, only charged me for the hose and sensor assembly they replaced, sparing me the labor costs.
 
