@@ -18,8 +18,8 @@ dir="${script_dir}/../src/content/blog/"
 # Check if directory exists, create if not
 mkdir -p $dir
 
-# Current datetime in ISO 8601 format
-current_datetime=$(date -u +"%Y-%m-%dT%H:%M:%S.000Z")
+# Current datetime in ISO 8601 format, local time
+current_datetime=$(date +"%Y-%m-%dT%H:%M:%S.000%z")
 
 # Create the markdown file with default frontmatter
 echo "---" > "${dir}${file_name}"
