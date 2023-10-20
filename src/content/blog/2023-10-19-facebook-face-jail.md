@@ -16,7 +16,7 @@ My daughter sent an impassioned and persuasive text message recently that the be
 
 She has expressed clearly that VR is her **passion**.
 
-She explained that the features that made it a solution for her needs including:
+She explained the features that make it a solution for her needs, including:
 
 - Wireless
 - Passthrough Mode
