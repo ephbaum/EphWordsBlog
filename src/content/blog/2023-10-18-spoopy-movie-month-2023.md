@@ -71,6 +71,8 @@ This year I've run a lot of movies in a quest for some normalcy.
 |    42    | Oct 17, 2023 | The Offering                                 |     2022     |
 |    43    | Oct 18, 2023 | Scream 3                                     |     2000     |
 |    44    | Oct 18, 2023 | Scream 2                                     |     1997     |
+|    45    | Oct 19, 2023 | Scream                                       |     1996     |
+|    46    | Oct 19, 2023 | Monster House                                |     2006     |
 
 ## A Few Notes
 
