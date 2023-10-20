@@ -5,15 +5,19 @@ title: "About"
 
 I'm Eph Baum. I wrote a bit about my name [here](https://github.com/ephbaum/#why-eph-baum) if you're interested (and recently migrated that content to this very blog [here](/posts/why-eph-baum)). I'm a software engineer, curmudgeonly gaming "veteran", father, partner, friend, and human trying their best.
 
-I've worn a lot of hats, have a lot of experience, tons of passions, and a strong desire to
+I've worn a lot of hats and had many varied experiences. I've many interests and passions.
 
-We have common ground in that, at the very least, we're both hurtling through the black void on this rock, probably. Unless you're in space, or on another planet, or some other plane of existence, or whatever.
+<img src="/assets/neurodiversity.jpg" class="sm:w-1/2 mx-auto" alt="SpongeBob Rainbow Meme - Neurodiversity">
+
+<p class="text-center">I'm neurodiverse.</p>
+
+I have a strong desire to share with others.
+
+We have common ground in that, at the very least, we're both hurtling through the black void on this rock, probably. Unless you're in space, or on another planet, or in some other plane of existence, or whatever.
 
 This is the place where I'm going to post the Eph words that don't fit on my [dev blog](https://ephbaum.dev).
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+<img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 
 ## Blog Theme
 
