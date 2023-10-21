@@ -8,7 +8,6 @@ draft: false
 tags:
   - Bremerton, WA
   - cryptids
-  - I want to believe
   - paranormal
 description: Thoughts on Bremerton's Cryptid Shrimpy
 ---
