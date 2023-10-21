@@ -7,8 +7,9 @@ featured: false
 draft: false
 tags:
   - ephandlou
-  - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+  - accountability
+  - self-care
+description: To truly progress you must move toward that which makes you uncomfortable, toward challenge.
 ---
 
 ![Featured Image](https://images.unsplash.com/photo-1578637959542-ab12e1cbf39c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDZ8fHNjYXJ5JTIwd29vZHN8ZW58MHx8fHwxNjUxNzkxNjI2&ixlib=rb-1.2.1&q=80&w=2000)
@@ -53,7 +54,7 @@ To that end I have already begun working toward my proving trip.
 
 As I mentioned, I have begun a new routine of at least 2 hikes per week of 5+ miles and at least 500 ft of elevation gain.
 
-Last Saturday I took a big hike up [Wildcat Trail on Green Mountain](https://ephandleigh.com/trip-report-wildcat-trail-23-april-2022/) for about 10 miles and over 2000 ft. of elevation gain.
+Last Saturday I took a big hike up [Wildcat Trail on Green Mountain](/posts/trip-report-wildcat-trail-23-april-2022/) for about 10 miles and over 2000 ft. of elevation gain.
 
 It was hard work, and a somewhat humbling, but I felt like I could have put in a few more miles and while I was glad I didn't have to hike on Sunday, I felt confident that I'd have been able to do so if necessary.
 

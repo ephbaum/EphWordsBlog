@@ -6,8 +6,8 @@ featured: false
 draft: false
 tags:
   - ephandlou
-  - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+  - trips
+description: We took a family trip to Mount Rainier and, despite my injury (and extreme Summer), it was an wonderful experience (that I never captured here - I will have to finish this post eventually).
 ---
 
 This is a placeholder for reporting on the family trip we took in July 2022 to Mount Rainier

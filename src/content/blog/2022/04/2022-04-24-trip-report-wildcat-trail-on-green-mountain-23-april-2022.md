@@ -2,18 +2,19 @@
 title: Trip Report - Wildcat Trail on Green Mountain - 23 April 2022
 postSlug: trip-report-wildcat-trail-23-april-2022
 pubDatetime: 2022-04-24T12:00:00.000Z
-ogImage: ../../assets/images/2022/05/52027540243_d453e3c4de_c.jpg
+ogImage: ../../../../assets/images/2022/05/52027540243_d453e3c4de_c.jpg
 featured: false
 draft: false
 tags:
   - ephandlou
-  - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+  - hikes
+  - accountability
+description: I did an aggressive hike at Wildcat Trail on Green Mountain and wrote a doozy of a post about it. 💪
 ---
 
-![Featured Image](../../assets/images/2022/05/52027540243_d453e3c4de_c.jpg)
+![Featured Image](../../../../assets/images/2022/05/52027540243_d453e3c4de_c.jpg)
 
-Having recently [commit](https://ephandleigh.com/committing-to-something-scary/) to a goal that feels very aggressive, I decided that I needed to prove to myself that I was within range of a target I would need to hit very soon.
+Having recently [commit](/posts/committing-to-something-scary/) to a goal that feels very aggressive, I decided that I needed to prove to myself that I was within range of a target I would need to hit very soon.
 
 To that end I attacked Wildcat Trail at Green Mountain State Forest with, perhaps out-sized, enthusiasm.
 
