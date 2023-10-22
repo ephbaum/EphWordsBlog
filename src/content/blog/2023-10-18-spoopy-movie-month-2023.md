@@ -73,6 +73,9 @@ This year I've run a lot of movies in a quest for some normalcy.
 |    44    | Oct 18, 2023 | Scream 2                                     |     1997     |
 |    45    | Oct 19, 2023 | Scream                                       |     1996     |
 |    46    | Oct 19, 2023 | Monster House                                |     2006     |
+|    47    | Oct 20, 2023 | Insidious (5) The Red Door                   |     2023     |
+|    48    | Oct 20, 2023 | Terrifier                                    |     2016     |
+|    49    | Oct 21, 2023 | Oracle                                       |     2023     |
 
 ## A Few Notes
 
