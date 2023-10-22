@@ -123,7 +123,7 @@ It's almost lunch time though, so I'm going to get this posted and put a pizza i
 
 ---
 
-Have a great day and I'll see post again real soon!
+Have a great day and I'll see you again real soon!
 
 ### P.S - Horror Movie Month for Week 41:
 
