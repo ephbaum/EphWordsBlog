@@ -2,7 +2,7 @@
 title: On Bremerton's Own Cryptid - Shrimpy
 postSlug: bremerton-shrimpy
 pubDatetime: 2023-10-21T04:39:48.000Z
-ogImage: ../../assets/images/2023/10/shrimpy-basement-5-c.webp
+ogImage: /assets/images/2023/10/shrimpy-basement-5-c.webp
 featured: false
 draft: false
 tags:

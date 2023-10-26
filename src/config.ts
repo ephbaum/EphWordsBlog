@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Eph Baum",
   desc: "A place where I shout into the void.",
   title: "Eph Words",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "/assets/images/imsignificant-c.jpg",
   lightAndDarkMode: true,
   postPerPage: 10,
 };

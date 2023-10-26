@@ -2,7 +2,7 @@
 title: Hallowe'en - A (brief-ish) History
 postSlug: halloween-briefish-history
 pubDatetime: 2023-10-24T19:13:41.000Z
-ogImage: ../../assets/images/2023/10/halloween-pumpkins-c.webp
+ogImage: /assets/images/2023/10/halloween-pumpkins-c.webp
 featured: true
 draft: false
 tags:
