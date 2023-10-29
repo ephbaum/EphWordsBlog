@@ -7,7 +7,7 @@ export const SITE: Site = {
   title: "Eph Words",
   ogImage: "/assets/images/imsignificant-c.jpg",
   lightAndDarkMode: true,
-  postPerPage: 10,
+  postPerPage: 20,
 };
 
 export const LOCALE = ["en-EN"]; // set to [] to use the environment default
