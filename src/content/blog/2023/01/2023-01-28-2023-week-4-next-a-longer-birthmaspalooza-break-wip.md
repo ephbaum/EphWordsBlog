@@ -29,7 +29,7 @@ A [recent report](https://www.nature.com/articles/s41561-022-01112-z) suggests t
 
 This week I picked up the Early Access title [Tiny Rogues](https://store.steampowered.com/app/2088570/Tiny_Rogues/) as it has been on my wishlist for some reason. I've put about an hour into it so far and enjoy it. It's called:
 
-> "a challenging fantasy rogue-lite bullet-hell dungeon crawler with rpg elements"
+> a challenging fantasy rogue-lite bullet-hell dungeon crawler with rpg elements
 
 by the developer and I think that jives. I'm eager to keep playing and see its progression until release. It's been my Steam-Deck-pick-up-and-play game this week instead of Dead Cells, which I'd gone back to working through relatively recently.
 
