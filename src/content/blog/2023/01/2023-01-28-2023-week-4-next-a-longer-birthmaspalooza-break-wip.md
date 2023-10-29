@@ -2,16 +2,16 @@
 title: 2023 - Week 4 - Next - A Longer Birthmaspalooza Break (WIP)
 postSlug: 2023-week-4
 pubDatetime: 2023-01-28T05:06:00.000Z
-ogImage: ../../assets/images/2023/01/8BBEC0DC-29BA-4392-8571-2E3A1B65A251.jpeg
+ogImage: /assets/images/2023/01/leaf-face.jpeg
 featured: false
 draft: false
 tags:
   - ephandlou
   - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+description: Lou's Birthday and Bigger than Roe, I describe Thursday Hikes. The Earth's core stopped spiining. We started watching The Last of Us. We found a breeder for an American Hairless. Watched shows, movies, and played games. My father's colon cancer returned. Footage was released of Tyre Nichols death.
 ---
 
-![Featured Image](../../assets/images/2023/01/8BBEC0DC-29BA-4392-8571-2E3A1B65A251.jpeg)
+![One of myriad leaf faces I find on my hikes](/assets/images/2023/01/leaf-face.jpeg)
 
 This has been yet another week in our lives, but for Lou, Sunday marked the anniversary of another trip around the sun. I got for her Eggs Benedict from  Shari's for breakfast and then she took off to protest Roe v. Wade's repeal, on the 50th anniversary of the original decision: [Bigger Than Roe](https://www.womensmarch.com/initiatives/bigger-than-roe-march). It was quite the event and it turns out, shockingly, people still seem believe women don't deserve bodily rights.
 

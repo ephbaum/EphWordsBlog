@@ -2,16 +2,16 @@
 title: 2023 - Week 2 - Ramping Up, Doing Stuff (WIP)
 postSlug: 2023-week-2
 pubDatetime: 2023-01-15T06:30:00.000Z
-ogImage: ../../assets/images/2023/01/the-brothers.jpeg
+ogImage: /assets/images/2023/01/the-brothers-c.jpeg
 featured: false
 draft: false
 tags:
   - ephandlou
   - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+description: Second weekly Saturday post for 2023 - I'm hesitant, tentative, and unsure. I talked about trying to buy a washer/dryer combo unit and Oz's acting class. Also starting to play Infinity RPG and talked about loving this place where we live. And more. It was a post, get off my back about it.
 ---
 
-![Featured Image](../../assets/images/2023/01/the-brothers.jpeg)
+![A blurry image of The Brothers](/assets/images/2023/01/the-brothers-c.jpeg)
 
 What a week it has been.
 
@@ -31,7 +31,7 @@ While Oz was off at a sleepover with their oldest sibling on the other side of t
 
 As a side note, I can't help but see this man in this suit and not think of Mayor McCheese:
 
-![](../../assets/images/2023/01/wheeler-mccheese.jpg)
+![Mayor Wheeler and Mayor McCheese side-by-side - but in a totally-not-meant-to-be-insulting-way](../../../../assets/images/2023/01/wheeler-mccheese.jpg)
 
 I’m not sure I’ll be able to do 52 of these weekly updates for 2023 but I think I should try.
 

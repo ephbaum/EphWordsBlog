@@ -7,7 +7,7 @@ draft: false
 tags:
   - ephandlou
   - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+description: Another "WIP" project post as I tried to get into the swing of writing these posts. It's the first mention of wanting to get a dog. I also mention how important hiking meditation has become to me. I link to a couple of lovely things Lou has made and lament the slow progress on my 2023 goals, which I hadn't defined.
 ---
 
 We're now through the third week of 2023. The market continues to fluctuate, COVID continues rage, wealth inequality remains rampart, society is polarized, and the planet continues to burn. The news is asking where millions of missing American workers have gone. Meanwhile, tech and media layoffs continue, which has reflecting on my own role and value.
