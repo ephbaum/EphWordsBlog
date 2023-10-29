@@ -1,8 +1,8 @@
 ---
 title: Spoopy Movie Month 2023 (WIP)
 postSlug: spoopy-movie-month-2023
-pubDatetime: 2023-10-18T18:26:00.000Z
-ogImage: ../../assets/images/2023/10/spoopy-dall-e.webp
+pubDatetime: 2023-10-28T18:26:00.000Z
+ogImage: /assets/images/2023/10/spoopy-movie-dall-e-c.webp
 featured: false
 draft: false
 tags:
@@ -12,17 +12,17 @@ tags:
 description: The movies I've watched for Spoopy Movie Movie (FKA Halloween Movie Month) 2023 (this post will be updated as I watch additional movies).
 ---
 
-![DALL-E Generated Halloween Image](../../assets/images/2023/10/spoopy-dall-e.webp)
+![DALL-E Generated Spoopy Halloween Movie Image](../../assets/images/2023/10/spoopy-movie-dall-e-c.webp)
 
-As I love horror movies & Halloween. Every October (aka Halloween Month) I "watch" a slew of horror movies.
+As I love horror movies & Halloween: every October (aka Halloween Month) I "watch" a slew of horror movies.
 
-Autumn is my favorite season and my favorite time of year. Halloween is my favorite holiday. Halloween month is my favorite month. You get it.
+Autumn is my favorite season and my favorite time of year. Halloween is my favorite holiday. Halloween month is my favorite month. You get it, yeah?
 
-Watching a slew of spoopy movies has been a tradition for most of my life. Recording these lists on spreadsheets started many years ago with a good friend. I now have many years of spreadsheets collecting all the horror movies I watched each year. One year was just 100% Netflix and another year I watched mostly _old_ horror movies. This year hasn't had a theme, I've just sort of watched things.
+Watching a bunch of spoopy movies this time of year has been a tradition for most of my life. Recording these lists on spreadsheets started many years ago with a good friend who has since passed out of my life, but I continue the practice. I now have many years of spreadsheets collecting all the horror movies I watched each year. One year was just 100% Netflix and another year I watched almost exclusively _old_ horror movies. This year hasn't had a theme, I've just sort of watched things.
 
 I don't actually _watch_ all of them, in a lot of cases these are movies that I've already seen and I just turn them on, glancing at them occasionally and listening to them. It's comforting.
 
-This year I've run a lot of movies in a quest for some normalcy.
+This year I've run a lot of movies in a quest for some feeling normalcy.
 
 | 🎃👻🤡☠️ | Date         | Title                                        | Release Year |
 | :------: | ------------ | -------------------------------------------- | :----------: |
@@ -76,6 +76,23 @@ This year I've run a lot of movies in a quest for some normalcy.
 |    47    | Oct 20, 2023 | Insidious (5) The Red Door                   |     2023     |
 |    48    | Oct 20, 2023 | Terrifier                                    |     2016     |
 |    49    | Oct 21, 2023 | Oracle                                       |     2023     |
+|    50    | Oct 21, 2023 | Lights Out                                   |     2016     |
+|    51    | Oct 22, 2023 | Critters                                     |     1986     |
+|    52    | Oct 22, 2023 | Terrifier 2                                  |     2022     |
+|    53    | Oct 23, 2023 | Species                                      |     1995     |
+|    54    | Oct 23, 2023 | ParaNorman                                   |     2012     |
+|    55    | Oct 23, 2023 | Cobwebs                                      |     2023     |
+|    56    | Oct 24, 2023 | Drag Me to Hell                              |     2009     |
+|    57    | Oct 24, 2023 | Disco Inferno (Short)                        |     2023     |
+|    58    | Oct 25, 2023 | The Black Phone                              |     2021     |
+|    59    | Oct 25, 2023 | Pyewacket                                    |     2017     |
+|    60    | Oct 26, 2023 | Curse of Crom: The Legend of Halloween       |     2022     |
+|    61    | Oct 26, 2023 | Night of the Living Dead                     |     1968     |
+|    62    | Oct 27, 2023 | Tales of Halloween                           |     2015     |
+|    63    | Oct 27, 2023 | Five Nights at Freddy's                      |     2023     |
+|    64    | Oct 27, 2023 | Hotel Transylvania                           |     2012     |
+|    65    | Oct 27, 2023 | The Nun                                      |     2018     |
+|    66    | Oct 27, 2023 | The Nun II                                   |     2023     |
 
 ## A Few Notes
 
@@ -109,6 +126,14 @@ I really enjoyed X and Pearl. Ti West is an excellent horror auteur. Inn Keepers
 
 I also watched Infinity Pool, which had more of a David Lynch vibe than I was expecting, but has officially given me my fill of Mia Goth. I don't need to see Mia Goth in any more movies for a while.
 
+### Terrifier and Terrifier 2
+
+They're terrible. The awful. I regret rewatching the first and the second was just dumb. Don't even bother.
+
+### The Insidious Franchise
+
+These movies have grown on me a bit over the years. While I firmly think the first two are the best and that they're not _great_ anyway, the other movies are still a fair bit of fun and I found myself enjoying the entire series much more than I'd expected.
+
 ### Other Thoughts?
 
 I have many, and perhaps when I come back to finish this post I'll share them.
@@ -118,5 +143,3 @@ I tend to jot down my thoughts on each viewing as well, and perhaps I'll add the
 Or maybe not
 
 ¯\_(ツ)\_/¯
-
-I wonder if Astro's Markdown will support table formatting 🤔
