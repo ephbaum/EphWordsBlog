@@ -84,8 +84,9 @@ const socialImageURL = new URL(
     <script is:inline src="/toggle-theme.js"></script>
 
     {process.env.ENV === "production" ? (
-      <UmamiTracking />
+      <!-- Umami Tracking -->
     ) : null }
+    <UmamiTracking />
   </head>
   <body>
     <slot />
