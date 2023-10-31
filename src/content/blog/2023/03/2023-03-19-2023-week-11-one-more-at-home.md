@@ -7,7 +7,7 @@ draft: false
 tags:
   - ephandlou
   - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+description: Wherein I talk about our son Mikey's return home for his Spring Break, a Sunday trip to Seattle to support Tris' art, some efforts Lou made on the ongoing journey to update our home, celebrated self-care, and lamented Michael's too-soon return to Iowa
 ---
 
 Sometimes our nest fills back up a touch.
@@ -54,7 +54,7 @@ I am feeling a bit more out of shape of late, and I’m trying to work through t
 
 ## **☘️**
 
-Tris came to have family dinner on Friday before Mikey. We ordered Mexican for St. Patrick’s Day. It was a lovely visit that resulted in a squad win in Fortnite after dinner. 😅
+Tris came to have family dinner on Friday before Mikey leaves. We ordered Mexican for St. Patrick’s Day. It was a lovely visit that resulted in a squad win in Fortnite after dinner. 😅
 
 ## **Long Saturday**
 

@@ -8,10 +8,10 @@ draft: false
 tags:
   - ephandlou
   - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+description: Wherein I lament the entire family catching and fighting COVID while trying to raise puppy, also we celebrate Tris' 23rd birthday and her artwork being displayed at Yoroshiku in Wollingford, Seattle, WA
 ---
 
-![Featured Image](https://images.unsplash.com/photo-1585912812840-b457972f28d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDd8fENvdmlkfGVufDB8fHx8MTY3Nzk4OTY1NA&ixlib=rb-4.0.3&q=80&w=2000)
+![Unsplash image showing CORONAVIRUS spelled out with letter tiles or dice](https://images.unsplash.com/photo-1585912812840-b457972f28d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDd8fENvdmlkfGVufDB8fHx8MTY3Nzk4OTY1NA&ixlib=rb-4.0.3&q=80&w=2000)
 
 After 3 years the inevitable has occurred: we’ve had COVID tear through our home officially.
 
