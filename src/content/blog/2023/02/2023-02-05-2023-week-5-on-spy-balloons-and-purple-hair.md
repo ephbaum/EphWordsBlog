@@ -7,7 +7,7 @@ draft: false
 tags:
   - ephandlou
   - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+description: Wherein I mark the 1/12th mark of the 2023 by recalling 2013, talk about the "spy balloon" over Montana, Lou dying their hair purple, we got a blanket for an allergen test for Oz, Lou crocheted some stuff, the spy balloon was shot down over the ocean of the Carolinas.
 ---
 
 Hello Void,

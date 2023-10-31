@@ -2,20 +2,20 @@
 title: 2023 - Week 7 - The Calm Before the Puppy Storm
 postSlug: 2023-week-7
 pubDatetime: 2023-02-18T18:50:45.000Z
-ogImage: ../../assets/images/2023/02/E3F3A266-4215-426A-A962-412402F99267.jpeg
+ogImage: /assets/images/2023/02/cosmo-kissing-booth.jpeg
 featured: false
 draft: false
 tags:
   - ephandlou
   - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+description: Wherein I look forward to our Arizona trip, reflect on my job "post burnout", wonder at Lou's crochet and my pride at their begining to write again, note Oz's enjoyment of their acting class, note the "UFO" talk in the news and the Turkey/Syria quake's death toll being over 40k, and I chatted with ChatGPT about the distinction between fear and excitement
 ---
 
-![Featured Image](../../assets/images/2023/02/E3F3A266-4215-426A-A962-412402F99267.jpeg)
+![Cosmo who will soon become our puppy Ollie](/assets/images/2023/02/cosmo-kissing-booth.jpeg)
 
 It has been another exciting week around here as we've been preparing for our new family member and our trip to Arizona to pick up our puppy next week.
 
-My job has been chugging along, I'm becoming more and more comfortable with the team on which I've landed. It's surprising to me that it has taken so long for me to even start to feel "normal". It's been already a year since I took leave and I have had to do a lot of work around setting boundaries and prioritizing self-care. Those steps, however, seem to be working.
+My job has been chugging along, I'm becoming more and more comfortable with the team on which I've landed. It's surprising to me that it has taken so long for me to even start to feel "normal". It's been already a year since I took leave due to my burnout and I have had to do a lot of work around setting boundaries and prioritizing self-care. Those steps, however, seem to be working.
 
 Lou continues to create beautiful _objet d'art_ out of yarn. She's also been focusing on rekindling her writing skills. She used to write lovely poetry but it has been many years since she's put pen to paper for a variety of reasons, so this last week as seen her focusing on getting words from her head to the paper / screen. I'm so proud of her for her efforts!
 

@@ -13,7 +13,7 @@ description: Placeholder description for imported post from ephandlou.com
 
 ![Featured Image](https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fDQwNHxlbnwwfHx8fDE2ODE5NzAyMDE&ixlib=rb-4.0.3&q=80&w=2000)
 
-I am forever shocked at how much of the internet is gone now, as well as how much [persists](file:///var/mobile/Containers/Data/Application/FD619353-8E20-4567-9CD9-63ACA587FC00/Documents/archive.org).
+I am forever shocked at how much of the internet is gone now, as well as how much [persists](https://archive.org).
 
 This speaks to the voluminous mediocrity that I’ve put on display over the years that does and does not still exist on the Internet I’m some fashion. I’ve shed more than one tear over those parts of the Internet that have vanished as though swallowed by The Nothing as described by The Never Ending Story.
 
