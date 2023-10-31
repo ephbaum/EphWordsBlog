@@ -15,7 +15,7 @@ This week has seen me doing more reflection, more introspecting, more contemplat
 
 “Who the hell do I think I am?” I keep thinking to myself, occasionally even asking out loud.
 
-There’s still no definitive answer to that one in my mind.
+There's still no definitive answer to that one in my mind.
 
 It's complicated.
 
@@ -51,7 +51,7 @@ Nothing worth blogging about happened on Tuesday, probably.
 
 Liz's Quest 3 arrived. So did Liz. We got it all set up and, ultimately I had [some thoughts](/posts/meta-quest-3-impressions/) about it.
 
-In the evening I decided to go to [Ashley’s Pub](https://www.ashleys.pub/) for a bit with Ollie as an experiment to try socializing him (and I) a bit. A pinball tournament was in progress and, despite the noise and stimulation, he did a pretty good job for a 10 month old terrorier. Everyone, of course, loves this dog. It was nice to get out for a little bit and I think I'll return for more social interaction from time to time.
+In the evening I decided to go to [Ashley's Pub](https://www.ashleys.pub/) for a bit with Ollie as an experiment to try socializing him (and I) a bit. A pinball tournament was in progress and, despite the noise and stimulation, he did a pretty good job for a 10 month old terrorier. Everyone, of course, loves this dog. It was nice to get out for a little bit and I think I'll return for more social interaction from time to time.
 
 ## Thursday
 

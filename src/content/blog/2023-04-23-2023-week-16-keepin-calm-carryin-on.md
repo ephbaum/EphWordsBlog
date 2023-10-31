@@ -1,5 +1,5 @@
 ---
-title: 2023 - Week 16 - Keepin’ Calm, Carryin' On
+title: 2023 - Week 16 - Keepin' Calm, Carryin' On
 postSlug: 2023-week-16
 pubDatetime: 2023-04-23T06:03:42.000Z
 ogImage: https://images.unsplash.com/photo-1533162507191-d90c625b2640?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE4fHxjYWxtfGVufDB8fHx8MTY4MjIyOTU4Mw&ixlib=rb-4.0.3&q=80&w=2000
@@ -31,11 +31,11 @@ Monday was a huge milestone for Lou and I when we finally changed our names, off
 
 This is definitely something about which I intend to write more, but the process of getting one's name changed in Washington State isn't particularly difficult, though a little time consuming. In this case we filed with the circuit court of our county and then showed up for our docket. They seem to do all name changes once a month here and we were one of many both in court and on Zoom.
 
-The experience of sitting in a Kitsap County Circuit Court Room was interesting when compared to the various other times I’ve found myself in a courtroom throughout my life time. It's an experience I've had much more often than I would have expected when I was but a youngin’. Perhaps my other experiences in he courtroom are a topic for yet another [future post](/C:/Users/fskir/AppData/Local/Temp/2HZj4IZBHeRUj6rf0zpEM8QxyJ5/resources/app.asar/notyetiguess). I will forever recall the vibration of the HVAC system, the sound of the speakers when Zoom announced that a recording was in progress, the stains on the ceiling tiles. These things, and the positive interaction with the judge, will likely always be seared in my memory.
+The experience of sitting in a Kitsap County Circuit Court Room was interesting when compared to the various other times I've found myself in a courtroom throughout my life time. It's an experience I've had much more often than I would have expected when I was but a youngin'. Perhaps my other experiences in he courtroom are a topic for yet another [future post](/C:/Users/fskir/AppData/Local/Temp/2HZj4IZBHeRUj6rf0zpEM8QxyJ5/resources/app.asar/notyetiguess). I will forever recall the vibration of the HVAC system, the sound of the speakers when Zoom announced that a recording was in progress, the stains on the ceiling tiles. These things, and the positive interaction with the judge, will likely always be seared in my memory.
 
-It’s a huge relief.
+It's a huge relief.
 
-Though it’s also a huge amount of work we’ve made for ourselves 😅
+Though it's also a huge amount of work we've made for ourselves 😅
 
 But more than anything it's a relief to feel like I'm finally who I am. It's hard to explain but the judge, who at first was mildly suspicious of my name, less so of Lou's, seemed to get it very quickly. It was pleasing, actually.
 

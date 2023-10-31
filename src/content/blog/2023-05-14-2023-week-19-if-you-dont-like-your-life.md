@@ -15,7 +15,7 @@ description: Placeholder description for imported post from ephandlou.com
 
 Another week has come and gone for the \*Baum family and I remain grateful for living in this little corner of the beautiful Pacific Northwest
 
-Personally I’ve found myself challenged on a variety of fronts.
+Personally I've found myself challenged on a variety of fronts.
 
 And Ozz needs to do a project.
 
@@ -31,7 +31,7 @@ Lou suggest not making a gun. I suggested making a turret using Ajrduino, optica
 
 It's **not** a gun 🤷�
 
-We’ve since [found a project](https://www.instructables.com/Arduino-NERF-Ball-Wireless-FPV-Sentry-Turret/) on Instructables that looks like it might be a good jumping off point at least. We’ll need a make a project proposal, and a charter, which should be easy enough to do and maybe I’ll try working with the kiddos to draft that this afternoon so we can get that under source control.
+We've since [found a project](https://www.instructables.com/Arduino-NERF-Ball-Wireless-FPV-Sentry-Turret/) on Instructables that looks like it might be a good jumping off point at least. We'll need a make a project proposal, and a charter, which should be easy enough to do and maybe I'll try working with the kiddos to draft that this afternoon so we can get that under source control.
 
 I'm tapping this post out from our front porch on our fairly busy street in sunny Bremerton, WA on a beautiful PNW afternoon as we approach record hot temps for the date for the region
 

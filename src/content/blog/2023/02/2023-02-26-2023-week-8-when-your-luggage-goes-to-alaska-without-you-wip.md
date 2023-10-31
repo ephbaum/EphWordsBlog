@@ -28,7 +28,7 @@ We arrived in PHX, which was a fine enough experience overall. I'd not been but 
 
 Our AirBnB turned out to be amazing: a lovely little 3-bedroom ranch house that had clearly been picked up cheap with its staged furniture as an “add-to-cart” style acquisition in a growing vacation rental portfolio. Lou found us a great place to stay and we all low-key kind of want this exact house. It was super comfortable for the most part despite a binder filled with a lot of absurd demands upon a renter paying such a premium for their stay: taking the recycling to the curb and starting a load of towels upon departure. There was also a long list of infractions that, if violated, would easily result in the forfeiture of our security deposit.
 
-### **It’s a dry heat**
+### **It's a dry heat**
 
 My knuckles are cracked and bleeding because AZ was hot dry while everyone _in_ Arizona dressed for PNW winter while they deal with temps in the upper 60s and low 70s
 
@@ -58,4 +58,4 @@ Our new puppy a travel champ!
 
 —-
 
-Again, I’m posting but this remains in progress. I still did it Saturday- it was a busy week, please forgive me
+Again, I'm posting but this remains in progress. I still did it Saturday- it was a busy week, please forgive me

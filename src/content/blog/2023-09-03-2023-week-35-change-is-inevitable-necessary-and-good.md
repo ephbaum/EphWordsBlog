@@ -43,7 +43,7 @@ I missed that hike because I was with Lou while she volunteered to run an Americ
 
 The American Red Cross urgently needs people all of the time. You should [volunteer](https://www.redcross.org/volunteer/become-a-volunteer/urgent-need-for-volunteers.html) some of your time. Be the change you want to see in the world
 
-My father continues to live, despite earlier suggestions from the palliative care team at Fairview in Burnsville, and I’m continuing to work through the complexities of satisfying the documentation requirements of my company’s leave provider. It’s always a treasure (which here is a sarcastic comment meant to indicate quite the opposite).
+My father continues to live, despite earlier suggestions from the palliative care team at Fairview in Burnsville, and I'm continuing to work through the complexities of satisfying the documentation requirements of my company's leave provider. It's always a treasure (which here is a sarcastic comment meant to indicate quite the opposite).
 
 This week has been filled with change requiring a great deal of re-framing, mindfulness, and self-care. And that's okay! It's also been a good week! I am grateful to have had the opportunities available to me. I am pleased with my life, recognize my opportunities for growth, and simply to have a place to live.
 

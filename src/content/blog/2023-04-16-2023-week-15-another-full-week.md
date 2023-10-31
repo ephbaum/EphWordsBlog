@@ -69,7 +69,7 @@ However, somehow I managed to attend to my work and we had a pretty normal day.
 
 We learned that our name change hearing will be held Monday, April 17th. This is extremely exciting news. It's thrilling!
 
-Excited broke out just as we were preparing to retire for the evening it was [made clear](https://hachyderm.io/@ephbaum/110178346477709383) that our main bath’s shower handle’s cartridge was in need of replacing as we suddenly couldn’t turn the water off. That was an unpleasant but solvable situation, though I didn’t love my second trip out after bed time o’clock because it turned out I _didn’t_ the 7/64” hex-key as I’d thought. 😓Thankfully, the [process](https://www.moen.com/customer-support/installation-help/1200-1225-cartridge-replacement-tutorial) wasn't too difficult, although the cartridge was pretty stubborn and its extradition took a bit of elbow grease.
+Excited broke out just as we were preparing to retire for the evening it was [made clear](https://hachyderm.io/@ephbaum/110178346477709383) that our main bath's shower handle's cartridge was in need of replacing as we suddenly couldn't turn the water off. That was an unpleasant but solvable situation, though I didn't love my second trip out after bed time o'clock because it turned out I _didn't_ the 7/64” hex-key as I'd thought. 😓Thankfully, the [process](https://www.moen.com/customer-support/installation-help/1200-1225-cartridge-replacement-tutorial) wasn't too difficult, although the cartridge was pretty stubborn and its extradition took a bit of elbow grease.
 
 ### Tuesday happened
 

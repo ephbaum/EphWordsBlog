@@ -13,13 +13,13 @@ description: Wherein I discuss our planning our trip to Pheonix, AZ, praising Lo
 
 ![A cactus somewhere at Volunteer Park Conservatory in Seattle, WA](/assets/images/2023/02/pnw-cacti.jpg)
 
-This has been a hell of a week where we’ve largely spent our time planning a semi-impromptu trip to Phoenix, Arizona to bring home a new member of our family.
+This has been a hell of a week where we've largely spent our time planning a semi-impromptu trip to Phoenix, Arizona to bring home a new member of our family.
 
-This is a significant undertaking for us and given the somewhat hurried circumstance, if feels a little chaotic despite simultaneously being something we’ve been planning to do for some time
+This is a significant undertaking for us and given the somewhat hurried circumstance, if feels a little chaotic despite simultaneously being something we've been planning to do for some time
 
 The week saw Lou focusing on planning and booking our trip, as well as working on a variety of fiber arts projects and keeping the household running. I'm always in awe of their ability to juggle all the things. They seem to really enjoy juggling the chaos, however, and I do what I can to help wherever and however I'm able.
 
-I’ve been feeling overwhelmed, however. Wednesday I even raised my voice to Oz in frustration after they'd been disrespectful. Again. There's been a lot of big emotions though, a lot stemming from excitement over things like the impending trip, the puppy, and the general hustle and bustle of life and it has definitely been testing the household.
+I've been feeling overwhelmed, however. Wednesday I even raised my voice to Oz in frustration after they'd been disrespectful. Again. There's been a lot of big emotions though, a lot stemming from excitement over things like the impending trip, the puppy, and the general hustle and bustle of life and it has definitely been testing the household.
 
 My Thursday hike was Friday because Thursday I realized I had made a mistake and ended up working late to fix it. It was a good Thursday hike. However, I put in another 5 1/2 miles at Newbury and tackled Salal Ridge. I was able to practice mindfulness and hiking meditation, and it was valuable as always, physically, mentally and emotionally.
 

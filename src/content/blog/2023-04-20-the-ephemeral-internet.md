@@ -15,13 +15,13 @@ description: Placeholder description for imported post from ephandlou.com
 
 I am forever shocked at how much of the internet is gone now, as well as how much [persists](https://archive.org).
 
-This speaks to the voluminous mediocrity that I’ve put on display over the years that does and does not still exist on the Internet I’m some fashion. I’ve shed more than one tear over those parts of the Internet that have vanished as though swallowed by The Nothing as described by The Never Ending Story.
+This speaks to the voluminous mediocrity that I've put on display over the years that does and does not still exist on the Internet I'm some fashion. I've shed more than one tear over those parts of the Internet that have vanished as though swallowed by The Nothing as described by The Never Ending Story.
 
-I’ve made some popular content that’s simply gone now. Lost to the amnesia of the Internet’s churn.
+I've made some popular content that's simply gone now. Lost to the amnesia of the Internet's churn.
 
-Recently Imgur announced that, due to their current [rules](https://imgur.com/rules) they’re purging their old content not attached to an account starting May 15th, 2023. Goodbye pr0n. Goodbye car repair tutorials. Good bye useful screenshots.
+Recently Imgur announced that, due to their current [rules](https://imgur.com/rules) they're purging their old content not attached to an account starting May 15th, 2023. Goodbye pr0n. Goodbye car repair tutorials. Good bye useful screenshots.
 
-Of course this isn’t new, many sites have purged their content or simply disappeared over the years. Even Imgur would remove old content that didn’t receive at least 1 vote in a rolling 6 month period.
+Of course this isn't new, many sites have purged their content or simply disappeared over the years. Even Imgur would remove old content that didn't receive at least 1 vote in a rolling 6 month period.
 
 Hoodie Allen said: “The Internet is forever”
 
@@ -39,7 +39,7 @@ As we wave goodbye to the nameless pr0n, the tutorials, and even those hilarious
 
 And still, we continue creating. We document, we learn, and we grow. We pour our hearts out into the endless expanse of the internet, despite knowing that one day, it may all be swallowed by the tides of change.
 
-And not we’re getting language learning models to create even more content for us from the content its already consumed.
+And not we're getting language learning models to create even more content for us from the content its already consumed.
 
 This continuous cycle of creation and destruction is, perhaps, the most intriguing aspect of the digital age. It's a testament to our unyielding desire to innovate, to connect, and to share.
 

@@ -11,19 +11,19 @@ description: Despite everything I'm still feeling pretty positive and hopeful. E
 
 An interesting aspect of posting every week and tracking the week numbers all year is I have is that simple math that tells me how many weeks remain
 
-By my reckoning there’s now just 8 short weeks left in 2023
+By my reckoning there's now just 8 short weeks left in 2023
 
 I started this year with such high expectations for making it an amazing year. The numbers seemed to be on my side. My love of 23. My turning 42. After the hardships of previous years and what felt like finally being on a positive trajectory, it all pointed towards this being a fantastic year.
 
-The year has certainly not gone the way I expected. It’s too early to recap the whole year, and there have been amazing aspects to this year worth reflecting upon, but ultimately this has not at all been the year I expected when I began this weekly posting commitment.
+The year has certainly not gone the way I expected. It's too early to recap the whole year, and there have been amazing aspects to this year worth reflecting upon, but ultimately this has not at all been the year I expected when I began this weekly posting commitment.
 
-I certainly wasn’t expecting my marriage to come apart completely, for example.
+I certainly wasn't expecting my marriage to come apart completely, for example.
 
 Rather than focus on the negatives and challenges, though, I want to focus on the positives.
 
 Yes, there are a lot of things that have not gone well
 
-It seems as though if it’s not one thing it’s another.
+It seems as though if it's not one thing it's another.
 
 All year.
 
@@ -33,13 +33,13 @@ But there are so many good things to reflect upon, to feel good about, things fo
 
 I certainly find myself in my most stable and comfortable living situation in many years. I want for very little. My family and I do not go hungry, as a matter of fact we are able to eat well. We have a comfortable place to lay our heads. There is practically nothing to complain about, just goals to work toward. This is the result of years of hardship and hard work, and I am proud to have made it to this point.
 
-There are myriad options before me. I can practically do anything at this point. That’s a bit of a double edged sword leaving me with a bit of analysis paralysis, but I still recognize the incredible potential I have. I’ve been reflecting a lot lately on what exactly I want to do when I grow up. I’m feeling very creative lately and just wanting to find the right outlet. I want to leave something behind (besides a beautiful corpse). I want to be helpful, I want to do good, do better.
+There are myriad options before me. I can practically do anything at this point. That's a bit of a double edged sword leaving me with a bit of analysis paralysis, but I still recognize the incredible potential I have. I've been reflecting a lot lately on what exactly I want to do when I grow up. I'm feeling very creative lately and just wanting to find the right outlet. I want to leave something behind (besides a beautiful corpse). I want to be helpful, I want to do good, do better.
 
-I am loved. Especially in the last month I’ve come to realize just how rich I am in love. There are many people out there who care about me, who send their love and support throughout these trying times. Sending encouragement and reminding me that this, too, shall pass. Even though my marriage is not turning out how I'd expected, leaving me feeling rather lonely and unloved, I’m know that I am not alone, that I am loved indeed.
+I am loved. Especially in the last month I've come to realize just how rich I am in love. There are many people out there who care about me, who send their love and support throughout these trying times. Sending encouragement and reminding me that this, too, shall pass. Even though my marriage is not turning out how I'd expected, leaving me feeling rather lonely and unloved, I'm know that I am not alone, that I am loved indeed.
 
-The hits keep coming, for sure. As I’ll mention I’m facing a new bill for more car trouble on top of the costs of separation and the daunting cost of my daughter’s gender affirming care. But there are many positives for which I take comfort. My health remains better than it has been since I was quite young. I am still fit and, despite requiring a great deal of self care, I'm physically fit and a healthy weight. My father, who I'd been assured was on death’s door, seems to have recovered significantly and is more lucid than he’s been in some time. I’m seeing positive opportunities in my work and volunteering. I’m making new connections locally, meeting neighbors and becoming more involved in my community. Things are, on the whole, good for me, and there's a great deal of potential beyond.
+The hits keep coming, for sure. As I'll mention I'm facing a new bill for more car trouble on top of the costs of separation and the daunting cost of my daughter's gender affirming care. But there are many positives for which I take comfort. My health remains better than it has been since I was quite young. I am still fit and, despite requiring a great deal of self care, I'm physically fit and a healthy weight. My father, who I'd been assured was on death's door, seems to have recovered significantly and is more lucid than he's been in some time. I'm seeing positive opportunities in my work and volunteering. I'm making new connections locally, meeting neighbors and becoming more involved in my community. Things are, on the whole, good for me, and there's a great deal of potential beyond.
 
-This may not have been the year I expected and the challenges certainly not insignificant, but I think it’s still been a good year and I’m excited to see what the last two months bring.
+This may not have been the year I expected and the challenges certainly not insignificant, but I think it's still been a good year and I'm excited to see what the last two months bring.
 
 For now, however, let me recap the week as I do.
 
@@ -141,7 +141,7 @@ A mere 8 weeks remain in 2023
 
 It's been hard but I'm immensely grateful, hopeful
 
-Here’s to the next week to come - see you next time
+Here's to the next week to come - see you next time
 
 ## P.S. this week in horror:
 

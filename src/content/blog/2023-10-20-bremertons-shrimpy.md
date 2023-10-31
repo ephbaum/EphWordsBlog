@@ -52,9 +52,9 @@ The recent [Underground Tunnels](https://www.bremelore.wtf/extras/underground-tu
 
 **Third of all**, [Denny Street](https://www.openstreetmap.org/way/5916521) is nowhere near [PSNS](https://www.openstreetmap.org/relation/414855) in Bremerton. As you can see from these map links, NE Denny Street is actually in East Bremerton on the other side of the Port Washington Narrows nearer to Illahee than the shipyard. The above Kitsap Sun article calls this out:
 
-> The story has its inconsistencies. County assessors’ records show Denny Street, a small side road between Perry Avenue and Trenton Avenue in East Bremerton, has several houses that date back to the early '30s and '40s and a few empty lots. But Staples’ said that her apartment house on Denny was torn down after the Navy expanded.
+> The story has its inconsistencies. County assessors' records show Denny Street, a small side road between Perry Avenue and Trenton Avenue in East Bremerton, has several houses that date back to the early '30s and '40s and a few empty lots. But Staples' said that her apartment house on Denny was torn down after the Navy expanded.
 
-> Unless a different Denny Street was consumed as the Puget Sound Naval Shipyard expanded, it doesn’t appear as if the Navy has a presence in that area. Any apartment on the road would be a significant distance away from the water, making it unlikely that a tunnel could run from the Puget Sound to a basement of a home there, as was rumored.
+> Unless a different Denny Street was consumed as the Puget Sound Naval Shipyard expanded, it doesn't appear as if the Navy has a presence in that area. Any apartment on the road would be a significant distance away from the water, making it unlikely that a tunnel could run from the Puget Sound to a basement of a home there, as was rumored.
 
 I suppose it's possible, and worth researching, that there was another Denny St. back in 1948. It's also possible that the caller had mixed up the name or they were referring instead to [Dewey Street](https://www.openstreetmap.org/way/5918946). To my understanding, though, the footprint of the shipyard has been relatively unchanged since Ms. Staples would have left, so I find this whole account highly dubious.
 

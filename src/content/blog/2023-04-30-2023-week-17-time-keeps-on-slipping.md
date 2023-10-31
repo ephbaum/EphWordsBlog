@@ -17,9 +17,9 @@ description: Placeholder description for imported post from ephandlou.com
 
 It was another action packed weeks!
 
-It’s so late on a Saturday and I’m hardly remembering all that occurred!
+It's so late on a Saturday and I'm hardly remembering all that occurred!
 
-So, this may be a placeholder post as I’m falling asleep trying to type this into Joplin
+So, this may be a placeholder post as I'm falling asleep trying to type this into Joplin
 
 Events this week, in no particular order
 
@@ -34,9 +34,9 @@ Events this week, in no particular order
 - Eph & Lou picnic of the extraordinarily delicious Sugar Bones Tacos at Steilacoom park
 - Eph & Lou checked off some todos like updating our names, filing paperwork, registering a new LLC
 - Another of our kiddos is getting their first apartment
-- And more I’m totally forgetting because I need sleep
+- And more I'm totally forgetting because I need sleep
 
-Maybe I’ll come back 😅
+Maybe I'll come back 😅
 
 ---
 

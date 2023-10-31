@@ -18,15 +18,15 @@ The biggest challenge for me has been focus. My toolbox seems ill equipped to ha
 
 This has been extremely frustrating as I feel like I have taken a huge step backwards in my ability to get things done after my long recovery following my burn-out. My toolbox for focus not working as well after Covid brain fog had me worried about my future focus abilities. Thankfully by the end of this week I had begun to feel much more normal.
 
-I was able to reach and surpass level 200 in Fortnite chapter 4 season 1. It's the first time I've made it that far in a season. Since I'm usually not able to dedicate enough time to the grind. Meanwhile, I am excited about the next season. I generally enjoy Fortnite a lot more than I want to. I feel like I've reached a plateau in my skills, though, I am old man dad potato shoots. Mikey can outbuild me and can generally outshoot me. Oz has also gotten much better at building and while I can still generally out-shoot them, their younger reactions, more time to practice, their better graphics card, etc. are all playing in their favor and they’re getting much better. It was always a matter of time 😅
+I was able to reach and surpass level 200 in Fortnite chapter 4 season 1. It's the first time I've made it that far in a season. Since I'm usually not able to dedicate enough time to the grind. Meanwhile, I am excited about the next season. I generally enjoy Fortnite a lot more than I want to. I feel like I've reached a plateau in my skills, though, I am old man dad potato shoots. Mikey can outbuild me and can generally outshoot me. Oz has also gotten much better at building and while I can still generally out-shoot them, their younger reactions, more time to practice, their better graphics card, etc. are all playing in their favor and they're getting much better. It was always a matter of time 😅
 
 Today we were meant to pick up Mikey from the airport in the morning but his flight was delayed. Alaska needed a part from Delta and Delta was unable to deliver so the delay turned into cancellation. We were able to quickly book a new flight on Sun Country, which is always a cheap option but because they're kind of awful. Thankfully it all worked out and, only a few hours later than expected, Mikey made it!
 
 Of course that meant drive around the sound- driving I5 is exhausting
 
-This week I hiked a little less than 5 miles at Ilahee Preserve. I’m a little dissatisfied in myself for not quite hitting a full five miles but I'm accepting the win as I was at least able to get out for the first time since were were in Arizona.
+This week I hiked a little less than 5 miles at Ilahee Preserve. I'm a little dissatisfied in myself for not quite hitting a full five miles but I'm accepting the win as I was at least able to get out for the first time since were were in Arizona.
 
-It was also my first hike post-COVID and I definitely felt it. So I’ll also take it as a win to have done even 4.5 miles given how tired I was feeling by the time I had even gotten 3 miles into my trek.
+It was also my first hike post-COVID and I definitely felt it. So I'll also take it as a win to have done even 4.5 miles given how tired I was feeling by the time I had even gotten 3 miles into my trek.
 
 It's also worth noting that I have only hiked Ilahee preserve a handful of times. It's not a very big park to begin with, I don't think it even has a total of 10 miles of trails. I haven't developed a good 5 mile route throughout, either.
 
@@ -36,4 +36,4 @@ I enjoy the drive on Perry Ave. plenty, there are some nice curves and beautiful
 
 Tonight is the cutover for Daylight Saving so tomorrow will feel different.
 
-Tomorrow will also be a big day as we’re planning a trip to Seattle for some Ramen  🍜 and to support Tris and her art! 🎨🖌️🖼️❤️
+Tomorrow will also be a big day as we're planning a trip to Seattle for some Ramen  🍜 and to support Tris and her art! 🎨🖌️🖼️❤️

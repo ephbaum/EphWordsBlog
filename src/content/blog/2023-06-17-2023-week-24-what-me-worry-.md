@@ -157,14 +157,14 @@ It is good.
 
 What is my conclusion for this week?
 
-As we stand at the crossroads of the world’s events and our personal lives, it's evident that there's a whirlwind of emotions and happenings. From the wildfires and climate change reports that spark a call for urgency to the personal joy of watching a movie and redesigning a living space, life is a tapestry woven with diverse threads. But amidst this mosaic, what really stands out is the interwoven essence of family, community, and a deep sense of self-awareness.
+As we stand at the crossroads of the world's events and our personal lives, it's evident that there's a whirlwind of emotions and happenings. From the wildfires and climate change reports that spark a call for urgency to the personal joy of watching a movie and redesigning a living space, life is a tapestry woven with diverse threads. But amidst this mosaic, what really stands out is the interwoven essence of family, community, and a deep sense of self-awareness.
 
 Juneteenth reminded us of the importance of community, reflection, and education. As the world around us evolves and sometimes appears to be burning both metaphorically and literally, community events and education serve as anchors to keep us grounded. They remind us that there's more to life than just our microcosm; there's a collective history and shared responsibility that we're part of.
 
 Our personal lives are equally significant, often marked by simple pleasures such as watching movies or playing games, and sometimes by the shadow of pain or worry. The unexpected news from a family member, or the untangling of emotions tied to the past, remind us that human experiences are complex.
 
-In this complexity, however, lies the opportunity for growth and finding stability. The mere act of breathing, which is so fundamentally a part of our existence, can be a tool for gaining control amidst chaos. As we breathe in and out, we’re not just participating in a biological process; we’re regulating our very being. The parasympathetic nervous system exemplifies that sometimes the most profound truths lie in the simplest acts.
+In this complexity, however, lies the opportunity for growth and finding stability. The mere act of breathing, which is so fundamentally a part of our existence, can be a tool for gaining control amidst chaos. As we breathe in and out, we're not just participating in a biological process; we're regulating our very being. The parasympathetic nervous system exemplifies that sometimes the most profound truths lie in the simplest acts.
 
-So, as we close the chapter of this week, let's embrace the full range of our human experience. Let’s cherish the simple moments, engage with our communities, educate ourselves about the world, and remember that our breath is a tether to inner calm.
+So, as we close the chapter of this week, let's embrace the full range of our human experience. Let's cherish the simple moments, engage with our communities, educate ourselves about the world, and remember that our breath is a tether to inner calm.
 
 In an ever-evolving world, taking a moment to breathe can be the most revolutionary act of all.

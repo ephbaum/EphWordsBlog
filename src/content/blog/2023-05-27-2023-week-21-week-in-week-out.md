@@ -13,10 +13,10 @@ description: Placeholder description for imported post from ephandlou.com
 
 ![Featured Image](../../assets/images/2023/05/4D82FF85-4206-4414-888C-63F9DE7D555F-1.jpeg)
 
-I feel like I'm emerging, and shaking of the rust from some S.A.D., though not Seasonal Affective Disorder. I’m thinking of something like Surviving Another Depression as opposed to Stomp About Dumbly. I wasn't sure about that, meaning, however, so I asked ChatGPT for alternatives. ChatGPT suggested the following:
+I feel like I'm emerging, and shaking of the rust from some S.A.D., though not Seasonal Affective Disorder. I'm thinking of something like Surviving Another Depression as opposed to Stomp About Dumbly. I wasn't sure about that, meaning, however, so I asked ChatGPT for alternatives. ChatGPT suggested the following:
 
-- Struggling Against Despair: Representing an individual’s resilience in the face of overwhelming despair.
-- Solitude, Anxiety, Desolation: Reflecting a person’s inner emotional turmoil.
+- Struggling Against Despair: Representing an individual's resilience in the face of overwhelming despair.
+- Solitude, Anxiety, Desolation: Reflecting a person's inner emotional turmoil.
 - Seeking Alternative Directions: Signifying someone trying to find new ways to manage their feelings.
 - Sustain, Adapt, Develop: Representing a strategy for overcoming obstacles.
 - Sympathy, Assistance, Dedication: Highlighting the need for support systems in mental health.

@@ -60,7 +60,7 @@ I got myself ready, dialed in my pack and trekking poles, and was off!
 
 I regret having set a too aggressive pace early on. I think I would have ultimately done better if I would have started with a more sustainable pace. Instead, feeling gung-ho, I tried to push myself a little harder than was appropriate.
 
-The terrain didn't make it any easier. With all the rock and gravel, too, I felt that I was having some trouble getting good footing and at times it seemed I wasn’t getting the most of my trekking poles either. This was definitely disappointing but represents an opportunity for me to improve.
+The terrain didn't make it any easier. With all the rock and gravel, too, I felt that I was having some trouble getting good footing and at times it seemed I wasn't getting the most of my trekking poles either. This was definitely disappointing but represents an opportunity for me to improve.
 
 ### Zoning Out
 

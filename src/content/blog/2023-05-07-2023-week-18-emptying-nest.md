@@ -33,7 +33,7 @@ I tried to have ChatGPT (GPT-4) write up a  post as an apology for not having d
 
 > \[Your Name\]
 
-Personally I find it amazing  the tone ChatGPT chose here, as if I’m addressing our  throngs of fans who yearn for this content 😂
+Personally I find it amazing  the tone ChatGPT chose here, as if I'm addressing our  throngs of fans who yearn for this content 😂
 
 Regardless, it was  a busy and eventful week and I just did not make space to complete post that would need some special consideration given its scope
 
