@@ -10,14 +10,14 @@ tags:
   - terror
   - philosophy
   - biology
-description: Happy Hallowe'en! Today I'm writing about a scientists claim that he's proven that you have absolutely no free will whatsoever because I find the idea terrifying! Posted on 10/31 at 6:66 for extra spoopiness lol
+description: Happy Hallowe'en! Today I'm writing about a scientist's claim that he's proven that you have absolutely no free will whatsoever because I find the idea terrifying! Posted on 10/31 at 6:66 for extra spoopiness lol
 ---
 
 It's Halloween, my favorite holiday, a day that's become dedicated to fear and scares, so it seemed like a good day to post about a terrifying topic:
 
 YOU HAVE NO FREE WILL!
 
-![Your choices don't matter, here's you](/assets/images/2023/10/free-will-button-meme.jpg)
+![Your choices don't matter, here's you:](/assets/images/2023/10/free-will-button-meme.jpg)
 
 An [article](https://www.latimes.com/science/story/2023-10-17/stanford-scientist-robert-sapolskys-decades-of-study-led-him-to-conclude-we-dont-have-free-will-determined-book) caught my attention recently. (More [here](https://www.popularmechanics.com/science/a45666440/humans-dont-have-free-will-says-scientist/) and [here](https://www.newscientist.com/article/2398369-why-free-will-doesnt-exist-according-to-robert-sapolsky/).
 
