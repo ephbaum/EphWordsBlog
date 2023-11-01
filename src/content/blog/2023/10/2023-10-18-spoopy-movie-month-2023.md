@@ -152,6 +152,16 @@ These movies have grown on me a bit over the years. While I firmly think the fir
 
 There are some excellent movies that I really love on this list. I accept that horror movies will inevitably have plot holes, issues, illogical bits, but I might still rate them a 10. Scream, The Babadook, the original Friday the 13th - these are all just "perfect" horror movies to me.
 
+### Ari Aster
+
+I capped the month with Midsommar and Hereditary. These movies stand alone as such uniquely twisted bits of artistic film making. They are visceral, dark, and horrifying. Both of these movies are so uniquely structured, gorgeously shot, extravagantly brutal.
+
+I have been waiting for Ari's follow-up to his one-two punch in 2018 and 2019.
+
+His work is incredible!
+
+This year we got [Beau is Afraid](https://www.imdb.com/title/tt13521006/); a 3 hour horror comedy about an anxious man's experience following the death of his mother. Its plot on IMDb contains the word Kafkaesque. I'm excited and nervous to see it.
+
 ### Other Thoughts?
 
 I have many, and perhaps when I come back to finish this post I'll share them- or not. I've run over 70 movies and that's a lot of thoughts to share.
