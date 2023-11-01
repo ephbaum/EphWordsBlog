@@ -16,7 +16,7 @@ description: A post describing my views on the hiking meditation and its value t
 
 Meditation, Mindfulness, and Hiking are all deeply intertwined for me. This post aims to explain my experience with hiking meditation and its value.
 
-![Peace from Above - A hiker with a trekking pole stands atop a peak surveying the worl below, at peace](../../assets/images/2023/10/hiking-meditation-on-top-of-it-alll-c.webp)
+![Peace from Above - A hiker with a trekking pole stands atop a peak surveying the world below, at peace](../../../../assets/images/2023/10/hiking-meditation-on-top-of-it-alll-c.webp)
 
 ## Meditation & Mindfulness
 

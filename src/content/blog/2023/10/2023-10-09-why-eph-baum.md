@@ -47,7 +47,7 @@ This is how emails and other automated messages usually arrive to me, the output
 
 Now I can simply say: It's Eph, actually
 
-I've always tried to use my first initial for most accounts and frequently found that it's pretty rare that systems aren't built specifically for the traditional `first_name + " " + last_name` expectation, and very few take the first initial and middle name combination into consideration thiugh i have discoferd ove the yeara thst irs actually a lot lore common than I'd realized when i waa younger.
+I've always tried to use my first initial for most accounts and frequently found that it's pretty rare that systems aren't built specifically for the traditional `first_name + " " + last_name` expectation, and very few take the first initial and middle name combination into consideration though I have discoverd ove the years that it's actually a lot lore common than I'd realized when i was younger.
 
 I have thousands of emails addressed to some variation of the letter F.
 
@@ -57,7 +57,7 @@ Between the first letter of my first name: F, and the end of my last name: baum,
 
 These two string slices, however, have become commonly use for a "nickname":
 
-![Eph Baum Pun Dog](../../assets/images/2023/10/eph_baum_pun_dog.jpg)
+![Eph Baum Pun Dog](../../../../assets/images/2023/10/eph_baum_pun_dog.jpg)
 
 #### `F-baum`, the co-worker, the friend
 

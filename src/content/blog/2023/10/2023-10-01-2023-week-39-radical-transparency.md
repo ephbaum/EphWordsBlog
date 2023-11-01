@@ -2,7 +2,7 @@
 title: 2023 - Week 39 - Radical Transparency
 postSlug: 2023-week-39
 pubDatetime: 2023-10-01T06:21:45.000Z
-ogImage: ../../assets/images/2023/10/IMG_6252.jpeg
+ogImage: /assets/images/2023/10/ollie-in-a-cone.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Kitsap Community Food Coop Annual Meeting - KCFC Board Meeting - DSA - Ashley's Pub - Helm's Deep and then some.
 ---
 
-![Featured Image](../../assets/images/2023/10/IMG_6252.jpeg)
+![Ollie in a cone post op](/assets/images/2023/10/ollie-in-a-cone.jpeg)
 
 I have struggled over the preceding weeks with deciding just how transparent I should be about our lives. I've decided, however, that there's simply no reason not to be open at this point in my life.
 

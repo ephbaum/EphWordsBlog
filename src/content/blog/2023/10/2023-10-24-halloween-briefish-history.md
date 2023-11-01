@@ -13,13 +13,13 @@ description: Hallowe'en is the best holiday. In this post I talk about its long 
 
 Do you know the history of Halowe'en? Are you aware of this holiday's rich history dating back thousands of years? Let me lay it out for you.
 
-![Pumpkins as far as the eye can see - thanks Dall-E 3!](../../assets/images/2023/10/halloween-pumpkins-c.webp)
+![Pumpkins as far as the eye can see - thanks Dall-E 3!](../../../../assets/images/2023/10/halloween-pumpkins-c.webp)
 
 ## Saimhain - Where It Begins
 
 The roots of Halloween trace back over 2,000 years to the ancient Celtic festival of Samhain. Celebrated November 1st, the Celts' days began at sundown, so festivities began October 31t, Samhain marked the end of Summer and the beginning of Winter - a time associated with death for the Celts. It was, essentially, the opposing celebration of Bealtaine (basically May Day), and one of the four annual festivals that marked the cycle of seasons around the calendar.
 
-![What Dall-E 3 imagines Saimhain looked like back in the day](../../assets/images/2023/10/samhain-c.webp)
+![What Dall-E 3 imagines Saimhain looked like back in the day](../../../../assets/images/2023/10/samhain-c.webp)
 
 In the Gaels it was believed that during Samhain (a Gaelic word pronounced SAH-win or SOW-in), the veil between the living and the dead. Samhain, celebrated on this night, was a crucial event as it symbolized the intertwining of these two realms. The Celts believed that during this time, the spirits of the deceased would return to the mortal world. was at its thinnest, allowing spirits to roam the earth.
 
@@ -116,7 +116,7 @@ Let me tell you about the legend of a man named "Stingy Jack":
 
 According to folklore, Stingy Jack was a mischievous man who repeatedly tricked the Devil. On one occasion, he convinced the Devil to climb a tree and then carved a cross into its trunk, trapping the Devil above. Jack made a deal to release the Devil only if he promised not to take Jack's soul when he died. The Devil agreed.
 
-![Dall-E 3's depicition of Stingy Jack O'Lantern's Encounter with The Devil](../../assets/images/2023/10/stingy-jack-c.webp)
+![Dall-E 3's depicition of Stingy Jack O'Lantern's Encounter with The Devil](../../../../assets/images/2023/10/stingy-jack-c.webp)
 
 When Jack eventually passed away, he was denied entrance to Heaven because of his deceitful ways. However, the Devil kept his promise and refused to let Jack into Hell. Instead, the Devil gave Jack a burning coal to light his way in the cold, dark void between Heaven and Hell. Jack carved out a turnip and placed the coal inside, using it as a lantern to guide his lost soul. He became known as "Jack of the Lantern," which was later shortened to "Jack-o-Lantern."
 
@@ -130,7 +130,7 @@ In the United States, they discovered that pumpkins, native to the Americas, wer
 
 - United States: Halloween has become one of the most celebrated holidays, marked by costume parties, haunted house attractions, pumpkin carving, and trick-or-treating. It's also a significant commercial event, with spending on costumes, candies, and decorations reaching billions of dollars annually.
 
-![Dall-e 3's fever dream depicition of modern Hallowe'en in the US](../../assets/images/2023/10/modern-halloween-c.webp)
+![Dall-E 3's fever dream depiction of modern Hallowe'en in the US](../../../../assets/images/2023/10/modern-halloween-c.webp)
 
 - Mexico & Latin America: The Day of the Dead (Día de los Muertos) is a multi-day celebration to honor deceased loved ones. It's a fusion of indigenous traditions and Catholic influences. Families create altars, decorate graves, and prepare special foods.
 

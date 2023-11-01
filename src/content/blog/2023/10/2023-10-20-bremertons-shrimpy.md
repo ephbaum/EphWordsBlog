@@ -9,10 +9,10 @@ tags:
   - Bremerton, WA
   - cryptids
   - paranormal
-description: Thoughts on Bremerton's Cryptid Shrimpy
+description: Thoughts on Bremerton's Cryptid Shrimpy - I want to believe
 ---
 
-![Illustration capturing the moment Virginia, a five-foot-tall woman, discovers the gigantic shrimp-like creature in her apartment's basement. She stands frozen, her face reflecting sheer terror. From a large hole in the basement wall, the silhouette of an enormous shrimp emerges. It has a bright orange body, spindly thin legs, and moving antennae. The creature's size is emphasized in contrast to Virginia. The style is more fantastical and surreal.](../../assets/images/2023/10/shrimpy-basement-5-c.webp)
+![Illustration capturing the moment Virginia, a five-foot-tall woman, discovers the gigantic shrimp-like creature in her apartment's basement. She stands frozen, her face reflecting sheer terror. From a large hole in the basement wall, the silhouette of an enormous shrimp emerges. It has a bright orange body, spindly thin legs, and moving antennae. The creature's size is emphasized in contrast to Virginia. The style is more fantastical and surreal.](/assets/images/2023/10/shrimpy-basement-5-c.webp)
 
 I want to believe.
 
@@ -62,29 +62,29 @@ Still, it's a lot of fun to imagine a 5 foot tall orange shrimp in Bremerton, ri
 
 Fun, too, was wasting a few computing cycles by having [DALL-E 3](https://openai.com/dall-e-3) generate some images of the story:
 
-![Photo of an old, expansive basement in 1948 Bremerton, Washington. The basement is dimly lit, showcasing its age with cracked walls and significant holes. Nearby, there's a traditional washer, washtub, and a clothesline with freshly hung clothes. The atmosphere is permeated with an eerie vibe, with the shadows of the basement hinting at its unseen corners.](../../assets/images/2023/10/shrimpy-basement-1-c.webp)
+![Photo of an old, expansive basement in 1948 Bremerton, Washington. The basement is dimly lit, showcasing its age with cracked walls and significant holes. Nearby, there's a traditional washer, washtub, and a clothesline with freshly hung clothes. The atmosphere is permeated with an eerie vibe, with the shadows of the basement hinting at its unseen corners.](../../../../assets/images/2023/10/shrimpy-basement-1-c.webp)
 
 <p class="text-xs text-justify">Photo of an old, expansive basement in 1948 Bremerton, Washington. The basement is dimly lit, showcasing its age with cracked walls and significant holes. Nearby, there's a traditional washer, washtub, and a clothesline with freshly hung clothes. The atmosphere is permeated with an eerie vibe, with the shadows of the basement hinting at its unseen corners.</p>
 
-![Illustration capturing the moment Virginia, a five-foot-tall woman, discovers the gigantic shrimp-like creature in her apartment's basement. She stands frozen, her face reflecting sheer terror. From a large hole in the basement wall, the silhouette of an enormous shrimp emerges. It has a bright orange body, spindly thin legs, and moving antennae. The creature's size is emphasized in contrast to Virginia.](../../assets/images/2023/10/shrimpy-basement-2-c.webp)
+![Illustration capturing the moment Virginia, a five-foot-tall woman, discovers the gigantic shrimp-like creature in her apartment's basement. She stands frozen, her face reflecting sheer terror. From a large hole in the basement wall, the silhouette of an enormous shrimp emerges. It has a bright orange body, spindly thin legs, and moving antennae. The creature's size is emphasized in contrast to Virginia.](../../../../assets/images/2023/10/shrimpy-basement-2-c.webp)
 
 <p class="text-xs text-justify">Illustration capturing the moment Virginia, a five-foot-tall woman, discovers the gigantic shrimp-like creature in her apartment's basement. She stands frozen, her face reflecting sheer terror. From a large hole in the basement wall, the silhouette of an enormous shrimp emerges. It has a bright orange body, spindly thin legs, and moving antennae. The creature's size is emphasized in contrast to Virginia.</p>
 
-![Photo portraying Virginia, looking visibly distressed, standing in front of a glass tank in an aquarium during the late 1940s. Inside the tank, small shrimps move around. The reflection in the glass shows Virginia's pensive and searching expression as she tries to correlate the creature she saw with the small shrimps in front of her.](../../assets/images/2023/10/shrimpy-basement-3-c.webp)
+![Photo portraying Virginia, looking visibly distressed, standing in front of a glass tank in an aquarium during the late 1940s. Inside the tank, small shrimps move around. The reflection in the glass shows Virginia's pensive and searching expression as she tries to correlate the creature she saw with the small shrimps in front of her.](../../../../assets/images/2023/10/shrimpy-basement-3-c.webp)
 
 <p class="text-xs text-justify">Photo portraying Virginia, looking visibly distressed, standing in front of a glass tank in an aquarium during the late 1940s. Inside the tank, small shrimps move around. The reflection in the glass shows Virginia's pensive and searching expression as she tries to correlate the creature she saw with the small shrimps in front of her.</p>
 
-![Illustration of the modern-day landscape of Bremerton, showing the Navy's significant expansion. Old buildings have made way for new structures, and notably absent is the apartment building on Denny Street. The scene is imbued with a sense of melancholy, evoking the passage of time and the memories attached to the places now gone.](../../assets/images/2023/10/shrimpy-basement-4-c.webp)
+![Illustration of the modern-day landscape of Bremerton, showing the Navy's significant expansion. Old buildings have made way for new structures, and notably absent is the apartment building on Denny Street. The scene is imbued with a sense of melancholy, evoking the passage of time and the memories attached to the places now gone.](../../../../assets/images/2023/10/shrimpy-basement-4-c.webp)
 
 <p class="text-xs">Illustration of the modern-day landscape of Bremerton, showing the Navy's significant expansion. Old buildings have made way for new structures, and notably absent is the apartment building on Denny Street. The scene is imbued with a sense of melancholy, evoking the passage of time and the memories attached to the places now gone.</p>
 
 (Just to interject here, this is amazing, but I can assure you that this is not at all what modern day Bremerton looks like, espcially not the massive aircraft carrier with office buidling on its deck 🤣)
 
-![Photo in the style of a 1948 scene where Virginia, a five-foot-tall woman, is in the basement of her Bremerton apartment. The lighting is dim, and the atmosphere eerie. Suddenly, from a hole in the wall, a gigantic shrimp-like creature with a bright orange body, thin legs, and moving antennae appears. Virginia's face is filled with terror, and the overall tone matches the vintage and realistic style of the first image.](../../assets/images/2023/10/shrimpy-basement-6-c.webp)
+![Photo in the style of a 1948 scene where Virginia, a five-foot-tall woman, is in the basement of her Bremerton apartment. The lighting is dim, and the atmosphere eerie. Suddenly, from a hole in the wall, a gigantic shrimp-like creature with a bright orange body, thin legs, and moving antennae appears. Virginia's face is filled with terror, and the overall tone matches the vintage and realistic style of the first image.](../../../../assets/images/2023/10/shrimpy-basement-6-c.webp)
 
 <p class="text-xs text-justify">Photo in the style of a 1948 scene where Virginia, a five-foot-tall woman, is in the basement of her Bremerton apartment. The lighting is dim, and the atmosphere eerie. Suddenly, from a hole in the wall, a gigantic shrimp-like creature with a bright orange body, thin legs, and moving antennae appears. Virginia's face is filled with terror, and the overall tone matches the vintage and realistic style of the first image.</p>
 
-![Illustration depicting Virginia in the basement, her face pale with fear. In the background, a massive shrimp-like creature looms, its bright orange body contrasting with the dark environment. The creature's spindly legs and moving antennae add to the unsettling atmosphere. The art style is slightly abstract, emphasizing the surreal nature of the encounter.](../../assets/images/2023/10/shrimpy-basement-7-c.webp)
+![Illustration depicting Virginia in the basement, her face pale with fear. In the background, a massive shrimp-like creature looms, its bright orange body contrasting with the dark environment. The creature's spindly legs and moving antennae add to the unsettling atmosphere. The art style is slightly abstract, emphasizing the surreal nature of the encounter.](../../../../assets/images/2023/10/shrimpy-basement-7-c.webp)
 
 <p class="text-xs text-justify">Illustration depicting Virginia in the basement, her face pale with fear. In the background, a massive shrimp-like creature looms, its bright orange body contrasting with the dark environment. The creature's spindly legs and moving antennae add to the unsettling atmosphere. The art style is slightly abstract, emphasizing the surreal nature of the encounter.</p>
 

@@ -1,6 +1,6 @@
 ---
 title: 2023 - Week 42 - Still Not the Answer to Life the Universe and Everything
-postSlug: still-not-the-answer
+postSlug: 2023-week-42
 pubDatetime: 2023-10-22T00:40:09.000Z
 featured: false
 draft: false

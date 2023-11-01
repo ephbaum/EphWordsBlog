@@ -90,12 +90,10 @@ I worked.
 
 I also ran some more horror movies for horror movie month in the background throughout the day:
 
-```
 - [Insidious](https://www.imdb.com/title/tt1591095/)
 - [Insidious 2](https://www.imdb.com/title/tt2226417/)
 - [Smile](https://www.imdb.com/title/tt15474916/)
 - [The Meg](https://www.imdb.com/title/tt4779682/)
-```
 
 I'll not be re-reviewing them here. They're movies, they're fine enough. Perhaps I'll post my entire month's movie thoughts as I've been capturing them on a Google Sheet per tradition.
 
