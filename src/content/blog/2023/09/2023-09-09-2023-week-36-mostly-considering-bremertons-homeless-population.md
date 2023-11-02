@@ -2,7 +2,7 @@
 title: 2023 - Week 36 - Mostly Considering Bremerton's Homeless Population
 postSlug: 2023-week-36
 pubDatetime: 2023-09-09T21:05:00.000Z
-ogImage: ../../assets/images/2023/09/IMG_5872.jpeg
+ogImage: /assets/images/2023/09/built-by-works-progress-administration.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Labor Day - Reflection - Shopping Downtown - Reflecting on the homeless - Bremerton' Camping Ordinance
 ---
 
-![Featured Image](../../assets/images/2023/09/IMG_5872.jpeg)
+![A Built by Works Progress Administration Plaque embedded in the sidewalk in Bremerton's Union Hill neighborhood at night under the glow of the street lights](/assets/images/2023/09/built-by-works-progress-administration.jpeg)
 
 It has been another week and here I am typing on my keyboard in an attempt to maintain my commitment to myself to post every Saturday. I made this commitment to myself in the hopes that it would help build a good habit around _actually_ posting, among other things. Reflecting today, I think it's possible that it has worked. However, I will say that my drafts folders has continued to grow and grow as I mostly just post these Saturday updates and not much else. It might be time for a new commitment.
 
@@ -23,9 +23,9 @@ Our Sunday had us watching the end of Silo and Hijack on Apple TV+ - I don't hav
 
 Monday, as mentioned, was Labor Day and Waffle Day. It was a good day for me where I managed to get some _work_ done on my business's website. I'm still not finished, but I'm still pleased to have made progress.
 
-On Tuesday as I read my journal I see myself reflecting, as I often do, about what my next move will be. I've been feeling a sense of frustration around my current role. I've felt a lot this week that I'm being "called" toward something more. That, of course, is tempered with the feeling that I'm absolutely not qualified to do anything - though of course this is not true, these are just intrusive thoughts.
+On Tuesday as I read my journal I found myself reflecting, as I often do, about what my next move will be. I've been feeling a sense of frustration around my current role. I've felt a lot this week that I'm being "called" toward something more. That, of course, is tempered with the feeling that I'm absolutely not qualified to do anything - though of course this is not true, these are just intrusive thoughts.
 
-I'll briefly mention Thursday through today: it was fine enough if relatively uneventful. Lou and I have been working all week. Thursday saw Lou at the Bremerton Farmer's Market again, this time supporting [SCAN](https://savethechildrenactionnetwork.org/). Friday, since I didn't take my usual Thursday hike, I sneaked out for a couple hours at Newberry with Ollie and put in a few miles looping around Strange Days repeatedly. Last night we hosted one of Liz's friends for a sleepover. This morning we took a walk downtown to "stimulate the local economy" stopping into a few local shops like Gastropup and Ballast Books. Tonight Liz will sleep over at her friend's house giving Lou and I a little time to ourselves. :)
+I'll briefly mention Thursday through today: it was fine enough if relatively uneventful. Lou and I have been working all week. Thursday saw Lou at the Bremerton Farmer's Market again, this time supporting [SCAN](https://savethechildrenactionnetwork.org/). Friday, since I didn't take my usual Thursday hike, I sneaked out for a couple hours at Newberry with Ollie and put in a few miles looping around Strange Days repeatedly. Last night we hosted one of Liz's friends for a sleepover. This morning we took a walk downtown to "stimulate the local economy" stopping into a few local shops like Gastropup and Ballast Books. Tonight Liz will sleep over at her friend's house giving Lou and I a little time to ourselves. 😊
 
 ## Bremerton's Camping Ordinance
 
@@ -33,7 +33,8 @@ Wednesday I watched the Bremerton City Council meeting live. I've been watching 
 
 This meeting was where the council, after multiple study sessions, would show the city parcels that where enforcement of the camping ban would be suspended when there isn't available shelter space. Someone was kind enough to make an [accessible map](https://www.google.com/maps/d/u/0/viewer?mid=1xv1SAaEjhxjEJWqkb5y39RBSz7pqChI&ll=47.574954819918176%2C-122.6659319&z=13) for everyone to be able to see what's being considered from the large PDF of the minutes that can be found [here](https://meetings.municode.com/PublishPage/index?cid=BREM&ppid=d33416d7-25d1-44e6-9d32-55b97fa53824&p=-1).
 
-My thoughts on this meeting could be spun off into its own post.  
+My thoughts on this meeting could be spun off into its own post.
+
 I found it shocking just how many selfish "what about me" comments were made. I was inspired by the folks who talked about their direct actions on the street at MLK Way and Broadway. I was made curious by folks who asked about funding and resources and where they're being directed.
 
 For now I will focus on how I was able to updated my understanding: prior to this meeting I was under the impression that this change would result in the city pushing people into some kind of tent city. After listening more closely to what the council and mayor had to say it's clear that city is currently unable to enforce this camping ban and after making changes to the ordinance the city will remain unable to enforce the camping ban.
@@ -44,13 +45,13 @@ The largest parcel is 40 acres up at the border of Tracyton that resulted has a 
 
 The fact is that the camping ordinance is not operationally enforceable, as pointed out at the end of the meeting by the honorable representative from District 2 Denise Frey who first talked about the "scary place":
 
-![](../../assets/images/2023/09/Screenshot-2023-09-09-133345.png)
+![Screenshot of slide from Bremerton City Council Recording: Venn Diagram: Left circle: A false assumption - Right circle: Action - crossover “Scary!”](../../../../assets/images/2023/09/Screenshot-2023-09-09-133345.png)
 
 Venn Diagram: Left circle: A false assumption - Right circle: Action - crossover "Scary!"
 
 She then talked about the facts as they relate to enforcement:
 
-![](../../assets/images/2023/09/Screenshot-2023-09-09-133529.png)
+![Screenshot of slide from Bremerton City Council Recording: What does Enforcement Mean?](../../../../assets/images/2023/09/Screenshot-2023-09-09-133529.png)
 
 It's clear that there is a lot of fear, uncertainty, and doubt around this issue.
 

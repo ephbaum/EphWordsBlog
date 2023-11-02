@@ -117,7 +117,7 @@ While at the Farmer's Market Lou found another produce vendor selling [ground ch
 
 In the evening we found ourselves at Helm's Deep Tavern in the basement of Game Wizard and Blue Sky Hobbies across from Ashley's Pub for a meeting of the local chapter of the [DSA](https://www.facebook.com/westsoundDSA/). Helm's Deep is an interesting experience. I _had_ checked out the tavern once before, but only as a brief pass through, this was the first time attending one of their bookable rooms.
 
-To be honest, the service was kind of terrible. As Lou and I desecended the stairs the bar tender saw us and immediately put up a sign indicating that he as on break and he walked away. When he finally returned he managed to pull the wrong taps twice. On the plus side we wound up with a free drink out of the deal, but it was still not the greatest first experience there.
+To be honest, the service was kind of terrible. As Lou and I descended the stairs the bar tender saw us and immediately put up a sign indicating that he as on break and he walked away. When he finally returned he managed to pull the wrong taps twice. On the plus side we wound up with a free drink out of the deal, but it was still not the greatest first experience there.
 
 The Democratic Socialists of America meeting was pretty loosely structured. We didn't recite any Marxist texts but instead mostly chatted about the state of affairs in which we all find ourselves.
 

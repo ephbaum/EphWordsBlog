@@ -2,7 +2,7 @@
 title: 2023 - Week 35 - Change is Inevitable, Necessary, and Good
 postSlug: 2023-week-35
 pubDatetime: 2023-09-03T06:41:42.000Z
-ogImage: ../../assets/images/2023/09/IMG_5873.jpeg
+ogImage: /assets/images/2023/09/spider-spider-burning-bright.jpeg
 featured: false
 draft: false
 tags:
@@ -11,19 +11,19 @@ tags:
 description: Ozz is now Liz! - Liz is going to a brick and mortar school - a movie date with the kiddo to see the new Indiana Jones movie (on National Cinema Day) - Red Cross at Bremerton Farmers Market (VOLUNTEER OPPORTUNITIES ABOUND!)
 ---
 
-![Featured Image](../../assets/images/2023/09/IMG_5873.jpeg)
+![Featured Image](/assets/images/2023/09/spider-spider-burning-bright.jpeg)
 
-Another big week for the Baum family. It's been such a big week that I've been uncertain about how I would post today about it. I've been very transparent, but I'm always wondering if I'm being too transparent, if I'm opening myself up to unnecessarily risk.
+Another big week for the Baum family. It's been such a big week that I've been uncertain about how I would post today about it. I've been very transparent, but I'm always wondering if I'm being too transparent, if I'm opening myself up unnecessarily to risk.
 
 Then I realize that the damage is done, and figure I'm in for a penny, in for a pound. I've already shared too much of my life on the Internet and I've already been a the victim of identity shenanigans multiple times over. I'm just going to put myself out there and hope that things will just generally work out fine enough in the end.
 
-So in the interest of transparency about the life that we're living over, I'll share that the beginning of this week, or more accurately the end of last week, featured a very big conversation with our youngest child. She was very clear with us about her belief that she is a girl, and she said that she's as certain now as she ever was that she is, in fact, a girl.
+So in the interest of transparency about the life that we're living, I'll share that the beginning of this week, or more accurately the end of last week, featured a very big conversation with our youngest child. She was very clear with us about her belief that she is a girl, and she said that she's as certain now as she ever was that she is, in fact, a girl.
 
-We're embracing Liz! She continues to tell us who she is (while she continues to learn more and more about herself. We're doing our best to listen and support her in on this journey.
+We're embracing Liz! She continues to tell us who she is, while she continues to learn more and more about herself. We're doing our best to listen and support her in on this journey.
 
 I'm proud of her courage in telling us. I know that this has been a struggle for her. She first told me she was a girl when she was very young. Of course she's also told us that she's a reincarnated spirit, and alien, a demon, and some kind of horse spirit (or something like that, she was very little and it's been a while) from another realm called Ipaña.
 
-This conversation covered a lot of ground and was mixed with a conversation about her having recently changed her mind about wanting to attend a brick & mortar school instead going. This is not keeping with our original plan to make that change next year and, and while already challenging, meant that her first day of school would be moved up to this week instead of the next.
+This recent conversation covered a lot of ground and was mixed with a conversation about her having recently changed her mind about wanting to attend a brick & mortar school instead attending her online school. This is not keeping with our original plan to make that change next year and, and while already challenging, meant that her first day of school would be moved up to this week instead of the next.
 
 I think we had a really healthy dialog and Liz was very clear about her decision. I'm proud of her for being open with us and trying to be super mature. It was good for her to share. We're working on establishing additional care for her.
 
@@ -49,4 +49,4 @@ This week has been filled with change requiring a great deal of re-framing, mind
 
 There has been a bit of conversation around the community related to our growing houseless population and how to address that. There's a lot happening here all the time. It's the wild west. It's incredible. In the last week there has been an attempted carjacking, a structure fire within a mile or so, hit and runs, and so many other things.
 
-I'm tired and I think losing coherence, I may come back and edit this one to be a bit clearer in the future, maybe with a better title and whatever else I might have pissed - for now I'm going to publish this to meet my personal commitment to myself
+I'm tired and I think losing coherence, I may come back and edit this one to be a bit clearer in the future, maybe with a better title and whatever else I might have missed - for now I'm going to publish this to meet my personal commitment to myself

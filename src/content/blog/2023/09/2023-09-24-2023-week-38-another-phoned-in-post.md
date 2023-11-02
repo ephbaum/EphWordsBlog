@@ -14,7 +14,7 @@ Another Saturday post is here and I'm staring at this interface thinking about w
 
 It's been a huge week, again, for this family.
 
-I [mentioned last week](/2023-week-37/) that Lou was flying to Washington D.C. with SCAN, leaving me home with Liz and Ollie. I think we all managed to pull through, and Lou returned changed by her experience. She spoke highly of everyone she met and was thrilled to have had the opportunity expressing a desire to return soon.
+I [mentioned last week](/posts/2023-week-37/) that Lou was flying to Washington D.C. with SCAN, leaving me home with Liz and Ollie. I think we all managed to pull through, and Lou returned changed by her experience. She spoke highly of everyone she met and was thrilled to have had the opportunity expressing a desire to return soon.
 
 Liz and I spent some time bonding and I enjoyed spending time with my daughter.
 

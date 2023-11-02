@@ -2,7 +2,7 @@
 title: 2023 - Week 37 - Week After Week
 postSlug: 2023-week-37
 pubDatetime: 2023-09-17T06:45:00.000Z
-ogImage: ../../assets/images/2023/09/IMG_5984.jpeg
+ogImage: /assets/images/2023/09/dramatic-mushrooms.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Sept. 11th 22nd anniversary rememberance - Lou & I had a walking date - Lou ran for, and was elected to, the board of Kitsap Community Food Coop - cooling temps - 7 miles at Newberry - Lou flew to DC for SCAN - Liz disciplined - The Hobbit
 ---
 
-![Featured Image](../../assets/images/2023/09/IMG_5984.jpeg)
+![Beautifully dramatic mushrooms on a tree at Newberry Heritage Park](/assets/images/2023/09/dramatic-mushrooms.jpeg)
 
 It seems redundant to continue saying, week after week, that life is hard, challenging, or trying, as I so often do.
 
