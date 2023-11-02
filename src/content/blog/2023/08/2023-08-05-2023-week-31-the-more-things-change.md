@@ -7,7 +7,7 @@ draft: false
 tags:
   - ephandlou
   - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+description: Wherein I start with a bit of Climate Dread, discuss the busy-ness of the week with Lou hosting family, and discuss my impending viewing of TMNT Mutant Mayhem with the kiddos
 ---
 
 Content Warning, the preamble is heavy this week w/ Climate Dread. If that bothers you, you want to skip to the first header

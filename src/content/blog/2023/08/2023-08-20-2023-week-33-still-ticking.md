@@ -2,16 +2,16 @@
 title: 2023 - Week 33 - Still Ticking
 postSlug: 2023-week-33
 pubDatetime: 2023-08-20T05:24:27.000Z
-ogImage: ../../assets/images/2023/08/IMG_5597.jpeg
+ogImage: /assets/images/2023/08/new-deck-lit-up.jpeg
 featured: false
 draft: false
 tags:
   - ephandlou
   - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+description: Wherein I reflect on my travel to Minnesota and decision to put my father in hospice, lament the heat, appreciate our new deck and fenced-in side yard, as well as a few additional thoughts and experiences shared
 ---
 
-![Featured Image](../../assets/images/2023/08/IMG_5597.jpeg)
+![Our new deck all lit up at night](/assets/images/2023/08/new-deck-lit-up.jpeg)
 
 This week I have been focusing on recovery. With last weeks' travel to Minnesota to make the decision to put my father into hospice. I'm grateful that I had my partner Lou to help me through, as well as my kids and other friends and family.
 
@@ -43,7 +43,7 @@ We're very excited for this space! 😊
 
 ## Family, Career Prospects, and a Random Movie Review
 
-Lou woke this morning to discover that was still playing VR at 4:30 this morning. She decided to take their electronics as a consequence and we will try to help them to make better sleep decisions. This was a particularly frustrating circumstance as we were meant to go do a little back-to-school shopping this morning, something Oz was very excited about, but they didn't get up.
+Lou woke this morning to discover that Oz was still playing VR at 4:30am. She decided to take their electronics as a consequence and we will try to help them to make better sleep decisions. This was a particularly frustrating circumstance as we were meant to go do a little back-to-school shopping this morning, something Oz was very excited about, but they didn't get up.
 
 All of this, of course, after having a conversation with Oz about the value of being bored sometimes. They, like so many children, are constantly engaging with a glowing rectangle. Whether it's their phone and YouTube or their computer with games / VR. We're trying to continue to encourage them to do the right thing.
 
@@ -53,7 +53,7 @@ Something will come to mind eventually, I'm sure 😅
 
 My musings today led me to contemplate advertising a group for "Mindful Hiking for Beginners."
 
-In an unrelated note: Lou and I watched the film [Happiness for Beginners](https://www.imdb.com/title/tt15509244/), and I enjoyed it quite a bit for a cliche ridden romantic comedy. It seemed like it was trying to be fresh and clever but the only person who didn't see the romance was the main character, and it wasn't even in that fun sort of maddening way but rather like the writer really thought they were hiding the truth from you, the viewer. I enjoyed the backpacking references and really found myself identifying with the hiker guide character, Beckett. He had no time for the other characters' drama and just wanted to hiking. It's hard, however, not to see Ellie Kemper as Erin Hannon, even when watching The Unbreakable Kimmy Schmidt.
+In an obviously related note: Lou and I watched the film [Happiness for Beginners](https://www.imdb.com/title/tt15509244/), and I enjoyed it quite a bit for a cliche ridden romantic comedy. It seemed like it was trying to be fresh and clever but the only person who didn't see the romance was the main character, and it wasn't even in that fun sort of maddening way but rather like the writer really thought they were hiding the truth from you, the viewer. I enjoyed the backpacking references and really found myself identifying with the hiker guide character, Beckett. He had no time for the other characters' drama and just wanted to hiking. It's hard, however, not to see Ellie Kemper as Erin Hannon, even when watching The Unbreakable Kimmy Schmidt.
 
 ## Conclusion
 

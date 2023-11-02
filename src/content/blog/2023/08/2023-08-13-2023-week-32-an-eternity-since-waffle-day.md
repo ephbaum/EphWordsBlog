@@ -2,16 +2,16 @@
 title: 2023 - Week 32 - An Eternity Since Waffle Day
 postSlug: 2023-week-32
 pubDatetime: 2023-08-13T04:57:44.000Z
-ogImage: ../../assets/images/2023/08/IMG_5498.jpeg
+ogImage: /assets/images/2023/08/a-flower-in-minnesota.jpeg
 featured: false
 draft: false
 tags:
   - ephandlou
   - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+description: Wherein I am very detailed about one of the most difficult weeks I've ever lived having traveled to Chicago for work only to suddenly need to travel to Minnesota for my father's ailing health with a side order of some more of "Eph's Tragic Backstory"
 ---
 
-![Featured Image](../../assets/images/2023/08/IMG_5498.jpeg)
+![A drooping yellow flower in Minnesota](/assets/images/2023/08/a-flower-in-minnesota.jpeg)
 
 This has been one of the hardest weeks I have ever lived, and I have experienced some very _very_ hard weeks.
 
@@ -387,7 +387,7 @@ MSP is a fine enough airport. Dropping off the rental car was easy enough, the T
 
 It was all _fine_.
 
-I found an out of the way corner near my gate and read the last few chapters of [I May Be Wrong](https://www.amazon.com/May-Be-Wrong-Sunday-Bestseller/dp/1526644827/), a beautiful book I finished as my plane took off a few minutes ahead of schedule.
+I found an out of the way corner near my gate and read the last few chapters of [I May Be Wrong](https://www.goodreads.com/book/show/60222414-i-may-be-wrong), a beautiful book I finished as my plane took off a few minutes ahead of schedule.
 
 While on the flight I "watched" Guy Ritchie's [The Covenant](https://www.imdb.com/title/tt4873118/) and found it to be a fine enough film. I knew it wouldn't be Lock, Stock or Snatch, but I was curious what the creator of those movies would do with war film. It was fairly entertaining and a compelling enough watch, though I was left wondering if I'd have preferred watching Hypnotic, given hindsight.
 
