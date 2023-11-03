@@ -2,16 +2,16 @@
 title: 2023 - Week 22 - Our Backstory? Tragically Delicious
 postSlug: 2023-week-22
 pubDatetime: 2023-06-04T05:25:27.000Z
-ogImage: ../../assets/images/2023/06/IMG_2728.jpeg
+ogImage: /assets/images/2023/06/eph-and-lou-on-a-mountain.jpeg
 featured: false
 draft: false
 tags:
   - ephandlou
   - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+description: Wherein I talk about watching movies and TV shows, hiking on the Olympic Peninsula at Doeswollips and Mt. Walker, and continue to consider my future
 ---
 
-![Featured Image](../../assets/images/2023/06/IMG_2728.jpeg)
+![Eph and Lou atop Mt. Walker overlooking the view to the east](/assets/images/2023/06/eph-and-lou-on-a-mountain.jpeg)
 
 It's June already, and I'm stuck wondering how it's possible that has happened?
 
@@ -37,7 +37,7 @@ We also started watching the first season of the show From which has been very e
 
 Monday was Memorial Day and we were lucky enough to spend much of it outside. While it was a cool and chilly in the morning but the afternoon sun burned off the cloud cover giving way to a lovely temperate afternoon. We had a traditional meal of (Impossible) brats, melon, asparagus, and "salads" (in quotes because salad shouldn't contain mayonnaise as a primary ingredient). Moira came and we had a nice little time. We wound up watching Scream VI.
 
-Scream Vi is an amazingly meta franchise now. Kudos and well done for all that has been accomplished with this film. It's been amazing journey since 1996 and I'm glad to have been along for the ride.
+Scream VI is an amazingly meta franchise now. Kudos and well done for all that has been accomplished with this film. It's been amazing journey since 1996 and I'm glad to have been along for the ride.
 
 That's all I have to say about that for now.
 

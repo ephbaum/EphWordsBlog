@@ -2,16 +2,16 @@
 title: 2023 - Week 24 - What... me worry?
 postSlug: 2023-week-24
 pubDatetime: 2023-06-17T18:59:00.000Z
-ogImage: ../../assets/images/2023/06/IMG_2938.jpeg
+ogImage: /assets/images/2023/06/what-me-worry.jpeg
 featured: false
 draft: false
 tags:
   - ephandlou
   - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+description: Wherein I try not to worry, mention seeing the amazing Across the Spider-Verse film, talk about rearranging the living including moving my workspace upstairs out of the dungeon, talk about seeing the Mariners play at T-Mobile Park again but with the kids this time, talk about the Eisenhower Matrix and dealing with disregulation, playing games with the kids, Oz's last day of school for the year, and talk about Juneteenth and more
 ---
 
-![Featured Image](../../assets/images/2023/06/IMG_2938.jpeg)
+![art in a window at olympic college featuring Alfred e. Neuman](/assets/images/2023/06/what-me-worry.jpeg)
 
 # What... me worry?
 
@@ -24,19 +24,19 @@ Right now, I'm going to talk about our week, which has been super busy and I cou
 
 ## Sunday
 
-As mentioned in [last week's post](/2023-week-23/), we went to see the seminal film: [Spider-Man: Across the Spider-Verse](https://www.imdb.com/title/tt9362722/) and found it to be an amazing movie. It has come up repeatedly, I've thought about the movie many times and I really cannot wait until I get to watch it again.
+As mentioned in [last week's post](/posts/2023-week-23/), we went to see the seminal film: [Spider-Man: Across the Spider-Verse](https://www.imdb.com/title/tt9362722/) and found it to be an amazing movie. It has come up repeatedly, I've thought about the movie many times and I really cannot wait until I get to watch it again.
 
 In other news about Sunday, we, especially Lou, did some rearranging and updating our space this week and it all started on Sunday. We moved my desk upstairs as I have decided that I am no longer interested of spending my time alone in the basement dungeon and would instead prefer to be upstairs in the brightness of the living among the hustle and bustle of my family as they go about their days. Given the new space it got me thinking about my ongoing desire to invest in some of the latest hardware and build (or buy) a new desktop computer.
 
-We decided to update our living room space to be more like a co-working space with a few workspaces and flexible seating that can be both communal (e.g. games, eating, and collaboration) and theatrical for (e.g. movies and tv, video games). To accomplish this we've decided to donate our old futon (since we now have a "guest room") to someone who can use it and invest in smaller loveseats and an additional guest chair. On top the seating, which does include my rolling chair, we found this sort of "right-sized" 48" square 4-legged table that is super simple and very functional for various activities (see the previous lists). Finally, Lou added an additional on the open wall.
+We decided to update our living room space to be more like a co-working space with a few workspaces and flexible seating that can be both communal (e.g. games, eating, and collaboration) and theatrical for (e.g. movies and tv, video games). To accomplish this we've decided to donate our old futon (since we now have a "guest room") to someone who can use it and invest in smaller loveseats and an additional guest chair. On top the seating, which does include my rolling chair, we found this sort of "right-sized" 48" square 4-legged table that is super simple and very functional for various activities (see the previous lists). Finally, Lou added an additional desk surface on the open wall.
 
 ## Monday to Wednesday
 
-Monday we had dinner with Moira (who, in addition to seeing her brother returned, was able to take care of their laundry 😅 It was a nice little visit. Time flies! 😵
+Monday we had dinner with Moira who, in addition to seeing their brother returned, was able to take care of their laundry 😅 It was a nice little visit. Time flies! 😵
 
-We may, or may not, have played some Fortnite. Maybe on Tuesday as well
+We may, or may not, have played some Fortnite. Maybe on Tuesday as well.
 
-Working from the living room does seem to have been a largely positive improvement for me. There are times where I might need or want a bit more privacy, and I think we're going to make that work, but for now
+Working from the living room does seem to have been a largely positive improvement for me. There are times where I might need or want a bit more privacy, and I think we're going figure out how to make that work, but for now this is a much better arrangement for me.
 
 On Tuesday, a former President of the United States was indicted on 37 charges related to handling classified information. He ultimately used it as a campaign stop on his quest to again ascend the to presidency.
 
@@ -89,6 +89,11 @@ Important, Not Urgent: Plan
 Not Important, Delegate
 
 Not Important, Not Urgent: Eliminate
+
+|               |  Urgent  | Not Urgent |
+| ------------- | :------: | :--------: |
+| Important     |    Do    |    Plan    |
+| Not Important | Postpone | Eliminate  |
 
 YMMV, of course, and yes, it's easier said than done.
 
