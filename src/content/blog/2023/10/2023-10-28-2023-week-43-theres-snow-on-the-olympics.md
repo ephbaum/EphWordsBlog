@@ -1,6 +1,6 @@
 ---
 title: 2023 - Week 43 - There's Snow on the Olympics
-postSlug: 2023-week-43-theres-snow-on-the-olympics
+postSlug: 2023-week-43
 pubDatetime: 2023-10-29T03:07:45.000Z
 featured: false
 draft: false
