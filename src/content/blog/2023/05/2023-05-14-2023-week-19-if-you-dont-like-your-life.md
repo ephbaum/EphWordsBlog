@@ -2,16 +2,16 @@
 title: 2023 - Week 19 - If You Don't Like Your Life...
 postSlug: 2023-week-19
 pubDatetime: 2023-05-14T02:57:21.000Z
-ogImage: ../../assets/images/2023/05/IMG_2105.jpeg
+ogImage: /assets/images/2023/05/tohoma-from-chester.jpeg
 featured: false
 draft: false
 tags:
   - ephandlou
   - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+description: Wherein I discuss an idea for a project we have to work on for Kitsap CREATE, meander a bit, lament the loss of Hurricane Ridge Lodge in OLYM, explain the title of the post (sorta), talk about attending a fair in Manette for Catalyst school, mention Mother's Day (food & jewelry), and think about a car that's just been sitting for so long in our neighborhood
 ---
 
-![Featured Image](../../assets/images/2023/05/IMG_2105.jpeg)
+![Tahoma as seen from Chester in Bremerton](/assets/images/2023/05/tohoma-from-chester.jpeg)
 
 Another week has come and gone for the \*Baum family and I remain grateful for living in this little corner of the beautiful Pacific Northwest
 
@@ -23,13 +23,13 @@ And Ozz needs to do a project.
 
 They initially wanted to try to build an upscale Nerf blaster for their collection
 
-![DRAKE MEME YES/NO - TOP: FABRICATING A NERD GUN - BOTTOM: FABRICATING A NERF TURRET](../../assets/images/2023/05/image.png)
+![DRAKE MEME YES/NO - TOP: FABRICATING A NERD GUN - BOTTOM: FABRICATING A NERF TURRET](../../../../assets/images/2023/05/image.png)
 
 Look, I've memed
 
 Lou suggest not making a gun. I suggested making a turret using Ajrduino, optical sensors, motors, flywheels, etc.!
 
-It's **not** a gun 🤷�
+It's **not** a gun 🤷
 
 We've since [found a project](https://www.instructables.com/Arduino-NERF-Ball-Wireless-FPV-Sentry-Turret/) on Instructables that looks like it might be a good jumping off point at least. We'll need a make a project proposal, and a charter, which should be easy enough to do and maybe I'll try working with the kiddos to draft that this afternoon so we can get that under source control.
 
@@ -45,7 +45,7 @@ I want to help
 
 I don't know where to start
 
-Meanwhile I am sitting here on my porch and everything is fine for me, except for all the in-flight projects  in need of my attention. 😅
+Meanwhile I am sitting here on my porch and everything is fine for me, except for all the in-flight projects in need of my attention. 😅
 
 The project I'm mostly thinking about, though, is this Nerf Turret-
 
@@ -69,7 +69,7 @@ Investing in rocking chairs seemed like a no-brainer from a brain-happy chemical
 
 ## Meanwhile, back at the lodge...
 
-The Hurricane Ridge Lodge in OLYM [burned down](https://www.nps.gov/olym/learn/news/hurricane-ridge-day-lodge-fire-2023-05-07.htm) this week while closed and undergoing maintenance. I'm so glad that we'd had the chance to visit and I'm blown away, yet again, by just how many fires seem to take structures in this region. I'm so very happy to have had the opportunity to visit before it was lost. It was a truly lovely structure. 😭�
+The Hurricane Ridge Lodge in OLYM [burned down](https://www.nps.gov/olym/learn/news/hurricane-ridge-day-lodge-fire-2023-05-07.htm) this week while closed and undergoing maintenance. I'm so glad that we'd had the chance to visit and I'm blown away, yet again, by just how many fires seem to take structures in this region. I'm so very happy to have had the opportunity to visit before it was lost. It was a truly lovely structure. 😭😞
 
 [This article](https://www.columbian.com/news/2023/may/12/cause-of-fire-that-burned-hurricane-ridge-day-lodge-sought/) in an Oregon paper covering Clark County reports that the reason for the fire is being sought.
 
@@ -93,7 +93,7 @@ Anyway, here's to iterative progress across many the many demands in our lives �
 
 ## Enough of that Thinking
 
-You're right H2!
+You're right H2 heading!
 
 This week gave me plenty of opportunity to check off TODO items, including a few that I wanted to check off.
 
@@ -109,7 +109,7 @@ Good for me, as well.
 
 And Lou, and Ozzie too
 
-I got some compliments on my death metal mycelium, a great choice on Lou's part finding a shirt that "is nerdy 4 levels deep" iirc 😂
+I got some compliments on my death metal mycelium t-shirt, a great choice on Lou's part finding a shirt that "is nerdy 4 levels deep" iirc 😂
 
 Most of the attention was on Ollie, however. It was a fun community event and it was filled with a sort of community warmth that's hard to articulate
 
