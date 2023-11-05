@@ -2,16 +2,16 @@
 title: 2023 - Week 17 - Time Keeps On Slipping
 postSlug: 2023-week-17
 pubDatetime: 2023-04-30T06:18:47.000Z
-ogImage: ../../assets/images/2023/04/C480762F-0898-4923-9C8A-C9352CCB1F36.jpeg
+ogImage: /assets/images/2023/04/yellow-blossoms.jpeg
 featured: false
 draft: false
 tags:
   - ephandlou
   - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+description: Wherein I talk about getting teeth implanted in my head, Ozz's acting class, Ozz's standardized testing, Lou and I updating our IDs, and having an adventure in Steilacoom
 ---
 
-![Featured Image](../../assets/images/2023/04/C480762F-0898-4923-9C8A-C9352CCB1F36.jpeg)
+![Yellow blossoms](/assets/images/2023/04/yellow-blossoms.jpeg)
 
 ## Into the future
 
@@ -86,7 +86,7 @@ Wednesday was a heck of a day as I had to drive Ozz up to the Oxford Suites in S
 
 For me on Wednesday it was more the latter than the former, but I did still manage to get some things done even if they weren't the things I had really set out to do in the morning.
 
-Ozz requested that we get McDonald's on the way to their testing since we so rarely get fast food these days and almost never McDonalds. It was fine but I still don't understand why people love their fries so much, they're only okay.
+Ozz requested that we get McDonald's on the way to their testing since we so rarely get fast food these days and almost never McDonald's. It was fine but I still don't understand why people love their fries so much, they're only okay.
 
 Meanwhile I managed to get together with most of my Infinity RPG group. We basically spent the entire session at a safe house working through the shopping mini game where your "cashflow" is essentially your wallet's "armor". It was a great time and my character now as a fancy folding marksman rifle!
 

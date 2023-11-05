@@ -2,16 +2,16 @@
 title: 2023 - Week 14 - The Days Are Just Packed
 postSlug: 2023-week-14
 pubDatetime: 2023-04-08T17:23:00.000Z
-ogImage: ../../assets/images/2023/04/IMG_1439.jpeg
+ogImage: /assets/images/2023/04/t-mobile-park.jpeg
 featured: false
 draft: false
 tags:
   - ephandlou
   - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+description: Wherein I talk about going out with Lou a couple times, including a movie at the Roxy & dinner at Remedy Speakeasy, Ollie's first puppy class, Lou and I meeting up with friends from out of town in Seattle and catching a game at T-Mobile Park, and various other things of interest from our week
 ---
 
-![Featured Image](../../assets/images/2023/04/IMG_1439.jpeg)
+![A view from our seats at T-Mobile Park](/assets/images/2023/04/t-mobile-park.jpeg)
 
 It has definitely been another week for sure - Lou and I had **two** nights out this week, a major milestone as Oz is finally showing enough maturity to be left alone (if you don't count the adult sibling that's generally around just in case things go wrong).
 
@@ -37,7 +37,7 @@ The rest of the week was, as suggested above, so I'll try to briefly summarize a
 
 #### Sunday
 
-Sunday was a little gloomy, and knowing that we were facing a long week, we mostly stuck around the house. I worked a bit on a new project involving ChatGPT and a strong desire to gain a little more practical experience using Elixir & Pheonix Framework. I talk about it a bit more [here](https://ephbaum.dev/2023-04-02-project-blog-elxrbb-innaugural-entry/).
+Sunday was a little gloomy, and knowing that we were facing a long week, we mostly stuck around the house. I worked a bit on a new project involving ChatGPT and a strong desire to gain a little more practical experience using Elixir & Phoenix Framework. I talk about it a bit more [here](https://ephbaum.dev/2023-04-02-project-blog-elxrbb-innaugural-entry/).
 
 My friend Bald Mike arrived in Seattle via Amtrak for a one day "layover" before continuing on the LA. The train was not only shockingly on-time but actually about an hour early! This surprise would have been a great opportunity to meet up, but alas the lack of Sunday fast ferries for Kitsap Transit and one boat service on WSF meant that it would have been a challenge.
 

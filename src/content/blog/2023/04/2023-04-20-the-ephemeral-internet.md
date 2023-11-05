@@ -2,16 +2,15 @@
 title: The Ephemeral Internet
 postSlug: the-ephemeral-internet
 pubDatetime: 2023-04-20T03:23:00.000Z
-ogImage: https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fDQwNHxlbnwwfHx8fDE2ODE5NzAyMDE&ixlib=rb-4.0.3&q=80&w=2000
+ogImage: https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fDQwNHxlbnwwfHx8fDE2ODE5NzAyMDE&ixlib=rb-4.0.3&q=80&w=800
 featured: false
 draft: false
 tags:
   - ephandlou
-  - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+description: Often people have long considered the Internet forever. Joe Rogan's character on News Radio compared content on the Internet with pee in a pool. That's not really so. I've found that, over time, huge swaths of the Internet have simply vanished. This post, which probably may have made more sense on ephbaum.dev, is my toast to the slow churn and erosion of the Internet.
 ---
 
-![Featured Image](https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fDQwNHxlbnwwfHx8fDE2ODE5NzAyMDE&ixlib=rb-4.0.3&q=80&w=2000)
+![Featured Image](https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fDQwNHxlbnwwfHx8fDE2ODE5NzAyMDE&ixlib=rb-4.0.3&q=80&w=800)
 
 I am forever shocked at how much of the internet is gone now, as well as how much [persists](https://archive.org).
 

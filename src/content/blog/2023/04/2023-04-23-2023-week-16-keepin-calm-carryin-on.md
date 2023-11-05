@@ -2,16 +2,16 @@
 title: 2023 - Week 16 - Keepin' Calm, Carryin' On
 postSlug: 2023-week-16
 pubDatetime: 2023-04-23T06:03:42.000Z
-ogImage: https://images.unsplash.com/photo-1533162507191-d90c625b2640?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE4fHxjYWxtfGVufDB8fHx8MTY4MjIyOTU4Mw&ixlib=rb-4.0.3&q=80&w=2000
+ogImage: https://images.unsplash.com/photo-1533162507191-d90c625b2640?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE4fHxjYWxtfGVufDB8fHx8MTY4MjIyOTU4Mw&ixlib=rb-4.0.3&q=80&h=800
 featured: false
 draft: false
 tags:
   - ephandlou
   - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+description: Wherein I talk about getting a new waffle maker, seeing the Super Mario Bros. Movie with the kiddos, Lou and I changed our names, our adventures at the Social Security Administration, our first puppy socialization class, attending Kitsap CREATE, and more
 ---
 
-![Featured Image](https://images.unsplash.com/photo-1533162507191-d90c625b2640?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE4fHxjYWxtfGVufDB8fHx8MTY4MjIyOTU4Mw&ixlib=rb-4.0.3&q=80&w=2000)
+![An Unsplash Splash image of ](https://images.unsplash.com/photo-1533162507191-d90c625b2640?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE4fHxjYWxtfGVufDB8fHx8MTY4MjIyOTU4Mw&ixlib=rb-4.0.3&q=80&h=800)
 
 It has been another action packed week! Still, despite everything going on, I'm doing my best to remain zen.
 
@@ -31,7 +31,7 @@ Monday was a huge milestone for Lou and I when we finally changed our names, off
 
 This is definitely something about which I intend to write more, but the process of getting one's name changed in Washington State isn't particularly difficult, though a little time consuming. In this case we filed with the circuit court of our county and then showed up for our docket. They seem to do all name changes once a month here and we were one of many both in court and on Zoom.
 
-The experience of sitting in a Kitsap County Circuit Court Room was interesting when compared to the various other times I've found myself in a courtroom throughout my life time. It's an experience I've had much more often than I would have expected when I was but a youngin'. Perhaps my other experiences in he courtroom are a topic for yet another [future post](/C:/Users/fskir/AppData/Local/Temp/2HZj4IZBHeRUj6rf0zpEM8QxyJ5/resources/app.asar/notyetiguess). I will forever recall the vibration of the HVAC system, the sound of the speakers when Zoom announced that a recording was in progress, the stains on the ceiling tiles. These things, and the positive interaction with the judge, will likely always be seared in my memory.
+The experience of sitting in a Kitsap County Circuit Court Room was interesting when compared to the various other times I've found myself in a courtroom throughout my life time. It's an experience I've had much more often than I would have expected when I was but a youngin'. Perhaps my other experiences in he courtroom are a topic for yet another future post. I will forever recall the vibration of the HVAC system, the sound of the speakers when Zoom announced that a recording was in progress, the stains on the ceiling tiles. These things, and the positive interaction with the judge, will likely always be seared in my memory.
 
 It's a huge relief.
 
@@ -77,7 +77,7 @@ We're making such great progress! We're going to have a Good Dog™️.
 
 Friday was busy from a work perspective trying to get as much done as possible at the end of the Sprint.
 
-In the evening Oz and I attended a meeting of [Kitsap CREATE](https://kitsapcreate.org), which happens on the third Friday of each month. We became members as it's kid of a no-brainer. The group is continually recommended and showing up when asking about meeting like minded folks in the area. They seem to lack a good "maker" space, not even being able to use the term Maker™️ to describe themselves.
+In the evening Oz and I attended a meeting of [Kitsap CREATE](https://kitsapcreate.org), which happens on the third Friday of each month. We became members as it's kind of a no-brainer. The group is continually recommended and showing up when asking about meeting like minded folks in the area. They seem to lack a good "maker" space, not even being able to use the term Maker™️ to describe themselves, they don't actually have any kind of work space- which would be really ideal for me.
 
 A significant portion of the meeting was dedicated to describing, and requesting volunteers for, a STEM Day at the Marvin Williams Rec Center on the day before Father's day from 10-6. They're going to have a bunch of demonstrations, interactive exhibits, and classroom instruction around a variety of STEM medium and disciplines.
 
@@ -86,5 +86,3 @@ A significant portion of the meeting was dedicated to describing, and requesting
 That brings us to today. There's not much to say about today but it happened. We ran a few errands in the morning, including a trip to our local pet supply shop, [Gastropup](https://www.gastropup.net/products/shop/) for a [Wonder Walker](https://wonderwalkerbodyhalter.com/) harness for Ollie.
 
 We took him for a nice long walk today and he's unable to pull at all with this harness. It's kind of amazing stuff. I hope it stays that way 🤞
-
-:

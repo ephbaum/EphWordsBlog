@@ -2,16 +2,16 @@
 title: 2023 - Week 13 - Spring has Sprung
 postSlug: 2023-week-13
 pubDatetime: 2023-04-02T04:00:03.000Z
-ogImage: ../../assets/images/2023/04/IMG_1090.jpeg
+ogImage: /assets/images/2023/04/cherry-blossoms.jpeg
 featured: false
 draft: false
 tags:
   - ephandlou
   - saturday-post
-description: Placeholder description for imported post from ephandlou.com
+description: Wherein I talk about all the Springs, Ollie, Ozz' acting class, getting impression molds for teeth implants, getting a new VR headset for Ozz (and my experience w/ BPPV), Ozz' spring break, and some other topics
 ---
 
-![Featured Image](../../assets/images/2023/04/IMG_1090.jpeg)
+![Cherry Blossoms in Bremerton](/assets/images/2023/04/cherry-blossoms.jpeg)
 
 I mean, as much as Spring can have sprung in the PNW. While this is the 10th or 12th Spring like warmup since Winter began, this time it follows the actual solstice and is of the actual Spring. The cherry blossoms are blooming and it's beautiful. The weather this week as been very mild and pleasant with the typical gloomy mornings before the cloud cover burns / moves off and is replaced by blue skies and sun.
 
@@ -29,7 +29,7 @@ Wednesday I went to my dentist as it was time to have impressions made so that c
 
 Wednesday was also another Infinity RPG session with the gang. Mostly we focused on regrouping and catching our breath after our first fight and focusing on deciding which quest to pursue next. We're thinking we'll try to prevent the mass murder of a significant portion of the Human Sphere through destruction of crops in favor of a native grass. We're all hoping our missing squad mate will emerge from the wormhole that swallowed him (after the player became a father again for the second time) will spit him back out next week. :laughing:
 
-This week we also got a new HP Reverb G2 VR headset. This was something for which Oz has been begging for some time. They have a deep fixation on VR. They also got Bonelab as their first VR title, besides, of course, Phasmaphobia. It's a pretty solid upgrade from the experience provided by the OG PSVR for sure. I'm still somewhat equilibriumally challenged as I have been since I experienced suffering from [BBPV](https://www.mayoclinic.org/diseases-conditions/vertigo/symptoms-causes/syc-20370055) a few years back. :(
+This week we also got a new HP Reverb G2 VR headset. This was something for which Oz has been begging for some time. They have a deep fixation on VR. They also got Bonelab as their first VR title, besides, of course, Phasmaphobia. It's a pretty solid upgrade from the experience provided by the OG PSVR for sure. I'm still somewhat equilibriumally challenged as I have been since I experienced suffering from [BPPV](https://www.mayoclinic.org/diseases-conditions/vertigo/symptoms-causes/syc-20370055) a few years back. :(
 
 I've long felt that VR is woefully outdated. We were supposed to have AIs and immersive VR and jet packs and flying cars by now. Instead we have-
 
@@ -37,7 +37,7 @@ Well, we have what we have.
 
 This week we saw the indictment for the first time of a former POTUS
 
-I'm feeling a sort of excitement about a few personal projects. I have a multiude of things that I want to do and it's hard to figure out where to focus my energy. It does help to actually feel excitement about something. I spent some time starting [one project](https://github.com/ephbaum/elxrBB-tutorial) that I hope doesn't wind up derelict like so many others
+I'm feeling a sort of excitement about a few personal projects. I have a multitude of things that I want to do and it's hard to figure out where to focus my energy. It does help to actually feel excitement about something. I spent some time starting [one project](https://github.com/ephbaum/elxrBB-tutorial) that I hope doesn't wind up derelict like so many others
 
 It's frustrating when I'm rarely excited about the work I'm actually supposed to be doing- whether for mu job for dealing with the backlog of unfinished projects and tidying that needs did- not to mention the pile of hard drives from old computers that need my attention
 
