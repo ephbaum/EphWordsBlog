@@ -12,7 +12,7 @@ description: Wherein I detail another weeks' events such as the return of Waffle
 
 Here we are again: another Saturday. They keep happening like clockwork.
 
-And like clockwork I'm recounting another _big_ week despite there not actually being particularly eventful.
+And like clockwork I'm recounting another _big_ week despite it not actually being particularly eventful.
 
 I have a lot of thoughts that I want to share but I just don't think I have the time today to be able to put them together in a cohesive way today. Perhaps I'll circle back on this post in the future, as I sometimes do.
 
