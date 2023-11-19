@@ -70,7 +70,7 @@ Afterward we went across to Manette to checkout the popular Quiz Night at the [M
 
 The Quiz Night was definitely a good time. We arrived a little later than expected and didn't join a team or start our own, so we just observed as though it were a class we were auditing. It was a lot of fun and from my recollection, between the two of us, we would have had a pretty formidable score right up there with teams that tied for first.
 
-It was a nice evening, good to get out and spend time with Lou, and it was nice to see some folks we know from the community.
+It was a nice evening, good to get out and spend time with Lou, and it was nice to see some folks we know from the community. It was a bit of a bummer when Josh Farley [referenced the story](https://www.npr.org/2023/10/25/1208478868/bobi-worlds-oldest-dog-dies-portuguese) of Bobi the 31-year-old Portuguese purebred Rafeiro do Alentejo and Guinness World Record holder had passed, but of course not all the new can be good and it seems he lived a good life as a very good boy.
 
 ![Eph & Lou do a little PDA at Manette Saloon](../../../../assets/images/2023/11/eph-and-lou-pda.jpg)
 
@@ -118,7 +118,7 @@ I spent a little time playing Fortnite, got to play a couple matches with Mikey.
 
 ---
 
-And that's it, really -- I mean, there's plenty more I could talk about. I worked on a few personal projects, brushed up on dome DBT skills like DEAR MAN, GIVE, and FAST, and started Yale's [The Science of Well-Being](https://www.coursera.org/learn/the-science-of-well-being/) on Coursera, for example.
+And that's it, really -- I mean, there's plenty more I could talk about. I worked on a few personal projects, brushed up on dome DBT skills like DEAR MAN, GIVE, and FAST, and started Yale's [The Science of Well-Being](https://www.coursera.org/learn/the-science-of-well-being/) course on Coursera, for example.
 
 It wasn't a particularly eventful week, all things considered, but a good week for sure. It's been nice to have Lou back in my life and I have hope for us. I'm feeling positive.
 
