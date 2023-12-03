@@ -58,6 +58,14 @@ Sandra Day O'Connor's passing is particularly poignant for me. As the first woma
 
 Their departures remind us of the varied impacts individuals can have on our world and the diverse legacies they leave behind.
 
+### Poorly Spelled Hate
+
+This was posted to a local subreddit:
+
+<blockquote style="margin: 0 auto;" class="reddit-embed-bq" style="height:500px" data-embed-theme="dark" data-embed-height="678"><a href="https://www.reddit.com/r/Bremerton/comments/187wxvb/surprised_to_see_the_aftermath_of_an_apparent/">Surprised to see the aftermath of an apparent hate crime during my bicycle ride today @ N Montgomery Ave &amp; 11th.</a><br> by<a href="https://www.reddit.com/user/WeldingShipper/">u/WeldingShipper</a> in<a href="https://www.reddit.com/r/Bremerton/">Bremerton</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+What the hell is wrong with people?
+
 ---
 
 Now, as I generally do, I'll quickly recount the week as it unfolded:
@@ -104,11 +112,13 @@ After dinner I accompanied Lou in attending her board meeting for the Kitsap Com
 
 Can you believe it's already December?
 
-Ashley, the new Vice President of the board, called out my new friend Deena Taylor's interview by Josh Farley with the Kitsap Smokestack at The Manette Saloon last week:
+Ashley, the new Vice President of the board, called out her regular, and my new friend, Deena Taylor's interview by Josh Farley with the Kitsap Smokestack at The Manette Saloon last week:
 
-[]() EMBED HERE
+<iframe style="margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/tLzjtv5B_1A?si=biBh2ECadahtOQcO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Which reminds me that I need to reply to her most recent reply.
+It's pretty cool that she's getting some recognition for her work on [Bremelore](https://bremelore.wtf).
+
+Which reminds me that I need to reply to her most recent email reply.
 
 ## Thursday
 
