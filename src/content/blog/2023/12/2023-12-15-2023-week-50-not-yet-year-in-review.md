@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - saturday-post
-description: Placeholder description for new post
+description: Wherein I point that that there's barely a week before Christmas, mention that it was Ollie's first birthday, talk a bit about how my father's death is impacting me, and how I've been feeling a bit under the weather for a variety of reasons.
 ---
 
 'Twas the week before Christmas, and as another week passed, it echoed those before, yet with a deeper, more poignant resonance.
