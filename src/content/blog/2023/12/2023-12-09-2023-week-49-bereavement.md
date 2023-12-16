@@ -12,7 +12,7 @@ description: Wherein I discuss grieving my father, my reaction to the movie The 
 
 Not to sound like a broken record, but this has been a difficult week. As mentioned [last week](/posts/2023-week-48), my father passed away. I began this week by taking a bit of time away from work to grieve and work on putting my father's final affairs in order.
 
-I'm shocked by how much sorry I feel. As I've talked about previously, I feel like I've already long grieved the loss of my father, but somehow I find myself still deeply saddened by his death, particularly at a young age despite dementia having robbed him of any real quality of life going forward.
+I'm shocked by how much sad I feel. As I've talked about previously, I feel like I've already long grieved the loss of my father, but somehow I find myself still deeply saddened by his death, particularly at a young age despite dementia having robbed him of any real quality of life going forward.
 
 I have arranged for his cremation, written his obituary, and I'm planning to create an online memorial for him should anyone be interested in his memory. After doing some research this week, I think I'll go with [Keeper](https://www.mykeeper.com/).
 
