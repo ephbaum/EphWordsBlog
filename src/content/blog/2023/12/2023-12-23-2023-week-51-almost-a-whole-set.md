@@ -2,12 +2,15 @@
 title: 2023 - Week 51 - Almost a Whole Set
 postSlug: 2023-week-51
 pubDatetime: 2023-12-24T02:14:21.000Z
+ogImage: /assets/images/2023/12/candy-cane-lane.jpg
 featured: false
 draft: false
 tags:
   - saturday-post
-description: Wherein I lay out another week's events but really phone it in. I need to update this and add a photo...
+description: Wherein I lay out another week's events but kind of phone it in. I talk about grieving the passing of my father, talk about the week before Christmas, our Christmas Eve Eve tradition of driving past other people's Christmas lights, and I share the photo of an owl.
 ---
+
+Update 2023-12-24: I filled in the rest of Saturday, fleshed out a couple things, and added a couple images. Feel free to check out the history of this post [here](https://github.com/ephbaum/EphWordsBlog/blob/main/src/content/blog/2023/12/2023-12-23-2023-week-51-almost-a-whole-set.md).
 
 Here we are at the final stretch. This is the last day of the end of the last full week of this year. Soon it will be 2024 and I'll have completed my commitment to myself to post every Saturday.
 
@@ -15,7 +18,7 @@ I'm rather proud of myself for actually sticking to my commitment to post every 
 
 I feel the exercise of spending the year posting every week has been valuable and giving me additional discipline.
 
-I'd also like to get back into writing prose and feel like this might be the right forum to do so.
+I'd also like to get back into writing prose and feel like this might be the right forum to do so (that was part of the idea behind registering "ephwords.com").
 
 We'll see how that shakes out, but I think 2024 may look a bit different around here. What might you like to see, dear reader?
 
@@ -75,16 +78,30 @@ Not much to report for Friday. Checked off a few more TODOs, ran a couple errand
 
 Today has been a fine enough day.
 
-Ran out to pick up the final touches of our Christmas dinner.
+Ran out to pick up the final touches<a href="#asterisk">\*</a> of our Christmas dinner.
 
 Did a little cleaning in anticipation of our forthcoming holiday guests.
 
-Lou made cookies (I helped a little)
+Lou made cookies (I helped a little).
+
+![Blurry Lighs from Candy Cane Lane](/assets/images/2023/12/candy-cane-lane.jpg)
+
+For the evening we took a drive up to [Candy Cane Lane](https://www.kitsapsun.com/story/news/2017/12/09/how-candy-cane-lane-came-bremerton/936874001/) ([Viewcrest Drive NE](https://maps.app.goo.gl/gWg5Rz6YQDycEBHt9)) to checkout the holiday light displays. This is a semi-annual Christimas-Eve-Eve tradition. It was a gorgeously foggy night and the displays were impressive as always.
+
+In other news we saw an owl in Manette and it was pretty cool:
+
+![Owl in Manette](../../../../assets/images/2023/12/manette-owl.jpg)
+
+Later in the evening I spent some time grieving and processing. I have still have quite a bit to work through, it seems. There are a lot of complex emotions involved when your father dies; in my case there may be more to unpack than might be typical. I have a lot of thought that would likely make reasonably good content for another post.
 
 ## Conclusion
 
-That's it.
+As this year's final week winds down, I find myself reflecting on the journey it has been. Fulfilling my commitment to post every Saturday has been a rewarding challenge, providing a structure to my weeks and a platform for my thoughts. The process evolved into something more than just weekly updates; it became a space for personal growth and unexpected emotional explorations.
 
-I managed to make it through the week performing normal mundane tasks, regular self-care, and extra holiday related TODOs.
+This week, especially, has been a poignant reminder of life's complexities – from the mundane errands to the profound grief of handling my father's cremains. It's these contrasts that make our experiences rich and deeply human.
 
-This has been a pretty low effort post, and for that I'm sorry, but it's been a busy day- as always, perhaps I'll circle back on this in the future, but that's pretty unlikely.
+Looking ahead, I'm excited to dive into the untapped potential of my drafts and explore new creative avenues in my writing. Your engagement and feedback have been invaluable, and I welcome your thoughts on what you'd like to see in 2024.
+
+As I navigate the busy holiday season and the introspective moments it brings, I am reminded of the constant balance we all strike between daily routines and life's larger tapestries. Thank you for joining me on this journey. Here's to embracing the full spectrum of experiences the new year has in store.yu
+
+<span id="asterisk">\*</span> hahahaha nope, I've had to go to the store like 5 more times.
