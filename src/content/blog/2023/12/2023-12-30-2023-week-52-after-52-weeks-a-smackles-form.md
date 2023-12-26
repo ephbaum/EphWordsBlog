@@ -1,5 +1,5 @@
 ---
-title: 2023 Week 52 After 52 Weeks a Smackles Form
+title: 2023 - Week 52 - After 52 Weeks a Smackles Form
 postSlug: 2023-week-52
 pubDatetime: 2023-12-31T06:56:48.000Z
 ogImage: /assets/images/2023/12/from-bridge-at-staircase.jpg
@@ -13,25 +13,27 @@ tags:
 description: Wherein I talk about my last full week of 2023, with some reflection on the year, the anticipation of 2024, recount the week's adventures (like Christmas). It's actually a pretty big post even if, like so many others I've written, it says very little of any real value or substance.
 ---
 
+Update 2023-12-31 - I tried to make some updates to this post, but I don't think I did much to improve things. I added a few links. This has been another big year in a series of big years and I'm having a hard time fully reflecting on it. Feel free to check out the history of this post [here](https://github.com/ephbaum/EphWordsBlog/blob/main/src/content/blog/2023/12/2023-12-30-2023-week-52-after-52-weeks-a-smackles-form.md).
+
 Yesterday I misheard Lou say she was making a Smackles Form. Turns out that she was was creating a [S.M.A.R.T. Goals](https://en.wikipedia.org/wiki/SMART_criteria) Form for her clients. I rather like my idea of a _smackles_ form however, which, in my mind, would be colorful and has sparkles. SMART Goals, however, are good and, probably I should consider their use as I go into 2024 to help me get some things done as there are plenty of outstanding TODOs on my never-ending list.
 
 Yesterday, as we talked about our 3 day weekend Lou remarked: "We have 3 days to feel fine and dandy." I'm not sure why but it took me a little while to parse that.
 
-I think that my self-review and impending New Year's holiday have had me reflecting a great deal of late- reflecting my personal life, my professional life, and the world around me over the last year and beyond.
+I think that working on my self-review at work and the impending New Year's holiday have had me reflecting a great deal of late- reflecting my personal life, my professional life, and the world around me over the last year and beyond.
 
 Today my daughter told me that she wishes there was a show of my life after she missed the target in guessing I was 6 years old in 1993 due to the confusion (and miscalculation) of her mother's birth year as compared to my birth year. I was more like twice as old in 1993 and that year was, as I've mentioned, one of my favorite years. It was the year the Nirvana's In Utero released, and Smashing Pumpkin's Siamese Dream and both were enormously important works to me- Enter the Wu-Tang as well. Beavis and Butthead began its run. Super Mario All-Stars, Star Fox, Street Fighter II and Mortal Kombat were a big deal. One of my favorite novels became the highest grossing film of all time: Jurassic Park (surpassing Spielberg's E.T. until Cameron's The Titanic in 1997). There were, of course, a great many other things about 1993 that were very big and important and so, of course, it has long held an important held quite the place in my memory.
 
-It's interesting to thing about that year 3 decades later, however.
+It's interesting to think about that year 3 decades later, however.
 
-The idea of a show about my life is interesting to me because I think my life has been rather interesting but, yet, somehow it's also been rather mundane all things considered. She talked about it terms of Dwayne "The Rock" Johnson's [Young Rock](https://www.imdb.com/title/tt11639952/) but, c'mon, that guy's life was actally interesting. What is this life of mine? I'm not descended from Wrestling and actual royalty.
+The idea of a show about my life is interesting to me because I think my life has been rather interesting but, yet, somehow it's also been very mundane all things considered. She talked about it terms of Dwayne "The Rock" Johnson's [Young Rock](https://www.imdb.com/title/tt11639952/) but, c'mon, that guy's life was actally interesting. What is this life of mine? I'm not descended from wrestling, nor actual, royalty.
 
 It would be hard, however, for me to simply "create a show" about my life. Just nike-ing things is a barrier I struggle with crossing all the times.
 
 "Just do it"- You got it... except I kind of struggle sometimes- or I freeze up. I just don't feel like I always have the bandwidth.
 
-But I have done, of course. (Just done things)
+But I have done, of course. (Just done things, that is)
 
-I flung myself across the United States to the Pacific Northwest during a global pandemic. We totally just did that .
+I flung myself across the United States to the Pacific Northwest during a global pandemic. We totally just did that.
 
 I've had some incredible adventures over the last several years- my life can hardly be called boring.
 
@@ -45,7 +47,7 @@ I think, my self-review has gotten all up in my head
 
 I'm self-reflecting.
 
-It's been a hell of year, and one not at all what I expected
+It's been a hell of year, and one not at all what I expected. Re-reading my [first of these posts](/posts/2023-week-1) and I talk about how I thought this would be "our year". In that post I reflect a lot on 2022 and its challenges, its unexpected difficulties, and discuss the numbers related to this year that gave me _hope_. Given my love of the number [23](<https://en.wikipedia.org/wiki/23_(number)>) and this being the year I turned [42](<https://en.wikipedia.org/wiki/42_(number)>), which is [the answer to life the universe and everything](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker's_Guide_to_the_Galaxy#The_Answer_to_the_Ultimate_Question_of_Life,_the_Universe,_and_Everything_is_42). Things have not, of course, gone at all the way that I expected.
 
 Yet it's been an entirely mundane year- it's been a year of self-care, of healing, of growth.
 
@@ -55,26 +57,26 @@ It's been year filled with the unexpected- like every other year before it.
 
 It's also been a year of Fortnite
 
-- and Alan Wake
+- and [Alan Wake](/posts/2023-week-43) (and so many other video games)
 - and skill sharpening
 - and reading
-- and consumption of media
+- and consumption of media (movies, music, comics, books, Internet)
 - and history
 - and travel
 - and history
 - and this list could go on... (and be filled with lots of links that might link back to referential posts that I don't feel like I linking to today)
 
-It's been a big year filled with bringing a brand now dog into our lives- a wonderful 30 lbs. dog we were assured was not a lap dog who spends a significant part of his life in our laps
+It's been a big year filled with bringing a [brand new dog](/posts/2023-week-8) into our lives- a wonderful 30 lbs. dog we were assured was not a lap dog who spends a significant amount of his life in our laps
 
 It's been a year of #ThursdayHikes
 
-- of audio recordings
-- of personal achievements
-- of bereavement, grieving, and pain
-- of loss and FMLA
-- of an emptying nest
-- of separation
-- of the ever changing boundaries of friends
+- and audio recordings
+- and personal achievements
+- and loss and FMLA
+- and [bereavement & grieving](/posts/2023-week-48)
+- and an emptying nest
+- and [separation](/posts/2023-week-40)
+- and the ever changing boundaries of friends and family
 
 ... and again, these could be linked to relevant posts if I felt like it. Perhaps in a future update I'll do exactly that.
 
@@ -84,11 +86,13 @@ I've been working for more than six years at my company now, and 5 of those I've
 
 Mostly I've spent a lot of my time doing my best to help folks get their work done while trying to also get my own work done as well.
 
+I think this would be a great place in this post to talk more about my professional growth and development, but I think that might require a later update or post.
+
 And now here we are in the last week of 2023 on the verge of 2024.
 
 I'm thinking about my year personally, my year professionally, and my year in general and, I think, I have a lot of thoughts I'm not capable of distilling in a simple post here at the end of the week and, of course, part of that may have something to do with the fact that I'm writing this post so late in the day having chosen to drive around to the other side of the Hood Canal fjord in search of adventure today instead of focusing on writing a blockbuster year end post.
 
-Speaking of, here's a quick run down of my last full week of 2023:
+Speaking of reflection and recapping, here's a quick run down of my last full week of 2023:
 
 ## Sunday
 
