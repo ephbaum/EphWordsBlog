@@ -156,7 +156,7 @@ I lost some focus to [tom7](https://www.youtube.com/@tom7) on YouTube watching (
 
 Also finally got around to watching the film adaptation of [Uncharted](https://www.imdb.com/title/tt1464335/) and it was just as hard as I expected- Mark Wahlberg is no Sully, Tom Holland is no ~Nathan Fillion~ Nathan Drake but the movie, overall, works pretty well all the same.
 
-I spent more time researching [luke S. May](https://www.historylink.org/File/4241) and his illustrious career in the newspapers. I've been casually looking into his exploits for years, since I read his name in connection to the [Erland's Point murders](https://www.historylink.org/File/5558) and recalling hearing his name here and there over the years- so I've been doing some searching through the newspapers and reading of his exploits in the region in the 20's and 30's. There are a lot of interesting characters in the region around that time to be sure...
+I spent more time researching [Luke S. May](https://www.historylink.org/File/4241) and his illustrious career in the newspapers. I've been casually looking into his exploits for years, since I read his name in connection to the [Erland's Point murders](https://www.historylink.org/File/5558) and recalling hearing his name here and there over the years- so I've been doing some searching through the newspapers and reading of his exploits in the region in the 20's and 30's. There are a lot of interesting characters in the region around that time to be sure...
 
 Anyway, there were a variety of things that happened on Wednesday
 
