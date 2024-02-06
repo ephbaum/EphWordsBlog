@@ -23,7 +23,9 @@ title=${name_suffix}
 # Replace spaces with dashes
 name_suffix=${name_suffix// /-}
 
-# Replace uppercase with lowercase
+# Replace spaces with dashes and commas with an empty string, then convert to lowercase
+name_suffix=${name_suffix// /-}
+name_suffix=${name_suffix//,/}
 name_suffix=${name_suffix,,}
 
 # Full markdown file name
@@ -48,7 +50,7 @@ current_datetime=$(date -u +"%Y-%m-%dT%H:%M:%S.000Z")
 cat <<EOL > "${dir}${file_name}"
 ---
 title: ${title}
-postSlug: new-post
+postSlug: ${current_date}-${name_suffix}
 pubDatetime: ${current_datetime}
 # ogImage: ${ogImageDir}
 featured: false
