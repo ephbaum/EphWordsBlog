@@ -10,7 +10,7 @@ tags:
 description: Placeholder description for new post
 ---
 
-History Fascinates, Appalls, and Resonates
+# History Fascinates, Appalls, and Resonates
 
 I have, in my life, spent a fair portion of my energy, focus, and attention to history.
 
@@ -70,7 +70,9 @@ There's the tragic Hallen murder, and the drama surrounding The Griffin Wheel co
 
 There are fascinating stories such as learning about the "mystic invalid" in the mid-20's in Coos County, OR, who, in addition to murdering his sister-in-law, was said to have done so through the application of "mesmerism" of his "simple" nephew to perform the crime and, apparently, was also the mastermind / architect of dozens of murder plots of prominent people in the area. It's a wild story.
 
-There are "kidnapings" aplenty, including the first time J. Edger Hoover's G-Men had failed to save, Charlie Mattson in Tacoma, which spanned the region. That story is tragic, and so is [Anna Nosko](https://www.columbian.com/news/2022/apr/03/clark-county-history-anna-nosko-murder-of-1923/)'s story, a young lady of 11 who was snatched from a path on her way home from school in picturesque Clark County, WA, assaulted, and murdered.
+There are "[kidnapings](https://www.wordnik.com/words/kidnaping)" aplenty, including the first time J. Edger Hoover's G-Men had failed to save a stolen child after [Charlie Mattson](https://www.historylink.org/File/8028) in Tacoma at the end of 1936, a story which spanned the region and ended up on the national stage! That story is tragic, and so is [Anna Nosko](https://www.columbian.com/news/2022/apr/03/clark-county-history-anna-nosko-murder-of-1923/)'s story, a young lady of 11 who was snatched from a path on her way home from school in picturesque Clark County, WA, assaulted, and murdered.
+
+Tragic stories have the unfortunate advantage of being interesting.
 
 It's amazing to read about former posses that were being formed here in the 1920's and 30's.
 
@@ -84,9 +86,9 @@ The life of people during the last U.S. civil war, and those that emerged. Those
 
 Local historians and stories passed down from pioneers continue to add to the rich tapestry of Bremerton's history, recently the Kitsap History Museum held an [uncorked](https://kitsapmuseum.org/category/events/history-uncorked/) event that featured local historian Ruth Reese talked about the history of beautiful Manette, WA, site of the original Port Orchard at Enetai Beach.
 
-We recently visited the [High Steel Bridge](https://en.wikipedia.org/wiki/High_Steel_Bridge) near Shelton, WA, and in so doing I learned a bit about its history and the [Simpson Lumber Co.](https://en.wikipedia.org/wiki/Simpson_Investment_Company) out of McCleary, WA, itself the site of an unsolved mystery, at least until recently, her body eventually found, a person finally arrested in her case. Driving through that town and seeing the rememberances of her on the playground equipment, it moves you.
+We recently visited the [High Steel Bridge](https://en.wikipedia.org/wiki/High_Steel_Bridge) near Shelton, WA, and in so doing I learned a bit about its history and the [Simpson Lumber Co.](https://en.wikipedia.org/wiki/Simpson_Investment_Company) out of McCleary, WA, itself the site of an unsolved mystery, at least until recently, her body eventually found, a person finally arrested in her case. Driving through that town and seeing the remembrances of her at the local playground, it moves you.
 
-There are modern tales of folks doing incredbile good throughout the region. There are people that are working tirelessly day after day to help the local housing insecure population. There are people that offer low cost services to people who could not otherwise afford them. There are people who are trying to make things better. They outnumber the folks mentioned above that are causin strife, even if their stories may not drive as much engagement, they are important stories indeed.
+There are modern tales of folks doing incredible good throughout the region. There are people that are working tirelessly day after day to help the local housing insecure population. There are people that offer low cost services to people who could not otherwise afford them. There are people who are trying to make things better. They outnumber the folks mentioned above that are causing strife, even if their stories may not drive as much engagement, they are important stories indeed.
 
 Anyway, what's my point in all this?
 
