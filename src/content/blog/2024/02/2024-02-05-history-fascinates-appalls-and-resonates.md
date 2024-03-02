@@ -4,17 +4,19 @@ postSlug: 2024-02-05-history-fascinates-appalls-and-resonates
 pubDatetime: 2024-02-06T03:36:14.000Z
 # ogImage: /assets/images/2024/02/
 featured: false
-draft: true
+draft: false
 tags:
   - WIP
   - Luke S. May
   - Bremerton, WA
   - History
   - Story Telling
-description: Wherein I navigate the expansive realms of history, ranging from the cosmic expanse to the intricacies of personal narratives, focusing on how these stories intersect and shape our collective and individual experiences. I delve into the layered histories of Bremerton, WA, and its surrounding areas, uncovering tales of crime, innovation, and resilience that have left indelible marks on the community. This journey through history is not just an academic endeavor but a personal quest to find my place within these narratives, especially in the wake of my father's passing. By exploring the stories of notable figures, tragic events, and the enduring spirit of community, I aim to understand and share the profound connections that bind us to our past and inform our present. This exploration is a tribute to the power of history to fascinate, appall, and resonate, inviting reflection on our own stories within the vast human experience.
+description: (WIP) In this journey, I navigate history's breadth, from universal to intimate scales, to reveal how shared and personal stories intertwine. Focusing on Bremerton, WA, I uncover narratives of crime, innovation, and resilience that define the community. Motivated by a quest for belonging after my father's death, this exploration is both academic and personal. By delving into the lives of key figures and significant events, I aim to highlight the connections between our past and present. This endeavor serves as an ode to history's ability to engage and unite us, encouraging reflection on our individual and collective experiences.
 ---
 
-# History Fascinates, Appalls, and Resonates
+# History Fascinates, Appals, and Resonates
+
+(WIP - this could use some refinement but I'd rather just post it... it's been a month)
 
 I have, in my life, spent a fair portion of my energy, focus, and attention to history.
 
