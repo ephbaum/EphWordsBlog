@@ -37,3 +37,21 @@ I might even try to get my old Blogger blogs consolidated here
 Maybe
 
 Seems like a long shot, but maybe
+
+## Devcontainer Setup
+
+This repository includes a devcontainer configuration for better local development in VS Code and Codespaces. The devcontainer is set up with the necessary runtimes such as Node.js and Astro.
+
+### Necessary Runtimes
+
+- Node.js
+- Astro
+
+### Using the Devcontainer
+
+To use the devcontainer in VS Code or Codespaces, follow these steps:
+
+1. Open the repository in VS Code.
+2. If you have the Dev Containers extension installed, you should see a prompt to reopen the repository in a container. Click "Reopen in Container".
+3. If you don't see the prompt, you can manually reopen the repository in a container by clicking on the green button in the bottom-left corner of the VS Code window and selecting "Reopen in Container".
+4. The devcontainer will be built and started, and you will be connected to it. You can now start developing in the container with all the necessary dependencies and tools pre-installed.

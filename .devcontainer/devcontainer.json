@@ -1,0 +1,14 @@
+{
+  "name": "EphWordsBlog DevContainer",
+  "dockerFile": "Dockerfile",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "astro-build.astro-vscode"
+  ],
+  "postCreateCommand": "npm install",
+  "remoteUser": "node"
+}
