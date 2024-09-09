@@ -1,5 +1,5 @@
-# Use a base image with Node.js and Astro pre-installed
-FROM node:16
+# Use a base image with Node.js 22 and Astro pre-installed
+FROM node:22
 
 # Install any additional dependencies required for the project
 RUN npm install -g astro
