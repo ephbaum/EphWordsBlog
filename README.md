@@ -37,3 +37,218 @@ I might even try to get my old Blogger blogs consolidated here
 Maybe
 
 Seems like a long shot, but maybe
+
+---
+
+## Technical Documentation
+
+### Project Overview
+
+EphWords.com is a personal blog built with modern web technologies, featuring a clean, responsive design with dark/light mode support. The site is built on the Astro framework and deployed to Firebase Hosting.
+
+### Technology Stack
+
+#### Core Framework
+
+- **[Astro 3.1.3](https://astro.build/)** - Modern static site generator with component islands architecture
+- **[TypeScript 5.2.2](https://www.typescriptlang.org/)** - Type-safe development with strict configuration
+- **[React 18.2.0](https://react.dev/)** - Interactive components (Search, Card, Datetime)
+
+#### Styling & UI
+
+- **[Tailwind CSS 3.3.3](https://tailwindcss.com/)** - Utility-first CSS framework
+- **[@tailwindcss/typography](https://tailwindcss.com/docs/typography-plugin)** - Beautiful typography defaults
+- **Custom CSS Variables** - Dynamic theming with CSS custom properties
+- **Responsive Design** - Mobile-first approach with custom breakpoints
+
+#### Content Management
+
+- **Astro Content Collections** - Type-safe content management with Zod validation
+- **Markdown Processing** - Enhanced with remark plugins:
+  - `remark-toc` - Automatic table of contents generation
+  - `remark-collapse` - Collapsible content sections
+- **Shiki Syntax Highlighting** - One Dark Pro theme with line wrapping
+
+#### Build & Optimization
+
+- **[@divriots/jampack](https://jampack.divriots.com/)** - Advanced static site optimization
+- **Vite** - Fast build tool with optimized dependency handling
+- **ESLint & Prettier** - Code quality and formatting
+- **Husky & lint-staged** - Git hooks for code quality
+
+#### Deployment & Hosting
+
+- **Firebase Hosting** - Global CDN with automatic HTTPS
+- **RSS Feed Generation** - Built-in RSS/Atom feed support
+- **Sitemap Generation** - Automatic XML sitemap creation
+- **Open Graph Support** - Social media preview optimization
+
+### Project Structure
+
+```
+EphWordsBlog/
+├── src/
+│   ├── assets/           # Static assets (images, fonts, etc.)
+│   ├── components/       # Reusable UI components
+│   │   ├── Breadcrumbs.astro
+│   │   ├── Card.tsx      # React component for post cards
+│   │   ├── Search.tsx    # Client-side search functionality
+│   │   ├── Socials.astro # Social media links
+│   │   └── ...
+│   ├── content/          # Content collections
+│   │   ├── blog/         # Blog posts (markdown files)
+│   │   └── config.ts     # Content schema definitions
+│   ├── layouts/          # Page layout templates
+│   ├── pages/            # File-based routing
+│   │   ├── index.astro   # Homepage
+│   │   ├── posts/        # Blog post pages
+│   │   ├── tags/         # Tag-based filtering
+│   │   ├── rss.xml.ts    # RSS feed generation
+│   │   └── og.png.ts     # Dynamic OG image generation
+│   ├── styles/           # Global styles and CSS variables
+│   ├── utils/            # Utility functions
+│   ├── config.ts         # Site configuration
+│   └── types.ts          # TypeScript type definitions
+├── public/               # Static files served directly
+├── astro.config.mjs      # Astro configuration
+├── tailwind.config.cjs   # Tailwind CSS configuration
+├── tsconfig.json         # TypeScript configuration
+├── firebase.json         # Firebase hosting configuration
+└── package.json          # Dependencies and scripts
+```
+
+### Key Features
+
+#### Content Management
+
+- **Type-safe Content Collections** - Blog posts with validated frontmatter
+- **Automatic Post Discovery** - File-based routing for blog posts
+- **Tag System** - Categorization and filtering by tags
+- **Draft Support** - Unpublished posts for content preparation
+- **Featured Posts** - Highlight important content
+
+#### User Experience
+
+- **Dark/Light Mode** - System preference detection with manual toggle
+- **Responsive Design** - Optimized for all device sizes
+- **Search Functionality** - Client-side search with Fuse.js
+- **Table of Contents** - Auto-generated for long posts
+- **Social Media Integration** - Comprehensive social links
+- **RSS/Atom Feeds** - Subscribe to content updates
+
+#### Performance
+
+- **Static Site Generation** - Pre-built HTML for optimal performance
+- **Image Optimization** - Automatic image processing and optimization
+- **Code Splitting** - Minimal JavaScript for faster loading
+- **SEO Optimization** - Meta tags, structured data, and sitemaps
+
+### Development Setup
+
+#### Prerequisites
+
+- Node.js 18+
+- npm or yarn package manager
+
+#### Installation
+
+```bash
+# Clone the repository
+git clone <repository-url>
+cd EphWordsBlog
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+#### Available Scripts
+
+- `npm run dev` - Start development server with hot reload
+- `npm run build` - Build production site with optimization
+- `npm run preview` - Preview production build locally
+- `npm run format` - Format code with Prettier
+- `npm run lint` - Run ESLint for code quality
+- `npm run cz` - Interactive commit message tool
+
+#### Development Workflow
+
+1. **Content Creation** - Add new blog posts in `src/content/blog/`
+2. **Component Development** - Create reusable components in `src/components/`
+3. **Styling** - Use Tailwind classes and custom CSS variables
+4. **Testing** - Preview changes with `npm run dev`
+5. **Deployment** - Build and deploy with `npm run build`
+
+### Configuration
+
+#### Site Configuration (`src/config.ts`)
+
+- Site metadata (title, description, author)
+- Social media links and profiles
+- Post pagination settings
+- Theme and branding options
+
+#### Content Schema (`src/content/config.ts`)
+
+- Blog post frontmatter validation
+- Required fields: title, description, pubDatetime
+- Optional fields: tags, featured status, draft mode
+- Image optimization requirements (1200x630 minimum for OG images)
+
+#### Build Configuration (`astro.config.mjs`)
+
+- Astro integrations (Tailwind, React, Sitemap)
+- Markdown processing with remark plugins
+- Shiki syntax highlighting configuration
+- Vite optimization settings
+
+### Deployment
+
+#### Firebase Hosting
+
+The site is configured for deployment to Firebase Hosting:
+
+```bash
+# Build the site
+npm run build
+
+# Deploy to Firebase (requires Firebase CLI)
+firebase deploy
+```
+
+#### Build Process
+
+1. **Astro Build** - Generates static HTML/CSS/JS
+2. **Jampack Optimization** - Advanced static optimization
+3. **Firebase Deploy** - Uploads to global CDN
+
+#### Environment Variables
+
+- No environment variables required for basic functionality
+- Optional: Analytics and tracking configuration
+
+### Performance Metrics
+
+The site is optimized for performance with:
+
+- **Lighthouse Score** - Maintained high scores across all metrics
+- **Core Web Vitals** - Optimized for Google's performance standards
+- **Bundle Size** - Minimal JavaScript footprint
+- **Loading Speed** - Fast initial page load and navigation
+
+### Browser Support
+
+- Modern browsers with ES2020+ support
+- Progressive enhancement for older browsers
+- Mobile-responsive design for all screen sizes
+
+### Contributing
+
+This is a personal blog project, but the codebase follows modern development practices:
+
+- TypeScript for type safety
+- ESLint and Prettier for code quality
+- Conventional commits for clear history
+- Git hooks for automated quality checks
