@@ -2,7 +2,7 @@
 title: 2023 - Week 13 - Spring has Sprung
 postSlug: 2023-week-13
 pubDatetime: 2023-04-02T04:00:03.000Z
-ogImage: /assets/images/2023/04/cherry-blossoms.jpeg
+ogImage: ../../../../assets/images/2023/04/cherry-blossoms.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Wherein I talk about all the Springs, Ollie, Ozz' acting class, getting impression molds for teeth implants, getting a new VR headset for Ozz (and my experience w/ BPPV), Ozz' spring break, and some other topics
 ---
 
-![Cherry Blossoms in Bremerton](/assets/images/2023/04/cherry-blossoms.jpeg)
+![Cherry Blossoms in Bremerton](@/assets/images/2023/04/cherry-blossoms.jpeg)
 
 I mean, as much as Spring can have sprung in the PNW. While this is the 10th or 12th Spring like warmup since Winter began, this time it follows the actual solstice and is of the actual Spring. The cherry blossoms are blooming and it's beautiful. The weather this week as been very mild and pleasant with the typical gloomy mornings before the cloud cover burns / moves off and is replaced by blue skies and sun.
 

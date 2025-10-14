@@ -2,7 +2,7 @@
 title: 2023 - Week 25 - Father's Day and Reflection
 postSlug: 2023-week-25
 pubDatetime: 2023-06-25T02:04:40.000Z
-ogImage: ../../assets/images/2023/06/IMG_3324.jpeg
+# ogImage: @/assets/images/2023/06/IMG_3324.jpeg # Image missing
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Wherein I speculate on Lou's participation on ephandlou.com, talk about Father's Day and my challenged relationship with my own Father (and a beautiful moment involving a well framed view of the Walla Walla looking down Perry Ave.), mention building a new computer (that I really should post about it), mention having attended a "Dude's BBQ", and Bremerton's Bridge Blast
 ---
 
-![A prototype Positive Potato](/assets/images/2023/06/positive-potato-take-one.jpeg)
+![A prototype Positive Potato](@/assets/images/2023/06/positive-potato-take-one.jpeg)
 
 Here it is again, Saturday, and I'm still holding out that I can definitely maintain my commitment to myself by writing a blog post about the previous week as it relates to Lou and me (and mostly me, I still wonder if Lou will ever post here 🤔). She had plenty of goings on she could report on, like crocheting a bunch of Positive Potatoes, Worry Worm fidgets, and Mobius Strip fidgets. 🤩
 

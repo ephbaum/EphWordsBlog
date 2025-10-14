@@ -2,7 +2,7 @@
 title: 2023 - Week 36 - Mostly Considering Bremerton's Homeless Population
 postSlug: 2023-week-36
 pubDatetime: 2023-09-09T21:05:00.000Z
-ogImage: /assets/images/2023/09/built-by-works-progress-administration.jpeg
+ogImage: ../../../../assets/images/2023/09/built-by-works-progress-administration.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Labor Day - Reflection - Shopping Downtown - Reflecting on the homeless - Bremerton' Camping Ordinance
 ---
 
-![A Built by Works Progress Administration Plaque embedded in the sidewalk in Bremerton's Union Hill neighborhood at night under the glow of the street lights](/assets/images/2023/09/built-by-works-progress-administration.jpeg)
+![A Built by Works Progress Administration Plaque embedded in the sidewalk in Bremerton's Union Hill neighborhood at night under the glow of the street lights](@/assets/images/2023/09/built-by-works-progress-administration.jpeg)
 
 It has been another week and here I am typing on my keyboard in an attempt to maintain my commitment to myself to post every Saturday. I made this commitment to myself in the hopes that it would help build a good habit around _actually_ posting, among other things. Reflecting today, I think it's possible that it has worked. However, I will say that my drafts folders has continued to grow and grow as I mostly just post these Saturday updates and not much else. It might be time for a new commitment.
 
@@ -45,13 +45,13 @@ The largest parcel is 40 acres up at the border of Tracyton that resulted has a 
 
 The fact is that the camping ordinance is not operationally enforceable, as pointed out at the end of the meeting by the honorable representative from District 2 Denise Frey who first talked about the "scary place":
 
-![Screenshot of slide from Bremerton City Council Recording: Venn Diagram: Left circle: A false assumption - Right circle: Action - crossover “Scary!”](../../../../assets/images/2023/09/Screenshot-2023-09-09-133345.png)
+![Screenshot of slide from Bremerton City Council Recording: Venn Diagram: Left circle: A false assumption - Right circle: Action - crossover “Scary!”](@/assets/images/2023/09/Screenshot-2023-09-09-133345.png)
 
 Venn Diagram: Left circle: A false assumption - Right circle: Action - crossover "Scary!"
 
 She then talked about the facts as they relate to enforcement:
 
-![Screenshot of slide from Bremerton City Council Recording: What does Enforcement Mean?](../../../../assets/images/2023/09/Screenshot-2023-09-09-133529.png)
+![Screenshot of slide from Bremerton City Council Recording: What does Enforcement Mean?](@/assets/images/2023/09/Screenshot-2023-09-09-133529.png)
 
 It's clear that there is a lot of fear, uncertainty, and doubt around this issue.
 

@@ -2,7 +2,7 @@
 title: 2023 - Week 47 - Thankfulness
 postSlug: 2023-week-47
 pubDatetime: 2023-11-26T01:11:46.000Z
-ogImage: /assets/images/2023/11/thanksgiving-tahoma-sunset.jpg
+ogImage: ../../../../assets/images/2023/11/thanksgiving-tahoma-sunset.jpg
 featured: false
 draft: false
 tags:

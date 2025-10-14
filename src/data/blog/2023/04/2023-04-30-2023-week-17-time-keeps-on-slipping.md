@@ -2,7 +2,7 @@
 title: 2023 - Week 17 - Time Keeps On Slipping
 postSlug: 2023-week-17
 pubDatetime: 2023-04-30T06:18:47.000Z
-ogImage: /assets/images/2023/04/yellow-blossoms.jpeg
+ogImage: ../../../../assets/images/2023/04/yellow-blossoms.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Wherein I talk about getting teeth implanted in my head, Ozz's acting class, Ozz's standardized testing, Lou and I updating our IDs, and having an adventure in Steilacoom
 ---
 
-![Yellow blossoms](/assets/images/2023/04/yellow-blossoms.jpeg)
+![Yellow blossoms](@/assets/images/2023/04/yellow-blossoms.jpeg)
 
 ## Into the future
 

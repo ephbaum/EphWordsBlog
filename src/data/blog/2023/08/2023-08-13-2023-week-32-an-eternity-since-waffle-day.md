@@ -2,7 +2,7 @@
 title: 2023 - Week 32 - An Eternity Since Waffle Day
 postSlug: 2023-week-32
 pubDatetime: 2023-08-13T04:57:44.000Z
-ogImage: /assets/images/2023/08/a-flower-in-minnesota.jpeg
+ogImage: ../../../../assets/images/2023/08/a-flower-in-minnesota.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Wherein I am very detailed about one of the most difficult weeks I've ever lived having traveled to Chicago for work only to suddenly need to travel to Minnesota for my father's ailing health with a side order of some more of "Eph's Tragic Backstory"
 ---
 
-![A drooping yellow flower in Minnesota](/assets/images/2023/08/a-flower-in-minnesota.jpeg)
+![A drooping yellow flower in Minnesota](@/assets/images/2023/08/a-flower-in-minnesota.jpeg)
 
 This has been one of the hardest weeks I have ever lived, and I have experienced some very _very_ hard weeks.
 

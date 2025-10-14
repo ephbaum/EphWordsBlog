@@ -2,7 +2,7 @@
 title: Luke S. May, Criminologist
 postSlug: luke-s-may-criminologist
 pubDatetime: 2024-01-07T20:16:52.000Z
-ogImage: /assets/images/2024/01/luke-s-may.jpg
+ogImage: ../../../../assets/images/2024/01/luke-s-may.jpg
 featured: true
 draft: false
 tags:
@@ -10,7 +10,7 @@ tags:
 description: Wherein I talk a bit about a formerly rather famous detective in the PNW - Luke S. May.
 ---
 
-![Luke S. May in the Lab in a photo from 1921](assets/images/2024/01/luke-s-may.jpg)
+![Luke S. May in the Lab in a photo from 1921](@/assets/images/2024/01/luke-s-may.jpg)
 
 I mentioned in [Luke S. May](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/may-luke-sylvester) in my [last Saturday Post of 2023](/posts/2023-week-52). I talked about having noticed the name in relation to the [Erland's Point Massacre](https://www.bremelore.wtf/extras/erlands-point-massacre)( & [part 2](https://www.bremelore.wtf/extras/erlands-point-massacre-pt-2)), which was [quite the ordeal](https://www.historylink.org/File/5558) when it occurred here in Bremerton 90 years ago.
 

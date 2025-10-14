@@ -2,7 +2,7 @@
 title: 2023 - Week 7 - The Calm Before the Puppy Storm
 postSlug: 2023-week-7
 pubDatetime: 2023-02-18T18:50:45.000Z
-ogImage: /assets/images/2023/02/cosmo-kissing-booth.jpeg
+ogImage: ../../../../assets/images/2023/02/cosmo-kissing-booth.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Wherein I look forward to our Arizona trip, reflect on my job "post burnout", wonder at Lou's crochet and my pride at their begining to write again, note Oz's enjoyment of their acting class, note the "UFO" talk in the news and the Turkey/Syria quake's death toll being over 40k, and I chatted with ChatGPT about the distinction between fear and excitement
 ---
 
-![Cosmo who will soon become our puppy Ollie](/assets/images/2023/02/cosmo-kissing-booth.jpeg)
+![Cosmo who will soon become our puppy Ollie](@/assets/images/2023/02/cosmo-kissing-booth.jpeg)
 
 It has been another exciting week around here as we've been preparing for our new family member and our trip to Arizona to pick up our puppy next week.
 

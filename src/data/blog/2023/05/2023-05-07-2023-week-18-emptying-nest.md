@@ -2,7 +2,7 @@
 title: 2023 - Week 18 - Emptying Nest
 postSlug: 2023-week-18
 pubDatetime: 2023-05-07T06:53:43.000Z
-ogImage: /assets/images/2023/05/beautiful-granny-squares.jpeg
+ogImage: ../../../../assets/images/2023/05/beautiful-granny-squares.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Wherein I have ChatGPT produce an apology for an incomplete post that I hoped to update (spoiler, I didn't)
 ---
 
-![Beautiful Granny Squares created by Lou](/assets/images/2023/05/beautiful-granny-squares.jpeg)
+![Beautiful Granny Squares created by Lou](@/assets/images/2023/05/beautiful-granny-squares.jpeg)
 
 I tried to have ChatGPT (GPT-4) write up a post as an apology for not having done a real post today and it was terrible, but I probably should have given more to the prompt 😅:
 

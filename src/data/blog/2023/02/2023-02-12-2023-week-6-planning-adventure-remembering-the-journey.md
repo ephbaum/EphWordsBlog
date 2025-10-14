@@ -2,7 +2,7 @@
 title: 2023 - Week 6 - Planning Adventure, Remembering the Journey
 postSlug: 2023-week-6
 pubDatetime: 2023-02-12T05:05:00.000Z
-ogImage: /assets/images/2023/02/pnw-cacti.jpg
+ogImage: ../../../../assets/images/2023/02/pnw-cacti.jpg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Wherein I discuss our planning our trip to Pheonix, AZ, praising Lou's ability juggle all the things, lament our scattered belongings, talk about my Thursday hike on a Friday, reflect on a journal from 2016, and my excitement at the prospect of soon seeing cacti in person again (while thinking about a trip here in 2019)
 ---
 
-![A cactus somewhere at Volunteer Park Conservatory in Seattle, WA](/assets/images/2023/02/pnw-cacti.jpg)
+![A cactus somewhere at Volunteer Park Conservatory in Seattle, WA](@/assets/images/2023/02/pnw-cacti.jpg)
 
 This has been a hell of a week where we've largely spent our time planning a semi-impromptu trip to Phoenix, Arizona to bring home a new member of our family.
 

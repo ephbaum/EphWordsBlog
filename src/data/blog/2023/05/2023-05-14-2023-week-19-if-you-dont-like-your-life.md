@@ -2,7 +2,7 @@
 title: 2023 - Week 19 - If You Don't Like Your Life...
 postSlug: 2023-week-19
 pubDatetime: 2023-05-14T02:57:21.000Z
-ogImage: /assets/images/2023/05/tohoma-from-chester.jpeg
+ogImage: ../../../../assets/images/2023/05/tohoma-from-chester.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Wherein I discuss an idea for a project we have to work on for Kitsap CREATE, meander a bit, lament the loss of Hurricane Ridge Lodge in OLYM, explain the title of the post (sorta), talk about attending a fair in Manette for Catalyst school, mention Mother's Day (food & jewelry), and think about a car that's just been sitting for so long in our neighborhood
 ---
 
-![Tahoma as seen from Chester in Bremerton](/assets/images/2023/05/tohoma-from-chester.jpeg)
+![Tahoma as seen from Chester in Bremerton](@/assets/images/2023/05/tohoma-from-chester.jpeg)
 
 Another week has come and gone for the \*Baum family and I remain grateful for living in this little corner of the beautiful Pacific Northwest
 
@@ -23,7 +23,7 @@ And Ozz needs to do a project.
 
 They initially wanted to try to build an upscale Nerf blaster for their collection
 
-![DRAKE MEME YES/NO - TOP: FABRICATING A NERD GUN - BOTTOM: FABRICATING A NERF TURRET](../../../../assets/images/2023/05/image.png)
+![DRAKE MEME YES/NO - TOP: FABRICATING A NERD GUN - BOTTOM: FABRICATING A NERF TURRET](@/assets/images/2023/05/image.png)
 
 Look, I've memed
 

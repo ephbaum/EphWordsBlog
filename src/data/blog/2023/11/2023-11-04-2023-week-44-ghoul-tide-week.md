@@ -2,7 +2,7 @@
 title: 2023 - Week 44 - Ghoul-tide Week
 postSlug: 2023-week-44
 pubDatetime: 2023-11-05T05:01:21.000Z
-ogImage: /assets/images/2023/11/ollie-in-costume.jpg
+ogImage: ../../../../assets/images/2023/11/ollie-in-costume.jpg
 featured: false
 draft: false
 tags:
@@ -13,7 +13,7 @@ description: Wherein I discuss a strange interaction, Halloween 2023, Alan Wake 
 
 This week, when it's believed the veil between the living and the dead is at its thinnest, has been rather pleasant. While I haven't noticed any spirits trying to cross over in my presence, I certainly find the energy of this week rather noticeably different. As I [mentioned recently](/posts/spoopy-movie-month-2023) when posting about the 70+ horror movies I watched this month, I love this time of year. That's why I posted last week about [the season's history](/posts/halloween-briefish-history).
 
-![Ollie in his costume, which he only wore for a short time before deciding it was not to be](/assets/images/2023/11/ollie-in-costume.jpg)
+![Ollie in his costume, which he only wore for a short time before deciding it was not to be](@/assets/images/2023/11/ollie-in-costume.jpg)
 
 It's hard to believe it's already November. October seemed to fly by so quickly. For me, it was a difficult month given the sudden change in living situation. I would not characterize it as bad, though, but challenging with a lot of reflection and big emotions.
 

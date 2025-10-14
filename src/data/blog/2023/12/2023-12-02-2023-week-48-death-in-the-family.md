@@ -2,7 +2,7 @@
 title: 2023 - Week 48 - Death in the Family
 postSlug: 2023-week-48
 pubDatetime: 2023-12-03T01:02:27.000Z
-ogImage: /assets/images/2023/12/november-full-moon.jpg
+ogImage: ../../../../assets/images/2023/12/november-full-moon.jpg
 featured: false
 draft: false
 tags:
@@ -18,7 +18,7 @@ Cancer was the final chapter in my father's life, a period where he gradually be
 
 His death, long anticipated, still unfolded with startling rapidity. Early Friday morning, I received a call from a hospice nurse, informing me of his imminent passing. The day progressed with more calls, painting a somber picture of his final moments—legs turning blue, cold and stiff, breaths growing shallow. The finality of it all came via a text from one of his caregivers, a digital epitaph:
 
-![Screen shot of how I learned my father had passed](../../../../assets/images/2023/12/dad-is-dead.jpg)
+![Screen shot of how I learned my father had passed](@/assets/images/2023/12/dad-is-dead.jpg)
 
 Now, I face the task of handling his final arrangements and the challenge of composing his obituary.
 
@@ -80,7 +80,7 @@ Lou and I also took a lovely walk Downtown. We stopped at Gastropup and spoiled 
 
 We also got him the cutest darn hat:
 
-![Ollie in his adorable hat](../../../../assets/images/2023/12/ollie-hat.jpg)
+![Ollie in his adorable hat](@/assets/images/2023/12/ollie-hat.jpg)
 
 Look at it! It has ear flaps!
 
@@ -94,7 +94,7 @@ For dinner we had 4 Sisters with Momo.
 
 It was a full moon and felt like it. A "Beaver Moon".
 
-![Beaver Moon](/assets/images/2023/12/november-full-moon.jpg)
+![Beaver Moon](@/assets/images/2023/12/november-full-moon.jpg)
 
 It was a nice little Monday.
 
@@ -154,7 +154,7 @@ After I finally got Liz up, she and I watched the "Fortnite Event". We're eager 
 
 I took Liz for a daddy / daughter "date". We went to Quarters Arcade, stopped at Blue Sky, then got lunch at Yoko Yoko Ramen (where we were served by a robot). Then we took Ollie to Gastropup (to replace all the chews he got into earlier this week that I totally forgot to write about above, I think it was Tuesday). We stopped into Fingers Duke as well and spent too much money there (and everywhere else but that's just how it goes). We finally stopped at the co-op on the way home and grabbed a few things necessary.
 
-![Ramen Robot at Yoko Yoko Ramen](../../../../assets/images/2023/12/ramen-robot.jpg)
+![Ramen Robot at Yoko Yoko Ramen](@/assets/images/2023/12/ramen-robot.jpg)
 
 In the afternoon we watched [Violent Night](https://www.imdb.com/title/tt12003946/) and it's a ton of fun. It will definitely be in my Christmas rotation with Die Hard and Gremlins.
 

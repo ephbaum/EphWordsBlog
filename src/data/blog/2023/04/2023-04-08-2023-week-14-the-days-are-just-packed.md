@@ -2,7 +2,7 @@
 title: 2023 - Week 14 - The Days Are Just Packed
 postSlug: 2023-week-14
 pubDatetime: 2023-04-08T17:23:00.000Z
-ogImage: /assets/images/2023/04/t-mobile-park.jpeg
+ogImage: ../../../../assets/images/2023/04/t-mobile-park.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Wherein I talk about going out with Lou a couple times, including a movie at the Roxy & dinner at Remedy Speakeasy, Ollie's first puppy class, Lou and I meeting up with friends from out of town in Seattle and catching a game at T-Mobile Park, and various other things of interest from our week
 ---
 
-![A view from our seats at T-Mobile Park](/assets/images/2023/04/t-mobile-park.jpeg)
+![A view from our seats at T-Mobile Park](@/assets/images/2023/04/t-mobile-park.jpeg)
 
 It has definitely been another week for sure - Lou and I had **two** nights out this week, a major milestone as Oz is finally showing enough maturity to be left alone (if you don't count the adult sibling that's generally around just in case things go wrong).
 

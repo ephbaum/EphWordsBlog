@@ -2,7 +2,7 @@
 title: 2023 - Week 46 - Everything's Normal
 postSlug: 2023-week-46
 pubDatetime: 2023-11-19T04:43:25.000Z
-ogImage: /assets/images/2023/11/little-mushrooms.jpg
+ogImage: ../../../../assets/images/2023/11/little-mushrooms.jpg
 featured: false
 draft: false
 tags:
@@ -26,7 +26,7 @@ If you've been following along, you'll know my love for waffles and Waffle Day.
 
 On Sunday morning Lou and I, mostly Lou, made delicious waffles with strawberries and "whooped cream".
 
-![delicious looking waffle smothered in strawberries and whipped cream](../../../../assets/images/2023/11/waffles.jpg)
+![delicious looking waffle smothered in strawberries and whipped cream](@/assets/images/2023/11/waffles.jpg)
 
 I had really missed waffle day.
 
@@ -64,7 +64,7 @@ Lou and I went on a little date. We bribed our child and her friend to hang out 
 
 For dinner we went to [Remedy Speakeasy](https://www.remedyspeakeasy.com/) mostly drawn to their delectably delicious Brussels Sprouts. Lou got the Salmon Cakes while I got the Brown Butter Sage Gnocchi (and picked out _most_ of the prosciutto since I don't much trust my body to process pork any more). It was delicious as always. The server managed to twist our arms, convincing us to try out their caramel apple bread pudding which was additionally delicious.
 
-![Seriously, Remedy's Brusells Sprouts are so darn tasty - this photo doesn't do them justice at all!](../../../../assets/images/2023/11/bsprouts.jpg)
+![Seriously, Remedy's Brusells Sprouts are so darn tasty - this photo doesn't do them justice at all!](@/assets/images/2023/11/bsprouts.jpg)
 
 Afterward we went across to Manette to checkout the popular Quiz Night at the [Manette Saloon](https://themanette.com/) hosted by the venerable [Josh Farley](https://www.josh-farley.com/). We've heard about this event's popularity over the years so it seemed high time that we check it out. I was lucky enough to meet Deena Taylor of [Bremelore](https://www.bremelore.wtf/) fame. I have enjoyed listening to her podcast and had reached out to chat with her more about Bremerton's history. She was there to be interviewed by Mr. Farley in association to her wonderful podcast.
 
@@ -72,7 +72,7 @@ The Quiz Night was definitely a good time. We arrived a little later than expect
 
 It was a nice evening, good to get out and spend time with Lou, and it was nice to see some folks we know from the community. It was a bit of a bummer when Josh Farley [referenced the story](https://www.npr.org/2023/10/25/1208478868/bobi-worlds-oldest-dog-dies-portuguese) of Bobi the 31-year-old Portuguese purebred Rafeiro do Alentejo and Guinness World Record holder had passed, but of course not all the new can be good and it seems he lived a good life as a very good boy.
 
-![Eph & Lou do a little PDA at Manette Saloon](../../../../assets/images/2023/11/eph-and-lou-pda.jpg)
+![Eph & Lou do a little PDA at Manette Saloon](@/assets/images/2023/11/eph-and-lou-pda.jpg)
 
 ## Friday
 
@@ -80,7 +80,7 @@ Friday was a difficult day as the kiddo's school was on modified lockdown due a 
 
 Liz expressed her fears and one of her text messages absolutely gutted me:
 
-![a text from Liz that says: I'm still scared tho](../../../../assets/images/2023/11/still-scared.jpg)
+![a text from Liz that says: I'm still scared tho](@/assets/images/2023/11/still-scared.jpg)
 
 Living in a world where our children are forced to endure lockdowns, that they have to practice for the potential of school shooters given because they happen with such frequency, it's just sad. It's heartbreaking.
 
@@ -110,7 +110,7 @@ After breakfast Lou and I headed up to [Ueland Tree Farm](http://www.uelandtreef
 
 There were little mushrooms everywhere!
 
-![little mushrooms!](/assets/images/2023/11/little-mushrooms.jpg)
+![little mushrooms!](@/assets/images/2023/11/little-mushrooms.jpg)
 
 After hiking Lou and I grabbed some sushi for a late lunch (or early dinner?) from [Tom's Teriyaki and Sushi](https://ordertomsteriyakinsushi.com/), which we'd somehow not tried out. Seems we've been sleeping on Tom's. We got a couple of tempura rolls as well as some vegetable fried. It was quite tasty.
 

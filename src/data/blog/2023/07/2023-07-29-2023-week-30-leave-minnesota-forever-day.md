@@ -2,7 +2,7 @@
 title: 2023 - Week 30 - Leave Minnesota Forever Day
 postSlug: 2023-week-30
 pubDatetime: 2023-07-29T19:38:11.000Z
-ogImage: /assets/images/2023/07/mikey-at-stump-house-guillemot.jpeg
+ogImage: ../../../../assets/images/2023/07/mikey-at-stump-house-guillemot.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Wherein I mark our 4th "Leave Minnesota Forever Day", recount the week 29's trip to Ocean Shores and around the Olympic Peninsula, and then recount the less eventful week 30
 ---
 
-![Michael investigating the Stump House at Guillemot Cove](/assets/images/2023/07/mikey-at-stump-house-guillemot.jpeg)
+![Michael investigating the Stump House at Guillemot Cove](@/assets/images/2023/07/mikey-at-stump-house-guillemot.jpeg)
 
 Today, for us, is Leave Minnesota Forever Day. It's now the third anniversary of the day that Lou and I pulled out of our driveway north of Brainerd, MN and began our move to the Pacific Northwest. It is the 4th Leave Minnesota Forever Day that we've marked. That day, all those years ago, we reached the border of North Dakota just a couple hours later and left our state behind us.
 

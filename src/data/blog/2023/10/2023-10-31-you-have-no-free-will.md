@@ -2,7 +2,7 @@
 title: You Have No Free Will
 postSlug: you-have-no-free-will
 pubDatetime: 2023-10-31T14:06:28.000Z
-ogImage: /assets/images/2023/10/free-will-button-meme.jpg
+ogImage: ../../../../assets/images/2023/10/free-will-button-meme.jpg
 featured: false
 draft: false
 tags:
@@ -17,7 +17,7 @@ It's Halloween, my favorite holiday, a day that's become dedicated to fear and s
 
 YOU HAVE NO FREE WILL!
 
-![Your choices don't matter, here's you:](/assets/images/2023/10/free-will-button-meme.jpg)
+![Your choices don't matter, here's you:](@/assets/images/2023/10/free-will-button-meme.jpg)
 
 An [article](https://www.latimes.com/science/story/2023-10-17/stanford-scientist-robert-sapolskys-decades-of-study-led-him-to-conclude-we-dont-have-free-will-determined-book) caught my attention recently. (More [here](https://www.popularmechanics.com/science/a45666440/humans-dont-have-free-will-says-scientist/) and [here](https://www.newscientist.com/article/2398369-why-free-will-doesnt-exist-according-to-robert-sapolsky/).
 

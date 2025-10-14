@@ -2,7 +2,7 @@
 title: 2023 - Week 49 - Bereavement
 postSlug: 2023-week-49
 pubDatetime: 2023-12-09T20:21:14.000Z
-ogImage: /assets/images/2023/12/hail-santa-ornament.jpg
+ogImage: ../../../../assets/images/2023/12/hail-santa-ornament.jpg
 featured: false
 draft: false
 tags:
@@ -48,7 +48,7 @@ Still, I try to make sure the holiday is as magical as possible for my kiddos.
 
 Here's this year's ornament:
 
-![Hail Santa Ornament](/assets/images/2023/12/hail-santa-ornament.jpg)
+![Hail Santa Ornament](@/assets/images/2023/12/hail-santa-ornament.jpg)
 
 ### Fornite Season 5
 
@@ -82,7 +82,7 @@ Another [atmospheric river](https://www.npr.org/2023/12/06/1217505148/an-atmosph
 
 Meanwile, Ollie saw snow for the first time today:
 
-![Ollie's First Time Seeing Snow](../../../../assets/images/2023/12/ollie_snow.jpg)
+![Ollie's First Time Seeing Snow](@/assets/images/2023/12/ollie_snow.jpg)
 
 And that's about it, I guess.
 

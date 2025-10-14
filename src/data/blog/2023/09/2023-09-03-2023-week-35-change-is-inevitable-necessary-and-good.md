@@ -2,7 +2,7 @@
 title: 2023 - Week 35 - Change is Inevitable, Necessary, and Good
 postSlug: 2023-week-35
 pubDatetime: 2023-09-03T06:41:42.000Z
-ogImage: /assets/images/2023/09/spider-spider-burning-bright.jpeg
+ogImage: ../../../../assets/images/2023/09/spider-spider-burning-bright.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Ozz is now Liz! - Liz is going to a brick and mortar school - a movie date with the kiddo to see the new Indiana Jones movie (on National Cinema Day) - Red Cross at Bremerton Farmers Market (VOLUNTEER OPPORTUNITIES ABOUND!)
 ---
 
-![Featured Image](/assets/images/2023/09/spider-spider-burning-bright.jpeg)
+![Featured Image](@/assets/images/2023/09/spider-spider-burning-bright.jpeg)
 
 Another big week for the Baum family. It's been such a big week that I've been uncertain about how I would post today about it. I've been very transparent, but I'm always wondering if I'm being too transparent, if I'm opening myself up unnecessarily to risk.
 

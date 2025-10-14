@@ -2,7 +2,7 @@
 title: 2023 - Week 22 - Our Backstory? Tragically Delicious
 postSlug: 2023-week-22
 pubDatetime: 2023-06-04T05:25:27.000Z
-ogImage: /assets/images/2023/06/eph-and-lou-on-a-mountain.jpeg
+ogImage: ../../../../assets/images/2023/06/eph-and-lou-on-a-mountain.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Wherein I talk about watching movies and TV shows, hiking on the Olympic Peninsula at Doeswollips and Mt. Walker, and continue to consider my future
 ---
 
-![Eph and Lou atop Mt. Walker overlooking the view to the east](/assets/images/2023/06/eph-and-lou-on-a-mountain.jpeg)
+![Eph and Lou atop Mt. Walker overlooking the view to the east](@/assets/images/2023/06/eph-and-lou-on-a-mountain.jpeg)
 
 It's June already, and I'm stuck wondering how it's possible that has happened?
 

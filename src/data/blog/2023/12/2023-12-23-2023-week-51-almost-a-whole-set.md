@@ -2,7 +2,7 @@
 title: 2023 - Week 51 - Almost a Whole Set
 postSlug: 2023-week-51
 pubDatetime: 2023-12-24T02:14:21.000Z
-ogImage: /assets/images/2023/12/candy-cane-lane.jpg
+ogImage: ../../../../assets/images/2023/12/candy-cane-lane.jpg
 featured: false
 draft: false
 tags:
@@ -84,13 +84,13 @@ Did a little cleaning in anticipation of our forthcoming holiday guests.
 
 Lou made cookies (I helped a little).
 
-![Blurry Lighs from Candy Cane Lane](/assets/images/2023/12/candy-cane-lane.jpg)
+![Blurry Lighs from Candy Cane Lane](@/assets/images/2023/12/candy-cane-lane.jpg)
 
 For the evening we took a drive up to [Candy Cane Lane](https://www.kitsapsun.com/story/news/2017/12/09/how-candy-cane-lane-came-bremerton/936874001/) ([Viewcrest Drive NE](https://maps.app.goo.gl/gWg5Rz6YQDycEBHt9)) to checkout the holiday light displays. This is a semi-annual Christimas-Eve-Eve tradition. It was a gorgeously foggy night and the displays were impressive as always.
 
 In other news we saw an owl in Manette and it was pretty cool:
 
-![Owl in Manette](../../../../assets/images/2023/12/manette-owl.jpg)
+![Owl in Manette](@/assets/images/2023/12/manette-owl.jpg)
 
 Later in the evening I spent some time grieving and processing. I have still have quite a bit to work through, it seems. There are a lot of complex emotions involved when your father dies; in my case there may be more to unpack than might be typical. I have a lot of thought that would likely make reasonably good content for another post.
 

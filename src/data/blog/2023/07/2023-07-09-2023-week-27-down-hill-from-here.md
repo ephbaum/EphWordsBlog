@@ -2,7 +2,7 @@
 title: 2023 - Week 27 - Down Hill; From Here
 postSlug: 2023-week-27
 pubDatetime: 2023-07-09T05:54:34.000Z
-ogImage: /assets/images/2023/07/mountains-from-portland.jpeg
+ogImage: ../../../../assets/images/2023/07/mountains-from-portland.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Wherein I look forward to a busy August, recount our trip to Portland, Independence Day, we lived our lives, serviced one car, bought Subaru to become true PNW'ers,
 ---
 
-![Mountains as seen from Portland, Oregon](/assets/images/2023/07/mountains-from-portland.jpeg)
+![Mountains as seen from Portland, Oregon](@/assets/images/2023/07/mountains-from-portland.jpeg)
 
 # The Hill, From Here, Down
 

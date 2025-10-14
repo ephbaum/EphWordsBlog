@@ -57,7 +57,7 @@ Between the first letter of my first name: F, and the end of my last name: baum,
 
 These two string slices, however, have become commonly use for a "nickname":
 
-![Eph Baum Pun Dog](../../../../assets/images/2023/10/eph_baum_pun_dog.jpg)
+![Eph Baum Pun Dog](@/assets/images/2023/10/eph_baum_pun_dog.jpg)
 
 #### `F-baum`, the co-worker, the friend
 

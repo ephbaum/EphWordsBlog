@@ -2,7 +2,7 @@
 title: 2023 - Week 24 - What... me worry?
 postSlug: 2023-week-24
 pubDatetime: 2023-06-17T18:59:00.000Z
-ogImage: /assets/images/2023/06/what-me-worry.jpeg
+ogImage: ../../../../assets/images/2023/06/what-me-worry.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Wherein I try not to worry, mention seeing the amazing Across the Spider-Verse film, talk about rearranging the living including moving my workspace upstairs out of the dungeon, talk about seeing the Mariners play at T-Mobile Park again but with the kids this time, talk about the Eisenhower Matrix and dealing with disregulation, playing games with the kids, Oz's last day of school for the year, and talk about Juneteenth and more
 ---
 
-![art in a window at olympic college featuring Alfred e. Neuman](/assets/images/2023/06/what-me-worry.jpeg)
+![art in a window at olympic college featuring Alfred e. Neuman](@/assets/images/2023/06/what-me-worry.jpeg)
 
 # What... me worry?
 

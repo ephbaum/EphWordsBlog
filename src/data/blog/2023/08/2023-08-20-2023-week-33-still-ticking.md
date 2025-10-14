@@ -2,7 +2,7 @@
 title: 2023 - Week 33 - Still Ticking
 postSlug: 2023-week-33
 pubDatetime: 2023-08-20T05:24:27.000Z
-ogImage: /assets/images/2023/08/new-deck-lit-up.jpeg
+ogImage: ../../../../assets/images/2023/08/new-deck-lit-up.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Wherein I reflect on my travel to Minnesota and decision to put my father in hospice, lament the heat, appreciate our new deck and fenced-in side yard, as well as a few additional thoughts and experiences shared
 ---
 
-![Our new deck all lit up at night](/assets/images/2023/08/new-deck-lit-up.jpeg)
+![Our new deck all lit up at night](@/assets/images/2023/08/new-deck-lit-up.jpeg)
 
 This week I have been focusing on recovery. With last weeks' travel to Minnesota to make the decision to put my father into hospice. I'm grateful that I had my partner Lou to help me through, as well as my kids and other friends and family.
 

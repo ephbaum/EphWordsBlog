@@ -13,7 +13,7 @@ tags:
 description: We took a family trip to Lake Quinault, Quinault River, and the Quinault Rainforest as a family.
 ---
 
-![Featured Image](../../../../assets/images/2022/04/IMG_4267_v1.JPG)
+![Featured Image](@/assets/images/2022/04/IMG_4267_v1.JPG)
 
 > Author's Note - This work is in progress. I wanted to get this posted because it has been in progress for me for too long, but it is not complete - please excuse me while I work through some stuff
 

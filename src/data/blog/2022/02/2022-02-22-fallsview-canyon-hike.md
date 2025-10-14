@@ -12,7 +12,7 @@ tags:
 description: We took a lovely Winter hike at Fallsview Canyon Campground in Olympic National Forest. This is the story of that adventure.
 ---
 
-![Featured Image](../../../../assets/images/2022/02/DJI_20220219_145822_201_v2.jpg)
+![Featured Image](@/assets/images/2022/02/DJI_20220219_145822_201_v2.jpg)
 
 > Saturday, February 19th, 2022 - Olympic National Forest - Falls View Campground
 

@@ -2,7 +2,7 @@
 title: 2023 - Week 15 - Another Full Week
 postSlug: 2023-week-15
 pubDatetime: 2023-04-16T05:56:06.000Z
-ogImage: /assets/images/2023/04/blurry-ollie.jpeg
+ogImage: ../../../../assets/images/2023/04/blurry-ollie.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Wherein I talk about my surprise by how much I loved Puss in Boots- The Last Wish, the triggers of Easter, replacing our shower handle cartridges, Ollie's first PNW hike, and some other stuff
 ---
 
-![Featured Image](/assets/images/2023/04/blurry-ollie.jpeg)
+![Featured Image](@/assets/images/2023/04/blurry-ollie.jpeg)
 
 The end of this week has reminded me that I'm still burnt out.
 

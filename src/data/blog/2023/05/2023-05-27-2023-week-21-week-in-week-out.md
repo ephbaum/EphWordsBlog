@@ -2,7 +2,7 @@
 title: 2023 - Week 21 - Week in, Week out
 postSlug: 2023-week-21
 pubDatetime: 2023-05-27T22:57:56.000Z
-ogImage: /assets/images/2023/05/olympics-at-sunset-in-bremerton.jpeg
+ogImage: ../../../../assets/images/2023/05/olympics-at-sunset-in-bremerton.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Wherein I talk about feeling S.A.D., talk about having been sick, mention our house guest, and generally describe a mundane week around the ol' homestead
 ---
 
-![The Olympics at Sunset from Bremerton](/assets/images/2023/05/olympics-at-sunset-in-bremerton.jpeg)
+![The Olympics at Sunset from Bremerton](@/assets/images/2023/05/olympics-at-sunset-in-bremerton.jpeg)
 
 I feel like I'm emerging, and shaking of the rust from some S.A.D., though not Seasonal Affective Disorder. I'm thinking of something like Surviving Another Depression as opposed to Stomp About Dumbly. I wasn't sure about that, meaning, however, so I asked ChatGPT for alternatives. ChatGPT suggested the following:
 

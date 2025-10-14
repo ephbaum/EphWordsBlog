@@ -2,7 +2,7 @@
 title: Hiking Meditation
 postSlug: hiking-meditation
 pubDatetime: 2023-10-26T03:52:24.000Z
-ogImage: /assets/images/2023/10/hiking-meditation-lotus-on-the-trail-c.webp
+ogImage: ../../../../assets/images/2023/10/hiking-meditation-lotus-on-the-trail-c.webp
 featured: true
 draft: false
 tags:
@@ -16,7 +16,7 @@ description: A post describing my views on the hiking meditation and its value t
 
 Meditation, Mindfulness, and Hiking are all deeply intertwined for me. This post aims to explain my experience with hiking meditation and its value.
 
-![Peace from Above - A hiker with a trekking pole stands atop a peak surveying the world below, at peace](../../../../assets/images/2023/10/hiking-meditation-on-top-of-it-alll-c.webp)
+![Peace from Above - A hiker with a trekking pole stands atop a peak surveying the world below, at peace](@/assets/images/2023/10/hiking-meditation-on-top-of-it-alll-c.webp)
 
 ## Meditation & Mindfulness
 

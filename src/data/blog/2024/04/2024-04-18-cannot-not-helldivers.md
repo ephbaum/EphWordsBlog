@@ -2,7 +2,7 @@
 title: Cannot Not Helldivers
 postSlug: 2024-04-18-cannot-not-helldivers
 pubDatetime: 2024-04-19T03:46:49.000Z
-ogImage: /assets/images/2024/04/helldiversshame.png
+ogImage: ../../../../assets/images/2024/04/helldiversshame.png
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Placeholder description for new post
 ---
 
-![Helldivers 2 Shame](/assets/images/2024/04/helldiversshame.png)
+![Helldivers 2 Shame](@/assets/images/2024/04/helldiversshame.png)
 
 For the Record: I have been really busy, which is why I didn't even post anything in March, despite wanting to at least post once a month this year.
 
@@ -23,7 +23,7 @@ If you look at [my most recent post](/posts/2024-02-05-history-fascinates-appall
 
 Instead of posting, or doing other important things, I've been playing a fair bit of Helldivers 2 and found it to be just an excellent game. The theme, however, is actually tricky to get pulled into given that it's just so dark:
 
-![helldivers satire](../../../../assets/images/2024/04/helldivers-forshadowing.jpg)
+![helldivers satire](@/assets/images/2024/04/helldivers-forshadowing.jpg)
 
 You play as the baddies. The whole IP is super icky. 
 

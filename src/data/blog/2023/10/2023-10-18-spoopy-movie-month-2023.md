@@ -2,7 +2,7 @@
 title: Spoopy Movie Month 2023
 postSlug: spoopy-movie-month-2023
 pubDatetime: 2023-10-31T23:59:59.000Z
-ogImage: /assets/images/2023/10/spoopy-movie-dall-e-c.webp
+ogImage: ../../../../assets/images/2023/10/spoopy-movie-dall-e-c.webp
 featured: false
 draft: false
 tags:
@@ -14,7 +14,7 @@ description: The movies I've watched for Spoopy Movie Movie (FKA Halloween Movie
 
 As I love horror movies & Halloween: every October (aka Halloween Month) I "watch" a slew of horror movies.
 
-![DALL-E Generated Spoopy Halloween Movie Image](/assets/images/2023/10/spoopy-movie-dall-e-c.webp)
+![DALL-E Generated Spoopy Halloween Movie Image](@/assets/images/2023/10/spoopy-movie-dall-e-c.webp)
 
 Autumn is my favorite season and my favorite time of year. Halloween is my favorite holiday. Halloween month is my favorite month. You get it, yeah?
 

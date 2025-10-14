@@ -2,7 +2,7 @@
 title: 2023 - Week 28 - Still Summer
 postSlug: 2023-week-28
 pubDatetime: 2023-07-15T20:09:20.000Z
-ogImage: /assets/images/2023/07/ollie-boopin.jpeg
+ogImage: ../../../../assets/images/2023/07/ollie-boopin.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Wherein I talk about my car's repair subsequent to its repairs, taking delivery on our "new" Outback, and, you know, reflect.
 ---
 
-![Ollie Nose Boopin' at Newberry on a Hike](/assets/images/2023/07/ollie-boopin.jpeg)
+![Ollie Nose Boopin' at Newberry on a Hike](@/assets/images/2023/07/ollie-boopin.jpeg)
 
 Just as every other week I've shared here on this blog, this week follows suit, unfolding much the same. Some things happened.
 

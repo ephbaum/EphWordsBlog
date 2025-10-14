@@ -2,7 +2,7 @@
 title: 2023 - Week 20 - Approaching the Halfway Mark
 postSlug: 2023-week-20
 pubDatetime: 2023-05-21T06:29:29.000Z
-ogImage: /assets/images/2023/05/olympics-from-kitsap-memorial-state-park.jpeg
+ogImage: ../../../../assets/images/2023/05/olympics-from-kitsap-memorial-state-park.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Wherein I try to have Google Bard analyze an analogy, discuss an trip to Kitsap Memorial State Park for some impromptu family together time, and babble on, as I do
 ---
 
-![A striking view of the Olympics across Hood's Canal fjord from Kitsap Memorial State Park](/assets/images/2023/05/olympics-from-kitsap-memorial-state-park.jpeg)
+![A striking view of the Olympics across Hood's Canal fjord from Kitsap Memorial State Park](@/assets/images/2023/05/olympics-from-kitsap-memorial-state-park.jpeg)
 
 It's almost half-way through 2023 and I'm feeling reflective on the progress we've made so far this year across so many fronts and it feels, a bit, like moving all the pawns turn-after-turn across a chess board.
 

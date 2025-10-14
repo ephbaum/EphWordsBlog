@@ -2,7 +2,7 @@
 title: History Fascinates, Appalls, and Resonates
 postSlug: 2024-02-05-history-fascinates-appalls-and-resonates
 pubDatetime: 2024-02-06T03:36:14.000Z
-# ogImage: /assets/images/2024/02/
+# ogImage: @/assets/images/2024/02/
 featured: false
 draft: false
 tags:
@@ -76,17 +76,17 @@ It's been a lot of fun doing the research on area. It's a little strange to feel
 
 Learning about the history of the region has been rife with colorful characters like the tailor who Bremerton Mayor / Police Chief / County Commissioner Jesse Knabb eventually, he would have you believe, framed by a "gang" in the 30's and Port Orchard Patrolmen turned Chief of Police and, possibly, a murderer!
 
-![Jesse Knabb frame up / play by play](../../../../assets/images/2024/02/jesse-knabb-frame-up-play-by-play-c.jpg)
+![Jesse Knabb frame up / play by play](@/assets/images/2024/02/jesse-knabb-frame-up-play-by-play-c.jpg)
 
-![Smith murder, 10 years later](../../../../assets/images/2024/02/james-smith-murder-10-years-later-c.jpg)
+![Smith murder, 10 years later](@/assets/images/2024/02/james-smith-murder-10-years-later-c.jpg)
 
 There's the tragic Harry Hallen murder, and the drama surrounding The Griffin Wheel company in Tacoma. The story is told from a rather interesting perspective [here](http://groupssa.com/ssa/griffinwheelmurder/griffinwheelmurder.html). The entire results in the originally convicted murdereing, Spadoni, is released and ordered not guilty.
 
-![Harry Hallen Murder, Spadoni free](../../../../assets/images/2024/02/harry-hallen-spadoni-freed-c.jpg)
+![Harry Hallen Murder, Spadoni free](@/assets/images/2024/02/harry-hallen-spadoni-freed-c.jpg)
 
 There are fascinating stories such as learning about the "mystic invalid" in the mid-20's in Coos County, OR, who, in addition to murdering his sister-in-law, was said to have done so through the application of "mesmerism" of his "simple" nephew to perform the crime and, apparently, was also the mastermind / architect of dozens of murder plots of prominent people in the area. It's a wild story.
 
-![Ebba Covell Murder - Anton - Anthony - OMG!](../../../../assets/images/2024/02/r-covells-son-bandon-murder-c.jpg)
+![Ebba Covell Murder - Anton - Anthony - OMG!](@/assets/images/2024/02/r-covells-son-bandon-murder-c.jpg)
 
 There are "[kidnapings](https://www.wordnik.com/words/kidnaping)" aplenty, including the first time J. Edger Hoover's G-Men had failed to save a stolen child after [Charlie Mattson](https://www.historylink.org/File/8028) in Tacoma at the end of 1936, a story which spanned the region and ended up on the national stage! That story is tragic, and so is [Anna Nosko](https://www.columbian.com/news/2022/apr/03/clark-county-history-anna-nosko-murder-of-1923/)'s story, a young lady of 11 who was snatched from a path on her way home from school in picturesque Clark County, WA, assaulted, and murdered.
 

@@ -2,7 +2,7 @@
 title: 2023 - Week 26 - Halfway Mark
 postSlug: 2023-week-26
 pubDatetime: 2023-07-01T16:29:34.000Z
-ogImage: /assets/images/2023/07/rose-garden-flowers.jpeg
+ogImage: ../../../../assets/images/2023/07/rose-garden-flowers.jpeg
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
 description: Wherein I quickly post about our trip to Portland, Oregon.
 ---
 
-![Pretty flowers at the International Rose Test Garden and Hoyt Arboretum at Washington Park](/assets/images/2023/07/rose-garden-flowers.jpeg)
+![Pretty flowers at the International Rose Test Garden and Hoyt Arboretum at Washington Park](@/assets/images/2023/07/rose-garden-flowers.jpeg)
 
 Here we are, the actual halfway point of the year. I find that time continues to feel like it's progressing faster and faster.
 

@@ -12,7 +12,7 @@ tags:
 description: I did an aggressive hike at Wildcat Trail on Green Mountain and wrote a doozy of a post about it. 💪
 ---
 
-![Featured Image](../../../../assets/images/2022/05/52027540243_d453e3c4de_c.jpg)
+![Featured Image](@/assets/images/2022/05/52027540243_d453e3c4de_c.jpg)
 
 Having recently [commit](/posts/committing-to-something-scary/) to a goal that feels very aggressive, I decided that I needed to prove to myself that I was within range of a target I would need to hit very soon.
 

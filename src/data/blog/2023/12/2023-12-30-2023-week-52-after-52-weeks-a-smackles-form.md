@@ -2,7 +2,7 @@
 title: 2023 - Week 52 - After 52 Weeks a Smackles Form
 postSlug: 2023-week-52
 pubDatetime: 2023-12-31T06:56:48.000Z
-ogImage: /assets/images/2023/12/from-bridge-at-staircase.jpg
+ogImage: ../../../../assets/images/2023/12/from-bridge-at-staircase.jpg
 featured: false
 draft: false
 tags:
@@ -192,7 +192,7 @@ She had wanted to go see snow as we've told her pretty consistently that, despit
 
 So, instead of chasing snow we drove around to Lake Cushman and took a little drive into OLYM to check out the beauty of nature.
 
-![from bridge at Staircase in OLYM](/assets/images/2023/12/from-bridge-at-staircase.jpg)
+![from bridge at Staircase in OLYM](@/assets/images/2023/12/from-bridge-at-staircase.jpg)
 
 It was an absolutely lovely day despite the occasional light rain and mostly gray skies. The low hanging clouds / mist were beautiful and the beauty of the Olympic mountains could not be dampened by the lack of sun and low hanging cloud cover.
 
@@ -204,9 +204,9 @@ It was a beautiful drive.
 
 Ollie liked it too:
 
-![Ollie photobombing Lake Cushman](../../../../assets/images/2023/12/lake-cushman-ollie.jpg)
+![Ollie photobombing Lake Cushman](@/assets/images/2023/12/lake-cushman-ollie.jpg)
 
-![Lake Cushman photobombing Ollie](../../../../assets/images/2023/12/ollie-lake-cushman.jpg)
+![Lake Cushman photobombing Ollie](@/assets/images/2023/12/ollie-lake-cushman.jpg)
 
 We didn't find snow but we did have a lovely time and, perhaps during a future weekend trip we'll find ourselves some of that snow this kid misses oh so much.
 
