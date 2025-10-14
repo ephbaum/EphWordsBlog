@@ -131,6 +131,7 @@ const structuredData = {
     <ClientRouter />
 
     <script is:inline src="/toggle-theme.js"></script>
+    {import.meta.env.MODE === "production" && <UmamiTracking />}
   </head>
   <body>
     <slot />

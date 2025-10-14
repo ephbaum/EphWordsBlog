@@ -1,11 +1,10 @@
 ---
 author: Sat Naing
 pubDatetime: 2022-09-26T12:13:24Z
-modDatetime: 2024-01-04T09:09:06Z
 title: Predefined color schemes
-slug: predefined-color-schemes
+postSlug: predefined-color-schemes
 featured: false
-draft: false
+draft: true
 tags:
   - color-schemes
 description:
@@ -30,11 +29,12 @@ Light color scheme has to be defined using the css selector `:root` and `html[da
 ```css
 :root,
 html[data-theme="light"] {
-  --background: #f6eee1;
-  --foreground: #012c56;
-  --accent: #e14a39;
-  --muted: #efd8b0;
-  --border: #dc9891;
+  --color-fill: 246, 238, 225;
+  --color-text-base: 1, 44, 86;
+  --color-accent: 225, 74, 57;
+  --color-card: 217, 209, 195;
+  --color-card-muted: 239, 216, 176;
+  --color-border: 220, 152, 145;
 }
 ```
 
@@ -45,11 +45,12 @@ html[data-theme="light"] {
 ```css
 :root,
 html[data-theme="light"] {
-  --background: #f2f5ec;
-  --foreground: #353538;
-  --accent: #1158d1;
-  --muted: #bbc789;
-  --border: #7cadff;
+  --color-fill: 242, 245, 236;
+  --color-text-base: 53, 53, 56;
+  --color-accent: 17, 88, 209;
+  --color-card: 206, 213, 180;
+  --color-card-muted: 187, 199, 137;
+  --color-border: 124, 173, 255;
 }
 ```
 
@@ -60,17 +61,18 @@ html[data-theme="light"] {
 ```css
 :root,
 html[data-theme="light"] {
-  --background: #fafcfc;
-  --foreground: #222e36;
-  --accent: #d3006a;
-  --muted: #f1bad4;
-  --border: #e3a9c6;
+  --color-fill: 250, 252, 252;
+  --color-text-base: 34, 46, 54;
+  --color-accent: 211, 0, 106;
+  --color-card: 234, 206, 219;
+  --color-card-muted: 241, 186, 212;
+  --color-border: 227, 169, 198;
 }
 ```
 
 ## Dark color schemes
 
-Dark color scheme has to be defined as `html[data-theme="dark"]`.
+Light color scheme has to be defined as `html[data-theme="dark"]`.
 
 ### AstroPaper 1 original Dark Theme
 
@@ -78,11 +80,12 @@ Dark color scheme has to be defined as `html[data-theme="dark"]`.
 
 ```css
 html[data-theme="dark"] {
-  --background: #2f3741;
-  --foreground: #e6e6e6;
-  --accent: #1ad9d9;
-  --muted: #596b81;
-  --border: #3b4655;
+  --color-fill: 47, 55, 65;
+  --color-text-base: 230, 230, 230;
+  --color-accent: 26, 217, 217;
+  --color-card: 63, 75, 90;
+  --color-card-muted: 89, 107, 129;
+  --color-border: 59, 70, 85;
 }
 ```
 
@@ -92,11 +95,12 @@ html[data-theme="dark"] {
 
 ```css
 html[data-theme="dark"] {
-  --background: #21233d;
-  --foreground: #f4f7f5;
-  --accent: #ff5256;
-  --muted: #4a4e86;
-  --border: #b12f32;
+  --color-fill: 33, 35, 61;
+  --color-text-base: 244, 247, 245;
+  --color-accent: 255, 82, 86;
+  --color-card: 57, 60, 102;
+  --color-card-muted: 74, 78, 134;
+  --color-border: 177, 47, 50;
 }
 ```
 
@@ -106,11 +110,12 @@ html[data-theme="dark"] {
 
 ```css
 html[data-theme="dark"] {
-  --background: #353640;
-  --foreground: #e9edf1;
-  --accent: #ff78c8;
-  --muted: #715566;
-  --border: #86436b;
+  --color-fill: 53, 54, 64;
+  --color-text-base: 233, 237, 241;
+  --color-accent: 255, 120, 200;
+  --color-card: 75, 76, 89;
+  --color-card-muted: 113, 85, 102;
+  --color-border: 134, 67, 107;
 }
 ```
 
@@ -120,11 +125,13 @@ html[data-theme="dark"] {
 
 ```css
 html[data-theme="dark"] {
-  --background: #212737;
-  --foreground: #eaedf3;
-  --accent: #ff6b01;
-  --muted: #8a3302;
-  --border: #ab4b08;
+  --color-fill: 16, 23, 42; /* higher contrast bgColor */
+  --color-fill: 33, 39, 55;
+  --color-text-base: 234, 237, 243;
+  --color-accent: 255, 107, 1;
+  --color-card: 27, 39, 70;
+  --color-card-muted: 138, 51, 2;
+  --color-border: 171, 75, 8;
 }
 ```
 
@@ -134,11 +141,12 @@ html[data-theme="dark"] {
 
 ```css
 html[data-theme="dark"] {
-  --background: #212737; /* lower contrast background */
-  --foreground: #eaedf3;
-  --accent: #ff6b01;
-  --muted: #8a3302;
-  --border: #ab4b08;
+  --color-fill: 33, 39, 55; /* lower contrast bgColor */
+  --color-text-base: 234, 237, 243;
+  --color-accent: 255, 107, 1;
+  --color-card: 52, 63, 96;
+  --color-card-muted: 138, 51, 2;
+  --color-border: 171, 75, 8;
 }
 ```
 
@@ -148,24 +156,11 @@ html[data-theme="dark"] {
 
 ```css
 html[data-theme="dark"] {
-  --background: #212737;
-  --foreground: #eaedf3;
-  --accent: #eb3fd3;
-  --muted: #7d4f7c;
-  --border: #642451;
-}
-```
-
-### AstroPaper v4 Special (New dark theme in AstroPaper 4)
-
-![AstroPaper v4 new theme](https://github.com/satnaing/astro-paper/assets/53733092/66eb74dc-7a0e-4f2e-982d-25f5c443b25a)
-
-```css
-html[data-theme="dark"] {
-  --background: #000123;
-  --accent: #617bff;
-  --foreground: #eaedf3;
-  --muted: #0c0e4f;
-  --border: #303f8a;
+  --color-fill: 33, 39, 55;
+  --color-text-base: 234, 237, 243;
+  --color-accent: 235, 63, 211;
+  --color-card: 52, 63, 96;
+  --color-card-muted: 125, 79, 124;
+  --color-border: 100, 36, 81;
 }
 ```
