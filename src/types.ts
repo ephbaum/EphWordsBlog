@@ -16,6 +16,7 @@ export type SocialObjects = {
 }[];
 
 export type SocialIcons = {
+  // eslint-disable-next-line no-unused-vars
   [social in SocialMedia]: string;
 };
 
