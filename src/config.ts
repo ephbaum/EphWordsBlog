@@ -1,41 +1,62 @@
-import type { Site, SocialObjects } from "./types";
-
-export const SITE: Site = {
+export const SITE = {
   website: "https://ephwords.com/",
   author: "Eph Baum",
+  profile: "https://ephwords.com/",
   desc: "A place where I shout into the void.",
   title: "Eph Words",
-  ogImage: "/assets/images/imsignificant-c.jpg",
+  ogImage: "",
   lightAndDarkMode: true,
+  postPerIndex: 4,
   postPerPage: 20,
-};
+  scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
+  showArchives: true,
+  showBackButton: true,
+  editPost: {
+    enabled: true,
+    text: "Edit on GitHub",
+    url: "https://github.com/ephbaum/EphWordsBlog/edit/main/",
+  },
+  dynamicOgImage: true,
+  dir: "ltr",
+  lang: "en",
+  timezone: "America/Los_Angeles", // Pacific Time
+} as const;
 
-export const LOCALE = ["en-EN"]; // set to [] to use the environment default
+export type SocialMedia =
+  | "Github"
+  | "Facebook"
+  | "Instagram"
+  | "LinkedIn"
+  | "Mail"
+  | "Bluesky"
+  | "Threads"
+  | "Twitch"
+  | "YouTube"
+  | "WhatsApp"
+  | "Snapchat"
+  | "Pinterest"
+  | "TikTok"
+  | "CodePen"
+  | "Discord"
+  | "GitLab"
+  | "Reddit"
+  | "Skype"
+  | "Steam"
+  | "Telegram"
+  | "Mastodon";
 
-export const LOGO_IMAGE = {
-  enable: false,
-  svg: true,
-  width: 216,
-  height: 46,
-};
+export type SocialObjects = {
+  name: SocialMedia;
+  href: string;
+  active: boolean;
+  linkTitle: string;
+}[];
 
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
     href: "https://github.com/ephbaum",
-    linkTitle: ` ${SITE.author} on Github`,
-    active: true,
-  },
-  {
-    name: "Facebook",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.author} on Facebook`,
-    active: false,
-  },
-  {
-    name: "Instagram",
-    href: "https://www.instagram.com/eph_baum/",
-    linkTitle: `${SITE.author} on Instagram`,
+    linkTitle: `${SITE.author} on Github`,
     active: true,
   },
   {
@@ -51,46 +72,40 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
-    name: "Twitter",
-    href: "https://twitter.com/ephbaum",
-    linkTitle: `${SITE.author} on Twitter`,
+    name: "Mastodon",
+    href: "https://hachyderm.io/@ephbaum",
+    linkTitle: `${SITE.author} on Mastodon`,
     active: true,
   },
   {
-    name: "Twitch",
-    href: "https://www.twitch.tv/triplefbomb",
-    linkTitle: `${SITE.author} on Twitch`,
+    name: "Bluesky",
+    href: "https://bsky.app/profile/ephbaum.bsky.social",
+    linkTitle: `${SITE.author} on Bluesky`,
+    active: true,
+  },
+  {
+    name: "Reddit",
+    href: "https://www.reddit.com/user/ephbaum",
+    linkTitle: `${SITE.author}'s (real account) on Reddit`,
+    active: true,
+  },
+  {
+    name: "Instagram",
+    href: "https://www.instagram.com/eph_baum/",
+    linkTitle: `${SITE.author} on Instagram`,
+    active: true,
+  },
+  {
+    name: "Threads",
+    href: "https://www.threads.com/@eph_baum",
+    linkTitle: `${SITE.author} on Threads`,
     active: true,
   },
   {
     name: "YouTube",
-    href: "https://www.youtube.com/channel/UC2LXX_Rb6u83CJYRybznlDQ",
+    href: "https://www.youtube.com/@epharound",
     linkTitle: `${SITE.author} on YouTube`,
     active: true,
-  },
-  {
-    name: "WhatsApp",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.author} on WhatsApp`,
-    active: false,
-  },
-  {
-    name: "Snapchat",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.author} on Snapchat`,
-    active: false,
-  },
-  {
-    name: "Pinterest",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.author} on Pinterest`,
-    active: false,
-  },
-  {
-    name: "TikTok",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.author} on TikTok`,
-    active: false,
   },
   {
     name: "CodePen",
@@ -105,39 +120,15 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
-    name: "GitLab",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.author} on GitLab`,
-    active: false,
-  },
-  {
-    name: "Reddit",
-    href: "https://www.reddit.com/user/ephbaum",
-    linkTitle: `${SITE.author}'s (real account) on Reddit`,
-    active: true,
-  },
-  {
-    name: "Skype",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.author} on Skype`,
-    active: false,
-  },
-  {
     name: "Steam",
-    href: "https://steamcommunity.com/id/fff-bomb/",
+    href: "https://steamcommunity.com/id/xfbomb223x",
     linkTitle: `${SITE.author} on Steam`,
     active: true,
   },
   {
-    name: "Telegram",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.author} on Telegram`,
-    active: false,
-  },
-  {
-    name: "Mastodon",
-    href: "https://hachyderm.io/@ephbaum",
-    linkTitle: `${SITE.author} on Mastodon`,
+    name: "Twitch",
+    href: "https://www.twitch.tv/xfbomb223x",
+    linkTitle: `${SITE.author} on Twitch`,
     active: true,
   },
 ];

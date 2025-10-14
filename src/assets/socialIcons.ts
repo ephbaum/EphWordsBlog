@@ -1,4 +1,8 @@
-import type { SocialIcons } from "../types";
+import type { SocialMedia } from "@/config";
+
+type SocialIcons = {
+  [social in SocialMedia]: string;
+};
 
 const socialIcons: SocialIcons = {
   Github: `<svg
@@ -57,14 +61,27 @@ const socialIcons: SocialIcons = {
       <rect x="3" y="5" width="18" height="14" rx="2"></rect>
       <polyline points="3 7 12 13 21 7"></polyline>
     </svg>`,
-  Twitter: `<svg
+  Bluesky: `<svg
       xmlns="http://www.w3.org/2000/svg"
       class="icon-tabler"
       stroke-linecap="round"
       stroke-linejoin="round"
+      fill="none"
+      viewBox="0 0 24 24"
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-      <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z"></path>
+      <path d="M6.335 5.144C4.099 6.882 2 9.597 2 12.968c0 1.415.447 2.423 1.187 3.058.806.693 1.993.98 3.527.582 1.362-.353 2.72-1.091 3.836-2.092.291-.26.563-.54.816-.837a11.4 11.4 0 0 0 .816.837c1.116 1.001 2.474 1.739 3.836 2.092 1.534.398 2.721.111 3.527-.582C20.553 15.391 21 14.383 21 12.968c0-3.371-2.099-6.086-4.335-7.824C14.731 3.577 12.735 2 12 2c-.735 0-2.731 1.577-4.665 3.144z"></path>
+    </svg>`,
+  Threads: `<svg
+      xmlns="http://www.w3.org/2000/svg"
+      class="icon-tabler"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      fill="none"
+      viewBox="0 0 24 24"
+    >
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+      <path d="M19 7.5c-1.333 -3 -3.667 -4.5 -7 -4.5c-5 0 -8 2.5 -8 9s3.5 9 8 9s7 -3 7 -5s-1 -5 -7 -5c-2.5 0 -3 1.25 -3 2.5c0 1.5 1 2.5 2.5 2.5c2.5 0 3.5 -1.5 3.5 -5s-2 -4 -3 -4s-1.833 .333 -2.5 1"></path>
     </svg>`,
   Twitch: `<svg
       xmlns="http://www.w3.org/2000/svg"
