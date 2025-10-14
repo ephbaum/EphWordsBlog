@@ -90,7 +90,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "YouTube",
-    href: "https://www.youtube.com/channel/UC2LXX_Rb6u83CJYRybznlDQ",
+    href: "https://www.youtube.com/@epharound",
     linkTitle: `${SITE.author} on YouTube`,
     active: true,
   },
