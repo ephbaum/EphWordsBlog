@@ -37,6 +37,8 @@ Well, that's a remarkably handsome question (I've just asked myself, but suspect
 
 It should also be extraordinarily clear looking at the commit history in this repo that I have been pretty neglectful of this blog, at least through 2024 into 2025. So, as of today, I'm working on a little housekeeping and, hopefully, I'll get back to posting here with some regularity again. (Given my enormous backlog of blog posts I've got drafted and old content just collecting dust and cobwebs)
 
+**Recent Updates (October 2025):** Completed a major dependency update, upgrading to Astro v5, updating all packages to their latest versions, and migrating to modern tooling (ESLint 9, Husky 9, etc.). See `DEPENDENCY_UPDATE_SUMMARY.md` for details.
+
 I won't commit myself to weekly updates again, but I will commit myself to at least getting a few more words out.
 
 ---
@@ -55,11 +57,12 @@ EphWords.com is a personal blog built with modern web technologies, featuring a 
 
 #### Core Framework
 
-- **[Astro](https://astro.build/)** - Modern static site generator with component islands architecture
-- **[TypeScript](https://www.typescriptlang.org/)** - Type-safe development with strict configuration
-- **[React](https://react.dev/)** - Interactive components (Search, Card, Datetime)
+- **[Astro](https://astro.build/)** v5.14.4 - Modern static site generator with component islands architecture
+- **[TypeScript](https://www.typescriptlang.org/)** v5.7.2 - Type-safe development with strict configuration
+- **[React](https://react.dev/)** v18.3.1 - Interactive components (Search, Card, Datetime)
+- **[Node.js](https://nodejs.org/)** v22.12.0 (LTS) - Runtime environment
 
-> See `package.json` for current versions
+> Last updated: October 14, 2025 | See `package.json` for all versions
 
 #### Styling & UI
 
