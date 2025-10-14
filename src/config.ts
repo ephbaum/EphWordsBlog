@@ -60,12 +60,6 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
-    name: "Instagram",
-    href: "https://www.instagram.com/eph_baum/",
-    linkTitle: `${SITE.author} on Instagram`,
-    active: true,
-  },
-  {
     name: "LinkedIn",
     href: "https://linkedin.com/in/ephbaum",
     linkTitle: `${SITE.author} on LinkedIn`,
@@ -78,21 +72,33 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
+    name: "Mastodon",
+    href: "https://hachyderm.io/@ephbaum",
+    linkTitle: `${SITE.author} on Mastodon`,
+    active: true,
+  },
+  {
     name: "Bluesky",
     href: "https://bsky.app/profile/ephbaum.bsky.social",
     linkTitle: `${SITE.author} on Bluesky`,
     active: true,
   },
   {
-    name: "Threads",
-    href: "https://www.threads.com/@eph_baum",
-    linkTitle: `${SITE.author} on Threads`,
+    name: "Reddit",
+    href: "https://www.reddit.com/user/ephbaum",
+    linkTitle: `${SITE.author}'s (real account) on Reddit`,
     active: true,
   },
   {
-    name: "Twitch",
-    href: "https://www.twitch.tv/triplefbomb",
-    linkTitle: `${SITE.author} on Twitch`,
+    name: "Instagram",
+    href: "https://www.instagram.com/eph_baum/",
+    linkTitle: `${SITE.author} on Instagram`,
+    active: true,
+  },
+  {
+    name: "Threads",
+    href: "https://www.threads.com/@eph_baum",
+    linkTitle: `${SITE.author} on Threads`,
     active: true,
   },
   {
@@ -114,21 +120,15 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
-    name: "Reddit",
-    href: "https://www.reddit.com/user/ephbaum",
-    linkTitle: `${SITE.author}'s (real account) on Reddit`,
-    active: true,
-  },
-  {
     name: "Steam",
     href: "https://steamcommunity.com/id/xfbomb223x",
     linkTitle: `${SITE.author} on Steam`,
     active: true,
   },
   {
-    name: "Mastodon",
-    href: "https://hachyderm.io/@ephbaum",
-    linkTitle: `${SITE.author} on Mastodon`,
+    name: "Twitch",
+    href: "https://www.twitch.tv/xfbomb223x",
+    linkTitle: `${SITE.author} on Twitch`,
     active: true,
   },
 ];
