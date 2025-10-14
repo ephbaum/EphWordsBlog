@@ -17,8 +17,6 @@ We have common ground in that, at the very least, we're both hurtling through th
 
 This is the place where I'm going to post the Eph words that don't fit on my [dev blog](https://ephbaum.dev).
 
-<img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-
 ## Blog Theme
 
 I'm using the [Astro Paper theme](https://github.com/satnaing/astro-paper) from the quite talented [Sat Naing](https://satnaing.dev/)

@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://ephwords.com/",
   desc: "A place where I shout into the void.",
   title: "Eph Words",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 20,
