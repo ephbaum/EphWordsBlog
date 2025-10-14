@@ -28,7 +28,8 @@ export type SocialMedia =
   | "Instagram"
   | "LinkedIn"
   | "Mail"
-  | "Twitter"
+  | "Bluesky"
+  | "Threads"
   | "Twitch"
   | "YouTube"
   | "WhatsApp"
@@ -77,9 +78,15 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
-    name: "Twitter",
-    href: "https://twitter.com/ephbaum",
-    linkTitle: `${SITE.author} on Twitter`,
+    name: "Bluesky",
+    href: "https://bsky.app/profile/ephbaum.bsky.social",
+    linkTitle: `${SITE.author} on Bluesky`,
+    active: true,
+  },
+  {
+    name: "Threads",
+    href: "https://www.threads.com/@eph_baum",
+    linkTitle: `${SITE.author} on Threads`,
     active: true,
   },
   {
