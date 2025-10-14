@@ -224,6 +224,21 @@ The search page will show a warning in dev mode explaining this limitation.
 - `src/components/UmamiTracking.astro` - Analytics
 - `src/styles/base.css` - Custom colors
 
+## Google Site Verification (Optional)
+
+You can easily add your [Google Site Verification HTML tag](https://support.google.com/webmasters/answer/9008080#meta_tag_verification&zippy=%2Chtml-tag) using an environment variable:
+
+```bash
+# in your environment variable file (.env)
+PUBLIC_GOOGLE_SITE_VERIFICATION=your-google-site-verification-value
+```
+
+> See [this discussion](https://github.com/satnaing/astro-paper/discussions/334#discussioncomment-10139247) for adding AstroPaper to Google Search Console.
+
+## Platform-Specific Notes
+
+**Windows PowerShell**: Users may need to install the [concurrently package](https://www.npmjs.com/package/concurrently) to run diagnostics during development (`astro check --watch & astro dev`). See [this issue](https://github.com/satnaing/astro-paper/issues/113) for details.
+
 ## Useful Links
 
 - [AstroPaper Documentation](https://github.com/satnaing/astro-paper)
