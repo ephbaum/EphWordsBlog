@@ -3,34 +3,35 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-I'm Eph Baum. I wrote a bit about my name [here](https://github.com/ephbaum/#why-eph-baum) if you're interested (and recently migrated that content to this very blog [here](/posts/why-eph-baum)). I'm a software engineer, curmudgeonly gaming "veteran", father, partner, friend, and human trying their best.
+AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
 
-I've worn a lot of hats and had many varied experiences. I've many interests and passions.
+![Astro Paper](public/astropaper-og.jpg)
 
-<img src="/assets/neurodiversity.jpg" class="sm:w-1/2 mx-auto" alt="SpongeBob Rainbow Meme - Neurodiversity">
+AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
 
-<p class="text-center">I'm neurodiverse.</p>
+The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
 
-I have a strong desire to share with others.
+## Features
 
-We have common ground in that, at the very least, we're both hurtling through the black void on this rock, probably. Unless you're in space, or on another planet, or in some other plane of existence, or whatever.
+AstroPaper comes with a set of useful features that make content publishing easy and effective:
 
-This is the place where I'm going to post the Eph words that don't fit on my [dev blog](https://ephbaum.dev).
+- SEO-friendly
+- Fast performance
+- Light & dark mode
+- Highly customizable
+- Organizable blog posts
+- Responsive & accessible
+- Static search with [PageFind](https://pagefind.app/)
+- Automatic social image generation
 
-<img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+and so much more.
 
-## Blog Theme
+## Show your support
 
-I'm using the [Astro Paper theme](https://github.com/satnaing/astro-paper) from the quite talented [Sat Naing](https://satnaing.dev/)
+If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
 
-I've been toying with the idea of a theme in the style of a an FTP index where the posts are files in the tree, tags are folders, and you can get a rendered or unrendered version of the markdown.
+Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
 
-I decided that, for the time being however, using a vanilla theme will be substantially faster & easier than creating that theme, and that modifying this theme shouldn't be all that difficult either.
+If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
 
-## But what's this blog _actually_ about?
-
-It's about my need to have a place to post things. I have hundreds of draft posts of all sorts that need a home and I'm not getting any younger.
-
-I have a variety of stories I want to share and I'm hopeful there are folks out there with some interest in them. Perhaps you're one?
-
-It's about sharing my extreme transparency, oversharing perhaps, but my desire to put myself out there.
+Kyay zuu! 🙏🏼
