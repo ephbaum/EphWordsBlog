@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-I'm Eph Baum. I wrote a bit about my name [here](https://github.com/ephbaum/#why-eph-baum) if you're interested (and recently migrated that content to this very blog [here](/posts/why-eph-baum)). I'm a software engineer, curmudgeonly gaming "veteran", father, partner, friend, and human trying their best.
+I'm Eph Baum. I wrote a bit about myself [here](https://github.com/ephbaum/#why-eph-baum) if you're interested (and recently migrated that content to this very blog [here](/posts/2023/10/2023-10-09-why-eph-baum)). I'm a software engineer, curmudgeonly gaming addict, father, friend, and human trying their best.
 
 I've worn a lot of hats and had many varied experiences. I've many interests and passions.
 
