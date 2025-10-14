@@ -34,19 +34,16 @@ I don't think I've spoken to anyone in a therapeutic context in the last 10 year
     - **Goal:** Enhances awareness and concentration, fostering acceptance and clarity.
 
 2.  **Distress Tolerance:**
-
     - **Core Skills:** Techniques like distraction, self-soothing, and pros/cons analysis.
     - **Application:** Employing coping strategies during emotional crises.
     - **Goal:** Aims to endure and accept distress without resorting to harmful behaviors.
 
 3.  **Emotion Regulation:**
-
     - **Core Skills:** Identifying and understanding emotions, reducing vulnerability to emotional instability.
     - **Application:** Implementing strategies to change unwanted emotions.
     - **Goal:** Helps in managing intense emotions, leading to increased emotional stability.
 
 4.  **Interpersonal Effectiveness:**
-
     - **Core Skills:** DEAR MAN, GIVE, and FAST.
     - **Application & Goals:** Discussed in detail below.
 

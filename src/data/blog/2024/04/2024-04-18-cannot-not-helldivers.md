@@ -25,7 +25,7 @@ Instead of posting, or doing other important things, I've been playing a fair bi
 
 ![helldivers satire](@/assets/images/2024/04/helldivers-forshadowing.jpg)
 
-You play as the baddies. The whole IP is super icky. 
+You play as the baddies. The whole IP is super icky.
 
 The gameplay is spectacular, however. The gun play is nuanced and super fun, the enemies are challenging and strategies for the (currently) two enemy factions pleasingly varied, the missions are fairly interesting and varied(-ish) and the loop is plain fun.
 
