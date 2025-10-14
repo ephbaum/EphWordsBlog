@@ -173,6 +173,8 @@ Use with utility classes: `bg-background`, `text-foreground`, `text-accent`, etc
 npm run dev
 ```
 
+**Important:** Search functionality does NOT work in dev mode. Pagefind requires built HTML files to create the search index.
+
 ### Build
 
 ```bash
@@ -190,6 +192,15 @@ This runs:
 ```bash
 npm run preview
 ```
+
+Use preview mode to test search functionality. Preview serves the built site with the generated Pagefind index.
+
+**Testing Search:**
+1. Run `npm run build` to generate the search index
+2. Run `npm run preview` to serve the built site
+3. Navigate to `/search` to test search
+
+The search page will show a warning in dev mode explaining this limitation.
 
 ## Customizations
 
