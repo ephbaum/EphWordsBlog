@@ -2,7 +2,7 @@
 title: Starting a New Chapter
 postSlug: a-new-chapter
 pubDatetime: 2023-10-07T14:10:45.000Z
-featured: true
+featured: false
 draft: false
 tags:
   - extreme-transparency
