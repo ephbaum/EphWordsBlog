@@ -6,9 +6,11 @@ ogImage: ../../../../assets/images/2024/04/helldiversshame.png
 featured: false
 draft: false
 tags:
-  - update
+  - helldivers-2
+  - game-review
+  - personal-update
   - gaming
-description: Placeholder description for new post
+description: A reflection on being busy with life changes and gaming, featuring thoughts on Helldivers 2's dark themes, excellent gameplay, and the challenge of balancing time between writing, gaming, and new adventures.
 ---
 
 ![Helldivers 2 Shame](@/assets/images/2024/04/helldiversshame.png)
