@@ -10,7 +10,7 @@ tags:
   - christmas
   - OLYM
   - luke-s-may
-description: Wherein I talk about my last full week of 2023, with some reflection on the year, the anticipation of 2024, recount the week's adventures (like Christmas). It's actually a pretty big post even if, like so many others I've written, it says very little of any real value or substance.
+description: Year-end reflections on 2023, Christmas celebrations, and looking forward to 2024.
 ---
 
 Update 2023-12-31 - I tried to make some updates to this post, but I don't think I did much to improve things. I added a few links. This has been another big year in a series of big years and I'm having a hard time fully reflecting on it. Feel free to check out the history of this post [here](https://github.com/ephbaum/EphWordsBlog/blob/main/src/content/blog/2023/12/2023-12-30-2023-week-52-after-52-weeks-a-smackles-form.md).

@@ -8,7 +8,7 @@ draft: false
 tags:
   - ephandlou
   - saturday-post
-description: Wherein I speculate on Lou's participation on ephandlou.com, talk about Father's Day and my challenged relationship with my own Father (and a beautiful moment involving a well framed view of the Walla Walla looking down Perry Ave.), mention building a new computer (that I really should post about it), mention having attended a "Dude's BBQ", and Bremerton's Bridge Blast
+description: Reflections on Father's Day, family relationships, and local community events in Bremerton, WA.
 ---
 
 ![A prototype Positive Potato](@/assets/images/2023/06/positive-potato-take-one.jpeg)

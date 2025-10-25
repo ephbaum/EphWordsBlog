@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://ephwords.com/",
   author: "Eph Baum",
   profile: "https://ephwords.com/",
-  desc: "A place where I shout into the void.",
+  desc: "Eph Baum's personal blog from the PNW. Sharing thoughts on life, technology, local history, and the Pacific Northwest. A creator, engineer, father, friend, and curious human exploring the world.",
   title: "Eph Words",
   ogImage: "",
   lightAndDarkMode: true,

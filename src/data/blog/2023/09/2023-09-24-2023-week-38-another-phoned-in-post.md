@@ -7,7 +7,7 @@ draft: false
 tags:
   - ephandlou
   - saturday-post
-description: A bit rushed - Lou returns from DC - DC's The Flash - Burger ASAP - The Hobbit - Bremerton City Council approves updated camping ordinance - another farmer's market - Lou & I had a brunch date - Lou attended local Stand Down event
+description: Weekly update covering family activities, local events, and community involvement in Bremerton.
 ---
 
 Another Saturday post is here and I'm staring at this interface thinking about what I should write about this week.

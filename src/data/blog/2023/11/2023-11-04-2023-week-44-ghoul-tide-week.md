@@ -8,7 +8,7 @@ draft: false
 tags:
   - saturday-post
   - halloween
-description: Wherein I discuss a strange interaction, Halloween 2023, Alan Wake 2, Fortnite, Liz's use of public transportation, making pancakes, how Lou and I are talking about a way to move forward, link to more previous posts than usual -- and more! Don't miss out on this one folks, it's a doozy!
+description: Halloween week reflections on gaming, family life, and personal growth in the Pacific Northwest.
 ---
 
 This week, when it's believed the veil between the living and the dead is at its thinnest, has been rather pleasant. While I haven't noticed any spirits trying to cross over in my presence, I certainly find the energy of this week rather noticeably different. As I [mentioned recently](/posts/spoopy-movie-month-2023) when posting about the 70+ horror movies I watched this month, I love this time of year. That's why I posted last week about [the season's history](/posts/halloween-briefish-history).

@@ -8,7 +8,7 @@ draft: false
 tags:
   - ephandlou
   - saturday-post
-description: Labor Day - Reflection - Shopping Downtown - Reflecting on the homeless - Bremerton' Camping Ordinance
+description: Labor Day reflections on community issues and local policy in Bremerton, WA.
 ---
 
 ![A Built by Works Progress Administration Plaque embedded in the sidewalk in Bremerton's Union Hill neighborhood at night under the glow of the street lights](@/assets/images/2023/09/built-by-works-progress-administration.jpeg)

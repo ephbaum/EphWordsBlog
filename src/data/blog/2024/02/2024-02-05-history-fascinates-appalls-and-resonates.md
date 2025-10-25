@@ -11,7 +11,7 @@ tags:
   - Bremerton, WA
   - History
   - Story Telling
-description: (WIP) In this journey, I navigate history's breadth, from universal to intimate scales, to reveal how shared and personal stories intertwine. Focusing on Bremerton, WA, I uncover narratives of crime, innovation, and resilience that define the community. Motivated by a quest for belonging after my father's death, this exploration is both academic and personal. By delving into the lives of key figures and significant events, I aim to highlight the connections between our past and present. This endeavor serves as an ode to history's ability to engage and unite us, encouraging reflection on our individual and collective experiences.
+description: Exploring the rich history of Bremerton, WA through stories of crime, innovation, and community resilience. A personal journey into local history and the connections between past and present.
 ---
 
 # History Fascinates, Appals, and Resonates
