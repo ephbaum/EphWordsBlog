@@ -23,23 +23,43 @@ const recentPosts = sortedPosts; // Show all recent posts, including featured on
   <Header />
   <main id="main-content" data-layout="index">
     <section id="hero" class="pt-8 pb-6">
-      <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
-        Welcome to Eph Words
-      </h1>
-      <a
-        target="_blank"
-        href="/rss.xml"
-        class="inline-block"
-        aria-label="rss feed"
-        title="RSS Feed"
-      >
-        <IconRss
-          width={20}
-          height={20}
-          class="scale-125 stroke-accent stroke-3 rtl:-rotate-90"
-        />
-        <span class="sr-only">RSS Feed</span>
-      </a>
+      <div class="my-4 sm:my-8 flex flex-row items-start gap-4 sm:gap-6">
+        <div class="flex-1">
+          <h1 class="text-4xl font-bold sm:text-5xl">
+            <span class="block">Eph Words</span>
+            <span class="block text-2xl font-normal text-gray-600 sm:text-3xl">
+              by Eph Baum
+            </span>
+            <span class="block text-lg font-mono text-gray-500 sm:text-xl">
+              <em>n.</em> /ɛf/ /baʊ̯m/
+            </span>
+          </h1>
+          <div class="mt-2">
+            <a
+              target="_blank"
+              href="/rss.xml"
+              class="inline-flex items-center gap-1 text-sm text-gray-600 hover:text-accent transition-colors"
+              aria-label="Subscribe to RSS feed"
+              title="RSS Feed"
+            >
+              <IconRss
+                width={16}
+                height={16}
+                class="stroke-current stroke-2"
+              />
+              <span>RSS</span>
+            </a>
+          </div>
+        </div>
+        <div class="flex justify-end">
+          <img
+            src="/ephbaum_avatar_400_400.png"
+            alt="Eph Baum avatar"
+            class="w-20 h-20 sm:w-32 sm:h-32 rounded-full object-cover shadow-lg"
+          />
+        </div>
+      </div>
+      </div>
 
       <p class="mb-4">
         This blog is where I post words. I'm Eph. I write words. Eph Words.
