@@ -23,14 +23,14 @@ const recentPosts = sortedPosts; // Show all recent posts, including featured on
   <Header />
   <main id="main-content" data-layout="index">
     <section id="hero" class="pt-8 pb-6">
-      <div class="my-4 sm:my-8 flex flex-row items-start gap-4 sm:gap-6">
+      <div class="my-4 flex flex-row items-start gap-4 sm:my-8 sm:gap-6">
         <div class="flex-1">
           <h1 class="text-4xl font-bold sm:text-5xl">
             <span class="block">Eph Words</span>
             <span class="block text-2xl font-normal text-gray-600 sm:text-3xl">
               by Eph Baum
             </span>
-            <span class="block text-lg font-mono text-gray-500 sm:text-xl">
+            <span class="block font-mono text-lg text-gray-500 sm:text-xl">
               <em>n.</em> /ɛf/ /baʊ̯m/
             </span>
           </h1>
@@ -38,15 +38,11 @@ const recentPosts = sortedPosts; // Show all recent posts, including featured on
             <a
               target="_blank"
               href="/rss.xml"
-              class="inline-flex items-center gap-1 text-sm text-gray-600 hover:text-accent transition-colors"
+              class="inline-flex items-center gap-1 text-sm text-gray-600 transition-colors hover:text-accent"
               aria-label="Subscribe to RSS feed"
               title="RSS Feed"
             >
-              <IconRss
-                width={16}
-                height={16}
-                class="stroke-current stroke-2"
-              />
+              <IconRss width={16} height={16} class="stroke-current stroke-2" />
               <span>RSS</span>
             </a>
           </div>
@@ -55,10 +51,9 @@ const recentPosts = sortedPosts; // Show all recent posts, including featured on
           <img
             src="/ephbaum_avatar_400_400.png"
             alt="Eph Baum avatar"
-            class="w-20 h-20 sm:w-32 sm:h-32 rounded-full object-cover shadow-lg"
+            class="h-20 w-20 rounded-full object-cover shadow-lg sm:h-32 sm:w-32"
           />
         </div>
-      </div>
       </div>
 
       <p class="mb-4">
