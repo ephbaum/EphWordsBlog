@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://ephwords.com/",
   desc: "Eph Baum's personal blog from the PNW. Sharing thoughts on life, technology, local history, and the Pacific Northwest. A creator, engineer, father, friend, and curious human exploring the world.",
   title: "eph words dot com",
-  ogImage: "ephbaum_800_400.png",
+  ogImage: "ephbaum_avatar_800_400.png",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 20,
