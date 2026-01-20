@@ -187,10 +187,44 @@ pnpm run dev
 - `pnpm run format:check` - Check code formatting
 - `pnpm run lint` - Run ESLint for code quality
 - `pnpm run sync` - Generate TypeScript types for Astro modules
+- `pnpm new:post` - Interactive blog post scaffold (prompts for title/date, uses current Pacific time, creates post + assets folders)
+
+#### Scaffolding a new blog post
+
+Run:
+
+```bash
+pnpm new:post
+```
+
+Non-interactive usage (for scripts/workflows):
+
+```bash
+pnpm new:post -- --title "A New Hope" --date 2026-01-19
+```
+
+It will prompt for:
+
+- **Title** (optional; defaults to `untitled`)
+- **Date** in `YYYY-MM-DD` (defaults to **today** in `America/Los_Angeles`)
+
+It will then:
+
+- **Use the current time-of-day** in `America/Los_Angeles` and write `pubDatetime` as a UTC ISO timestamp
+- **Create these folders if missing**:
+  - `src/data/blog/YYYY/MM/`
+  - `src/assets/images/YYYY/MM/`
+- **Create a new markdown file**:
+  - `src/data/blog/YYYY/MM/YYYY-MM-DD-<kebab-title>.md`
+
+Notes:
+
+- The scaffolded post defaults to `draft: true` and `featured: false`.
+- It won’t overwrite an existing post file; if there’s a conflict it will exit with an error.
 
 #### Development Workflow
 
-1. **Content Creation** - Add new blog posts in `src/data/blog/`
+1. **Content Creation** - Add new blog posts in `src/data/blog/` (or scaffold with `pnpm new:post`)
 2. **Component Development** - Create reusable components in `src/components/`
 3. **Styling** - Use Tailwind classes and custom CSS variables
 4. **Testing** - Preview changes with `pnpm run dev`
