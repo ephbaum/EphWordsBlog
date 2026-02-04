@@ -3,7 +3,7 @@ title: Forgive Me, Readers, for I Have Sinned
 postSlug: 2025-10-25-forgive-me-readers-for-i-have-sinned
 pubDatetime: 2025-10-25T12:00:00.000Z
 ogImage: ../../../../assets/images/2025/10/golden-hour-forest.png
-featured: true
+featured: false
 draft: false
 tags:
   - personal

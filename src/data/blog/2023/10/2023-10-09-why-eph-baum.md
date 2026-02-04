@@ -2,7 +2,7 @@
 title: Why Eph Baum?
 postSlug: why-eph-baum
 pubDatetime: 2023-10-09T20:46:00.000Z
-featured: true
+featured: false
 draft: false
 tags:
   - personal-story

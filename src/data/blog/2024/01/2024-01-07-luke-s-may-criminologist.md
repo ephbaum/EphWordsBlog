@@ -3,7 +3,7 @@ title: Luke S. May, Criminologist
 postSlug: luke-s-may-criminologist
 pubDatetime: 2024-01-07T20:16:52.000Z
 ogImage: ../../../../assets/images/2024/01/luke-s-may.jpg
-featured: true
+featured: false
 draft: false
 tags:
   - luke-s-may

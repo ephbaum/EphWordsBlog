@@ -3,7 +3,7 @@ title: Hiking Meditation
 postSlug: hiking-meditation
 pubDatetime: 2023-10-26T03:52:24.000Z
 ogImage: ../../../../assets/images/2023/10/hiking-meditation-lotus-on-the-trail-c.webp
-featured: true
+featured: false
 draft: false
 tags:
   - hiking
