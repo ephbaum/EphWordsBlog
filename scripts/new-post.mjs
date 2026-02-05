@@ -132,7 +132,7 @@ function buildPostTemplate({ title, pubDatetimeIsoUtc, year, month }) {
     `featured: false\n` +
     `draft: true\n` +
     `tags: []\n` +
-    `description: TODO: One-sentence description for previews/SEO.\n` +
+    `description: "TODO - One-sentence description for previews/SEO."\n` +
     `---\n\n` +
     `> Optional: if you want a custom Open Graph image, add an \`ogImage\` to the frontmatter above, e.g.:\n` +
     `> \`ogImage: ${ogImageFrontmatterExample}\`\n` +
