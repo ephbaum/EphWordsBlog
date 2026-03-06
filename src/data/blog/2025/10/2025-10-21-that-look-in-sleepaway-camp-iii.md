@@ -3,7 +3,7 @@ title: That Look in Sleepaway Camp III
 postSlug: 2025-10-21-that-look-in-sleepaway-camp-iii
 pubDatetime: 2025-10-21T21:15:00.000Z
 ogImage: ../../../../assets/images/2025/10/sleepaway-camp-iii-the-look-square-frame-500.png
-featured: true
+featured: false
 draft: false
 tags:
   - horror
